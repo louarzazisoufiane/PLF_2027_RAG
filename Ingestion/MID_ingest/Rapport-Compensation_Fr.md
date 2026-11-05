@@ -1,0 +1,1478 @@
+Royaume du Maroc Ministère de l’Economie, des Finances et de la Performance Publique 
+
+Projet de Loi de Finances pour l’année budgétaire 2027 
+
+# RAPPORT SUR LA COMPENSATION 
+
+RAPPORT SUR LA COMPENSATION 
+
+Sommaire 
+
+|Introduction : ................................................................................................................................................................................... 1<br>**CHAPITRE I : EVOLUTION DU MARCHE INTERNATIONAL DES PRODUITS**<br>|
+|---|
+|**SUBVENTIONNES**..................................................................................................................................................... 4|
+|**I.1. Marché pétrolier**........................................................................................................................................................... 4<br>|
+|**_I.1.1 Commerce international du pétrole_**_................................................................................................................................ 4_<br>|
+|**_I.1.1.1 Demande mondiale de pétrole_**_........................................................................................................................................ 4_|
+|**_I.1.1.2 Offre mondiale de pétrole_**_.................................................................................................................................................... 5_|
+|**_I.1.1.3 Echanges mondiaux de pétrole_**_...................................................................................................................................... 7_|
+|**_I.1.2. Evolution des cours mondiaux des produits pétroliers_**_................................................................................... 9_<br>|
+|**_I.1.2.1 Evolution des cours du pétrole brut_**_............................................................................................................................. 9_<br>|
+|**_I.1.2.2. Evolution des cours des produits pétroliers liquides_**_..................................................................................... 11_|
+|**I.2. Marché du Gaz de Pétrole Liquéfié (GPL)**...................................................................................................... 14|
+|**_I.2.1. Commerce international du GPL_**_................................................................................................................................... 14_|
+|**_I.2.1.1. Demande mondiale du GPL_**_............................................................................................................................................ 14_|
+|**_I.2.1.2. Offre mondiale de GPL_**_............................................................................................................................................................. 17_<br>|
+|**_I.2.1.3. Echanges mondiaux de GPL_**_.......................................................................................................................................... 19_|
+|**_I.2.2. Evolution des cours mondiaux du gazbutane_**_............................................................................................................ 23_|
+|**I.3. Marché sucrier**............................................................................................................................................................ 29|
+|**_I.3.1. Commerce international du sucre_**_................................................................................................................................ 29_|
+|**_I.3.1.1. Production et consommation mondiales du sucre_**_....................................................................................... 29_|
+|**_I.3.1.2. Echanges mondiaux de sucre_**_....................................................................................................................................... 31_|
+|**_I.3.2. Evolution des cours mondiaux du sucre brut_**_...................................................................................................... 32_|
+|**I.4. Marché céréalier**........................................................................................................................................................ 33|
+|**_I.4.1. Commerce international des céréales_**_......................................................................................................................34_|
+|**_I.4.1.1. Production et consommation mondiales des céréales_**_.............................................................................34_<br>|
+|**_I.4.1.2. Stocks et échanges mondiaux des céréales_**_..................................................................................................... 35_|
+|**_I.4.2. Evolution des cours mondiaux du blé tendre_**_..................................................................................................... 36_|
+|**CHAPITRE II : EVOLUTION DE LA CHARGE DU SOUTIEN DES PRIX DES PRODUITS**|
+|**SUBVENTIONNES**.................................................................................................................................................. 38|
+|**II.1. Soutien du prix du gaz butane**............................................................................................................................ 38<br>|
+|**_II.1.1. Evolution des subventions unitaires du gaz butane_**_...................................................................................... 38_|
+|**_II.1.2._** **_Importation et consommation nationales du gaz butane_**_...................................................................... 39_<br>|
+|**_II.1.3. Situation de la charge de compensation du gaz butane_**_......................................................................... 44_<br>|
+|**II.2. Soutien du prix du sucre**....................................................................................................................................... 44|
+|**_II.2.1. Consommation et production nationales du sucre blanc_**_.........................................................................45_<br>|
+|**_II.2.2. Importation du sucre brut_**_............................................................................................................................................... 47_|
+|**_II.2.3. Situation de la charge de compensation du sucre_**_....................................................................................... 48_|
+|**II.3. Soutien du prix du blé tendre et de la farine nationale du blé tendre**............................................... 49|
+|**_II.3.1. Production et collecte nationales des céréales_**_................................................................................................ 49_|
+|**_II.3.2. Importation des céréales_**_.................................................................................................................................................. 52_|
+|**_II.3.3. Ecrasements de la minoterie industrielle_**_.............................................................................................................54_|
+|**_II.3.4. Situation de la charge de compensation du blé tendre et de la farine nationale de blé_**|
+|<br>**_tendre_**_............................................................................................................................................................................................... 55_|
+|**II.4. Mesures déployées pour le soutien du pouvoir d’achat des citoyens au titre de l’année 2026**<br>........................................................................................................................................................................................ 56|
+|<br>**_II.4.1. Poursuite du soutien des prix à la consommation des produits subventionnés_**_..................... 56_|
+|**_II.4.2. Poursuite des systèmes de restitution à l’importation du sucre brut et du blé tendre_**_...... 56_|
+|**_II.4.3. Soutien de transport routier_**_........................................................................................................................................... 57_|
+|<br>**II.5. Crédits programmés au titre du Projet de Loi de Finances 2027**......................................................... 57|
+
+
+
+**RAPPORT SUR LA COMPENSATION** 
+
+### **Introduction :** 
+
+L’année 2026 s’est inscrite dans un environnement international particulièrement tendu, marqué par la persistance des incertitudes géopolitiques, notamment au Moyen-Orient, ainsi que par des perturbations affectant les principaux corridors d’approvisionnement énergétique. Les tensions autour du détroit d’Ormuz, voie stratégique pour le transit d’une part importante des hydrocarbures échangés à l’échelle mondiale, ont renforcé les risques pesant sur la sécurité des approvisionnements et contribué à l’augmentation des coûts de transport et d’assurance. Ces évolutions se sont traduites par une forte volatilité des marchés énergétiques et des pressions accrues sur les cours internationaux des produits pétroliers. 
+
+Dans ce contexte, les cours internationaux des produits énergétiques ont connu une orientation globalement haussière au titre de la période janvier-août 2026. Le cours moyen du Brent s’est établi à près de 91 $/bbl, contre 71 $/bbl durant la même période de l’année précédente, soit une hausse de 27,2 %. Les cours ont évolué dans une fourchette particulièrement large, comprise entre 60 et 120 $/bbl, traduisant l’ampleur de la volatilité ayant caractérisé le marché pétrolier au cours de cette période. 
+
+Cette évolution a également concerné les autres produits énergétiques. Le cours du butane calculé selon la formule marocaine s’est établi en moyenne à 611 $/T durant les huit premiers mois de 2026, contre 536 $/T un an auparavant, soit une progression de près de 14 %. Il a fluctué entre un minimum de 489 $/T et un maximum de 856 $/T. De même, les cours moyens du gasoil et du super ont atteint respectivement 1 075 $/T et 981 $/T, enregistrant des hausses respectives de 55,6 % et 33,5 % par rapport à la même période de l’année précédente. 
+
+S’agissant des marchés internationaux de certains produits alimentaires, ceux-ci ont fait preuve d’une relative résilience, avec des évolutions globalement plus modérées, voire favorables. Le cours moyen du blé tendre français s’est établi à près de 241 $/T, contre 238 $/T un an auparavant, soit une progression limitée de 1,3 %. À l’inverse, le cours du sucre brut a enregistré un repli marqué, s’établissant en moyenne à 352 $/T, contre 421 $/T au cours de la même période de l’année précédente, soit une baisse de 16,4 %. 
+
+Afin d’atténuer les effets de cette conjoncture internationale sur l’économie nationale, le Gouvernement a poursuivi et renforcé les mesures visant à préserver le pouvoir d’achat des citoyens, à garantir un approvisionnement régulier du marché national et à limiter la transmission des tensions sur les prix internationaux aux ménages et aux entreprises. Dans ce cadre, une commission ministérielle a été instituée pour assurer un suivi régulier des répercussions de la situation internationale sur l’économie nationale, coordonner les réponses des différents départements concernés et veiller à la continuité des chaînes d’approvisionnement et au bon fonctionnement des marchés. 
+
+Des mesures complémentaires ont également été engagées afin de sécuriser l’approvisionnement du marché national en produits énergétiques, notamment à travers l’anticipation de la couverture des besoins en produits pétroliers, la diversification des sources d’approvisionnement et l’optimisation des conditions d’achat. En parallèle, des ressources budgétaires additionnelles ont été mobilisées pour atténuer l’impact de la hausse des cours internationaux des matières premières, en particulier pour faire face à l’augmentation de la charge de compensation du gaz butane et réactiver le soutien accordé au secteur du transport routier. 
+
+Sur le plan budgétaire, des crédits supplémentaires à hauteur de 8 milliards de dirhams ont été ouverts au titre du soutien des prix, portant le montant total des crédits ouverts pour la 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+compensation à 21,77 milliards de dirhams. Parallèlement, les actions de contrôle des prix et de lutte contre la spéculation ont été renforcées afin de contribuer au fonctionnement régulier des marchés et à la disponibilité des produits. 
+
+Sur le plan national, l’amélioration des conditions climatiques ayant marqué la campagne agricole 2025/2026, portée notamment par des précipitations plus abondantes et mieux réparties dans le temps et dans l’espace, a favorisé le redressement de la production nationale de sucre ainsi qu’une amélioration de la récolte céréalière, en particulier du blé tendre. Cette évolution a contribué à limiter le recours aux mécanismes de soutien à l’importation, tout en maintenant les dispositifs nécessaires à la sécurisation de l’approvisionnement du marché national et à la maîtrise des prix à la consommation. 
+
+Concernant le gaz butane, la hausse des cours internationaux s’est traduite par une progression du soutien budgétaire. La subvention moyenne accordée par l’État à la bonbonne de gaz butane de 12 kg s’est établie à 61,79 dirhams au titre de la période janvieraoût 2026, contre 53,47 dirhams durant la même période de l’année précédente, soit une hausse d’environ 15,6 %. Ainsi, la charge prévisionnelle de compensation de soutien des prix du gaz butane pourrait atteindre un montant de 9 milliards de dirhams au titre de cette période, contre 8,6 milliards un an auparavant, soit une progression de près de 5 %. 
+
+S’agissant du sucre brut, son cours a enregistré une baisse notable permettant de générer une restitution prévisionnelle à l’importation en faveur de l’Etat d’un montant estimé à 0,7 milliard de dirhams au titre de la période janvier-août 2026 contre une charge de 0,3 milliard de dirhams au titre de la même période de l’année précédente. 
+
+Aussi, sur la base d’une subvention forfaitaire maintenue à 3,67 dirhams par kilogramme, la charge de soutien à la consommation du sucre raffiné pourrait s’élever à 2,7 milliards de dirhams durant les huit premiers mois de 2026, en baisse de 10,8 % en glissement annuel. En conséquence, la charge globale nette relative au soutien du sucre raffiné et du sucre brut pourrait s’établir à 2 milliards de dirhams, contre 3,3 milliards de dirhams durant la même période de l’année précédente, soit un recul de près de 39 %. 
+
+Pour le blé tendre, le recul des cours internationaux observé sur la période janvier-août 2026 a permis de maintenir le prix de revient à l’importation en deçà du prix cible fixé à 270 dirhams le quintal. Cette évolution n’a ainsi pas nécessité le recours au mécanisme de restitution à l’importation durant cette période. 
+
+Concernant la farine nationale de blé tendre, le soutien accordé pourrait s’élever à près de 0,8 milliard de dirhams durant la période janvier-août 2026, contre 0,7 milliard de dirhams durant la même période de l’année précédente. Ce montant comprend notamment les dépenses liées aux actions de valorisation de la production nationale de blé tendre, dont la prise en charge des frais de stockage et de magasinage. La charge globale relative au soutien du blé tendre importé et de la farine nationale de blé tendre s’est ainsi établie à 0,8 milliard de dirhams, en recul de 16,8 % par rapport à la même période de l’année précédente. 
+
+Par ailleurs, face à la forte hausse des prix à la pompe du gasoil enregistré en 2026, le Gouvernement a réactivé le dispositif de soutien exceptionnel destiné aux professionnels du transport routier. Cette mesure vise à atténuer l’impact du renchérissement des carburants sur leurs charges d’exploitation et à limiter sa répercussion sur les tarifs de transport. Au titre de la période janvier-septembre 2026, le montant global du soutien mobilisé en faveur du secteur s’est établi à 2,488 milliards de dirhams. 
+
+2 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+Le Gouvernement a également poursuivi le soutien des prix à la consommation de certains produits alimentaires au profit des populations des provinces du Sud, pour un montant de 64 millions de dirhams au titre des huit premiers mois de 2026. 
+
+Par ailleurs, l’Etat continuerait de soutenir les prix du gaz butane, du sucre et de la farine nationale du blé tendre, à travers la programmation d’une enveloppe de 19,4 milliards de dirhams au titre du projet de la loi de finances 2027. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+## **CHAPITRE I : EVOLUTION DU MARCHE INTERNATIONAL DES PRODUITS SUBVENTIONNES** 
+
+### **I.1. Marché pétrolier** 
+
+En 2026, le marché pétrolier mondial demeure marqué par de fortes tensions et une volatilité élevée, dans un contexte de persistance du conflit au Moyen-Orient et de perturbations importantes des flux énergétiques transitant par le détroit d’Ormuz. Ces contraintes ont entraîné une contraction significative de l’offre mondiale, particulièrement au niveau des producteurs du Golfe, ainsi qu’une forte hausse des coûts de transport et d’assurance. Parallèlement, la demande mondiale s’est affaiblie sous l’effet du renchérissement des produits pétroliers, des difficultés d’approvisionnement et du ralentissement de la consommation dans plusieurs régions, notamment en Asie. 
+
+De ce fait, L’AIE prévoit ainsi désormais un recul de la demande mondiale de pétrole de l’ordre de 1,69 millions de barils par jour en 2026, tandis que l’offre mondiale devrait diminuer d’environ 4,2 millions de barils par jour, le rétablissement complet de la production du Moyen-Orient étant désormais reporté à 2027. 
+
+Dans ce contexte, les stocks pétroliers mondiaux restent soumis à de fortes tensions. Après d’importants prélèvements enregistrés depuis le déclenchement du conflit, les stocks observés ont diminué de plus de 500 millions de barils entre février et août 2026, reflétant l’insuffisance persistante de l’offre disponible sur le marché. Les échanges pétroliers internationaux connaissent, en parallèle, une profonde reconfiguration : les flux transitant par le détroit d’Ormuz demeurent fortement contraints, tandis que les producteurs des Amériques contribuent davantage à l’approvisionnement mondial et que les flux sont progressivement réorientés vers les ressources du bassin Atlantique. 
+
+Dans ces conditions, les perspectives du marché pétrolier restent étroitement dépendantes de l’évolution de la situation géopolitique au Moyen-Orient, de la sécurisation des principales voies maritimes et du rythme de rétablissement des capacités de production et d’exportation de la région. 
+
+##### **_I.1.1 Commerce international du pétrole_** 
+
+##### **_I.1.1.1 Demande mondiale de pétrole_** 
+
+La consommation mondiale de pétrole et autres combustibles liquides devrait s’établir à environ 102,59 millions de barils par jour (mb/j) en 2026, contre 104,27 mb/j en 2025, soit une diminution de l’ordre de 1,69 mb/j. Cette contraction marque un retournement par rapport à la progression enregistrée l’année précédente. Elle intervient dans un environnement caractérisé par les perturbations des approvisionnements du Moyen-Orient et le maintien des cours pétroliers à des niveaux élevés. Les interruptions de production et les contraintes affectant les principales routes d’exportation réduisent les disponibilités sur le marché international. La consommation mondiale évoluerait ainsi dans des conditions moins favorables, tandis que les perspectives de redressement demeurent tributaires de la reprise des flux pétroliers. 
+
+4 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+Dans les pays de l’OCDE, la consommation devrait atteindre environ 45,69 mb/j en 2026, contre 46,20 mb/j en 2025, soit près de 45 % de la demande mondiale. Les évolutions seraient toutefois différenciées entre les principales économies. Aux États-Unis, la demande serait presque stable à 20,58 mb/j, tandis que la consommation de l’ensemble de l’Europe reviendrait à 14,16 mb/j. Le recul demeurerait donc inégal selon les économies. 
+
+Dans les pays non membres de l’OCDE, la consommation devrait atteindre environ 56,90 mb/j en 2026, contre 58,08 mb/j en 2025, représentant toujours plus de la moitié de la demande mondiale. En Chine, elle se situerait autour de 16,08 mb/j, tandis qu’elle atteindrait 5,62 mb/j en Inde. Ces évolutions traduiraient un recul plus prononcé en Chine et une diminution limitée en Inde, malgré le poids de ces deux économies dans la consommation mondiale. 
+
+Au premier trimestre 2026, la consommation mondiale est estimée à 102,99 mb/j. Elle aurait ensuite diminué à 100,27 mb/j au deuxième trimestre, soit une baisse de près de 2,72 mb/j par rapport au trimestre précédent. Cette évolution intervient dans un contexte de fortes perturbations des approvisionnements. Parallèlement, les stocks mondiaux auraient diminué de 3,9 mb/j au deuxième trimestre, traduisant la persistance d’un déséquilibre entre les disponibilités et les besoins de consommation. 
+
+Au troisième trimestre 2026, la consommation mondiale devrait se redresser à environ 103,23 mb/j, puis atteindre 103,86 mb/j au quatrième trimestre. Cette reprise resterait toutefois confrontée à un environnement marqué par les restrictions des exportations du Moyen-Orient et par la poursuite des prélèvements sur les stocks. L’EIA prévoit que les flux pétroliers demeureraient contraints jusqu’à la fin de l’année, malgré une adaptation potentielle des circuits d’acheminement. Le redressement attendu au second semestre resterait ainsi fragile et dépendrait de l’évolution des tensions géopolitiques ainsi que du rétablissement des approvisionnements. 
+
+##### **_I.1.1.2 Offre mondiale de pétrole_** 
+
+La production mondiale de pétrole brut devrait s’établir à environ 74,78 millions de barils par jour (mb/j) en 2026, contre 78,99 mb/j en 2025, soit une diminution de 4,21 mb/j, selon les prévisions de l’EIA publiées en septembre 2026. Cette contraction serait principalement concentrée dans les pays membres de l’OPEP, dont la production reviendrait à 19,92 mb/j, après 24,63 mb/j l’année précédente. La production des autres pays participants aux accords de l’OPEP+ diminuerait plus légèrement, passant de 14,29 à 14,12 mb/j. Cette évolution traduit les difficultés rencontrées par plusieurs producteurs du Moyen-Orient, dans un contexte de perturbations des exportations et d’interruptions de production. 
+
+Pour l’ensemble des combustibles liquides, qui comprend le pétrole brut mais également les condensats, les liquides de gaz naturel et les autres liquides, l’EIA prévoit une production mondiale de 100,62 mb/j en 2026, contre 106,22 mb/j en 2025, soit une diminution d’environ 5,62 mb/j. La production des pays de l’OPEP devrait s’établir à 23,59 mb/j, contre 29,33 mb/j l’année précédente, tandis que celle des producteurs hors OPEP serait presque stable, autour de 77,03 mb/j, après 76,91 mb/j. Le maintien de l’offre hors OPEP ne suffirait donc pas à compenser les pertes enregistrées dans les pays membres de l’organisation. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+
+
+<!-- Start of picture text -->
+Evolution de l'offre et la demande mondiales du pétrole en Mbbl/j<br>106,22<br>104,27<br>103,69<br>102,99<br>100,27<br>96,41<br>2025 T1-2026 T2-2026<br>Demande Offre<br><!-- End of picture text -->
+
+Source : EIA 
+
+Cette contraction de l’offre s’accompagnerait d’un déficit du marché sur l’ensemble de l’année. Selon les prévisions de l’EIA, la production mondiale de liquides pétroliers atteindrait 100,62 mb/j en 2026, alors que la consommation s’établirait à 102,59 mb/j. L’écart entre les deux agrégats ferait ainsi ressortir un déficit moyen d’environ 1,97 mb/j, impliquant une diminution nette des stocks mondiaux. Les prélèvements auraient atteint 3,9 mb/j au deuxième trimestre et devraient se poursuivre à hauteur de 3,0 mb/j au troisième trimestre, puis de 1,7 mb/j au quatrième trimestre. Cette mobilisation des réserves contribuerait à couvrir les besoins d’approvisionnement, tout en maintenant une pression sur les cours du brut. 
+
+La mobilisation des réserves a notamment concerné les grands pays consommateurs. Selon les estimations publiées par l’EIA en août 2026, les stocks stratégiques chinois se seraient établis à environ 1,492 milliard de barils au deuxième trimestre, contre 1,541 milliard au premier trimestre. Au Japon, ils auraient diminué de 263 à 187 millions de barils sur la même période. Aux États-Unis, les données actualisées de septembre situent la réserve stratégique à 322,2 millions de barils à la fin du deuxième trimestre, contre 414,8 millions trois mois auparavant. Ces évolutions font apparaître des prélèvements importants dans les réserves constituées, parallèlement aux tensions affectant les disponibilités sur le marché international. 
+
+Aux États-Unis, la production de pétrole brut devrait poursuivre sa progression pour atteindre une moyenne de 13,83 mb/j en 2026, contre 13,66 mb/j en 2025, soit une augmentation d’environ 170 000 b/j. Cette évolution serait notamment soutenue par le bassin permien, dont la production passerait de 6,57 à 6,76 mb/j. La production offshore du Golfe et celle de l’Alaska contribueraient également à cette progression, malgré le recul attendu dans certaines autres régions. Les 48 États continentaux hors production offshore du Golfe représenteraient environ 11,38 mb/j, soit près de 82 % de la production américaine de brut. L’offre américaine conserverait ainsi une orientation favorable dans un environnement mondial marqué par la contraction de la production. 
+
+
+
+<!-- Start of picture text -->
+6<br><!-- End of picture text -->
+
+**RAPPORT SUR LA COMPENSATION** 
+
+
+
+<!-- Start of picture text -->
+Evolution trimestrielle de la production américaine du pétrole en Mbbl/j<br>13,91<br>13,82  13,84<br>13,58  13,58<br>13,32<br>T1-25 T2-25 T3-25 T4-25 T1-26 T2-26<br><!-- End of picture text -->
+
+Source : EIA 
+
+Au total, l’année 2026 serait marquée par une diminution sensible de l’offre pétrolière mondiale, principalement liée aux perturbations affectant les producteurs du Moyen-Orient. La progression de la production américaine et la stabilité globale de l’offre hors OPEP ne permettraient pas de compenser les volumes interrompus. La baisse de la production étant plus importante que celle de la consommation, l’équilibre du marché se déplacerait vers un déficit et une mobilisation des stocks. Le redressement attendu de l’offre resterait toutefois dépendant du rétablissement des flux d’exportation et de la remise en service des capacités de production interrompues. 
+
+##### **_I.1.1.3 Echanges mondiaux de pétrole_** 
+
+Les échanges mondiaux de pétrole demeurent fortement perturbés en 2026, dans un contexte marqué par la recomposition des routes d’approvisionnement. Selon les estimations de l’EIA, les flux de pétrole brut et de produits pétroliers transitant par le détroit d’Ormuz se sont établis à environ 4,9 millions de barils par jour (mb/j) au deuxième trimestre 2026, contre 14,9 mb/j au premier trimestre et 21,6 mb/j au quatrième trimestre 2025. Cette contraction s’accompagne d’une réorientation des circuits maritimes, les volumes empruntant Bab el-Mandeb ayant atteint 8,1 mb/j au deuxième trimestre, contre 5,4 mb/j à la fin de 2025. 
+
+
+
+<!-- Start of picture text -->
+Evolution des exportations des<br>principaux fournisseurs mondiaux du<br>pétrole brut en kb/j<br>6432<br>6049<br>4524  4538<br>4093  3987<br>Etats-Unis Arabie Saoudite Russie<br>2024 2025<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Evolution des importations des<br>principaux clients mondiaux du pétrole<br>brut en kb/j<br>11612<br>11068<br>6588<br>6169<br>4795  4986<br>Chine Etats-Unis Inde<br>2024 2025<br><!-- End of picture text -->
+
+Source : EIA 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+Les pays membres de l’OPEP riverains du Golfe sont particulièrement concernés par les restrictions affectant cette route d’exportation. Pour l’ensemble des cargaisons transitant par Ormuz, l’EIA estime les flux de pétrole brut et de condensats à 3,7 mb/j au deuxième trimestre 2026, contre 15,9 mb/j au quatrième trimestre 2025. Les flux de produits pétroliers seraient passés de 5,7 à 1,1 mb/j sur la même période. Ces données illustrent l’ampleur des perturbations touchant simultanément les échanges de brut et de produits raffinés, sans constituer un total des exportations de l’OPEP. 
+
+Aux États-Unis, les exportations de pétrole brut se sont redressées à environ 3,9 mb/j en août 2026, après deux mois de fortes diminutions, selon l’OPEP. Les exportations de produits pétroliers ont parallèlement atteint un niveau record de 8,0 mb/j. Cette progression a notamment concerné les livraisons de propane et de propylène vers l’Asie, ainsi que celles de distillats vers l’Europe et le Maroc. Les évolutions américaines restent ainsi différenciées entre le brut et les produits pétroliers. 
+
+Les exportations pétrolières de l’Arabie Saoudite ont été affectées par les perturbations des routes maritimes durant l’été 2026. Selon les données reprises par l’EIA, les volumes exportés au départ du port de Yanbu ont diminué de près de moitié en août par rapport à juillet. Les attaques affectant la circulation par Bab el-Mandeb ont ainsi réduit les possibilités d’acheminement par la mer Rouge. L’Arabie Saoudite a renforcé ses expéditions par le canal de Suez, une route plus longue et plus coûteuse pour les clients asiatiques. Cette réorientation demeure toutefois insuffisante pour lever l’ensemble des contraintes pesant sur les exportations. 
+
+Concernant la Russie, les échanges de produits pétroliers sont affectés par les perturbations de l’activité de raffinage. Dans ses perspectives de septembre 2026, l’EIA souligne que la diminution des disponibilités de distillats provenant de Russie contribue aux tensions du marché international. Elle prévoit que les interruptions des raffineries russes continueront de peser sur ce marché jusqu’au premier semestre 2027. Ces difficultés s’ajoutent à la réorientation antérieure des exportations de brut vers les marchés asiatiques. L’analyse publiée par l’EIA en août 2025 avait notamment mis en évidence le rôle croissant de la Chine et de l’Inde dans l’absorption des cargaisons russes, parallèlement au recul des débouchés européens. 
+
+Du côté des importateurs, la Chine a enregistré une reprise de ses achats de pétrole brut durant l’été. Selon l’OPEP, les importations ont atteint environ 8,4 mb/j en juillet 2026, tandis que les données douanières préliminaires indiquent 8,95 mb/j en août. Ce redressement s’est accompagné d’une reprise des activités de raffinage. Les importations de produits pétroliers ont également augmenté à 2,0 mb/j en juillet, sous l’effet des livraisons de GPL et de naphta. L’évolution des achats chinois traduit ainsi une amélioration des approvisionnements après les perturbations du printemps. 
+
+Au total, les données disponibles pour 2026 font apparaître une forte recomposition des échanges pétroliers, sous l’effet des contraintes affectant les exportations du Moyen-Orient. Le recours aux itinéraires de contournement permet de maintenir une partie des flux, sans rétablir des conditions normales d’acheminement. Selon les perspectives de l’EIA de septembre, certaines restrictions devraient persister jusqu’à la fin de l’année, tandis que le 
+
+8 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+retour de la majorité des flux de production et d’échanges à leurs niveaux antérieurs au conflit serait attendu au deuxième trimestre 2027. Cette évolution reste conditionnée par la sécurité des routes maritimes et le rétablissement des capacités d’exportation. 
+
+##### **_I.1.2. Evolution des cours mondiaux des produits pétroliers_** 
+
+##### **_I.1.2.1 Evolution des cours du pétrole brut_** 
+
+En 2025, le cours du Brent s’est inscrit dans une tendance globalement baissière. Sa moyenne annuelle s’est établie à 69,14 $/bbl, contre 80,52 $/bbl en 2024, soit un recul d’environ 14 %. Cette évolution traduit principalement un marché mondial caractérisé par une offre de pétrole supérieure à la demande. Sur une base mensuelle, le Brent est passé de 79,27 $/bbl en janvier à 62,54 $/bbl en décembre, son niveau mensuel le plus faible depuis le début de l’année 2021. La baisse des prix a néanmoins été ponctuellement limitée par la constitution de stocks en Chine et par plusieurs épisodes de tensions géopolitiques. 
+
+
+
+<!-- Start of picture text -->
+Evolution des moyennes trimestrielles du cours du Brent en $/bbl<br>75,81<br>68,96<br>68,00<br>63,62<br>T1-2025 T2-2025 T3-2025 T4-2025<br><!-- End of picture text -->
+
+Source : EIA 
+
+Au cours des cinq premiers mois de 2025, la tendance baissière a été particulièrement marquée. Le Brent est passé de 79,27 $/bbl en janvier à 75,44 $/bbl en février, 72,73 $/bbl en mars, 68,13 $/bbl en avril puis 64,45 $/bbl en mai. Selon l’EIA, cette évolution résulte notamment du ralentissement de l’activité économique et des inquiétudes concernant les perspectives de la demande mondiale. Les tensions commerciales et l’escalade des mesures tarifaires entre plusieurs grandes économies ont renforcé les anticipations d’un ralentissement de la croissance et de la consommation pétrolière, accentuant la pression baissière sur les cours au printemps. 
+
+Une remontée temporaire est intervenue en juin 2025, lorsque le Brent a atteint une moyenne de 71,44 $/bbl, contre 64,45 $/bbl en mai. Cette hausse s’explique principalement par l’accroissement de la prime de risque géopolitique au Moyen-Orient, notamment après les frappes israéliennes contre l’Iran intervenues le 13 juin. Le mouvement ne s’est toutefois pas prolongé durablement puisque le Brent s’est établi à 71,04 $/bbl en juillet, avant de reprendre sa tendance baissière. D’autres tensions, notamment les attaques touchant les infrastructures pétrolières dans le cadre du conflit entre la Russie et l’Ukraine, ont également soutenu ponctuellement les prix sans inverser la tendance fondamentale du marché. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+Au second semestre 2025, les fondamentaux du marché ont de nouveau exercé une pression baissière. Le Brent s’est établi à 67,87 $/bbl en août, 67,99 $/bbl en septembre, 64,54 $/bbl en octobre, 63,80 $/bbl en novembre et 62,54 $/bbl en décembre. L’EIA attribue cette évolution notamment à l’augmentation des objectifs de production de l’OPEP+, qui a renforcé les perspectives d’excédent d’offre. La production mondiale de pétrole brut et de liquides a dépassé la consommation durant toute l’année, avec des accumulations implicites de stocks supérieures à 2,5 mb/j au cours des deux derniers trimestres de 2025, soit parmi les plus importantes observées depuis 2000 hors épisode exceptionnel de 2020. La constitution de stocks de brut en Chine a toutefois absorbé une partie de l’excédent disponible et atténué l’ampleur de la baisse des cours. 
+
+L’année 2026 marque une rupture nette avec la détente observée en 2025. Après des niveaux encore relativement modérés de 66,60 $/bbl en janvier et 70,89 $/bbl en février, le Brent a fortement augmenté à partir de mars, atteignant 103,13 $/bbl en mars, puis une moyenne de 117,29 $/bbl en avril, avant de rester élevée à 107,14 $/bbl en mai. Cette flambée résulte principalement du conflit au Moyen-Orient et de la forte réduction des flux pétroliers transitant par le détroit d’Ormuz, accompagnée d’importantes interruptions de production dans les pays du Golfe. L’assèchement des disponibilités physiques et les importants prélèvements sur les stocks mondiaux ont alors provoqué une forte hausse de la prime de risque incorporée dans les cours du brut. 
+
+À partir de juin 2026, les cours ont toutefois enregistré une nette correction. La moyenne du Brent est revenue à 85,40 $/bbl en juin, puis à 83,76 $/bbl en juillet. Cette détente initiale s’est produite avec les perspectives de reprise progressive des échanges pétroliers après l’accord conclu en juin entre les États-Unis et l’Iran. La volatilité est toutefois restée particulièrement élevée. Le Brent est descendu jusqu’à environ 69 $/bbl le 2 juillet, avant de remonter jusqu’à 105 $/bbl le 23 juillet après de nouvelles attaques contre des pétroliers transitant par le détroit d’Ormuz et des menaces concernant les exportations saoudiennes via Bab el-Mandeb. Selon l’EIA, les flux de pétrole brut et de liquides transitant par Ormuz n’ont représenté que 4,9 mb/j au deuxième trimestre 2026, contre 21,6 mb/j au quatrième trimestre 2025, ce qui explique la sensibilité exceptionnelle des cours aux événements géopolitiques. 
+
+###### **Evolution mensuelle du cours moyen du Brent en 2026 (en $/bbl)** 
+
+
+
+<!-- Start of picture text -->
+117,29<br>107,14<br>103,13<br>91,08<br>85,40  83,76<br>70,89<br>66,60<br>janv-26 févr-26 mars-26 avr-26 mai-26 juin-26 juil-26 aout-26<br><!-- End of picture text -->
+
+Source : EIA 
+
+10 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+Pour le reste de 2026, l’évolution du Brent demeure étroitement dépendante du rythme de normalisation des flux pétroliers du Moyen-Orient. Dans son Short-Term Energy Outlook du 11 août 2026, l’EIA prévoit un cours moyen du Brent d’environ 85 $/bbl au troisième trimestre, puis 78 $/bbl au quatrième trimestre, à mesure que le trafic par le détroit d’Ormuz reprendrait progressivement et que les capacités de production interrompues seraient remises en service. L’EIA estime néanmoins que les stocks mondiaux devraient encore diminuer d’environ 3,8 mb/j au troisième trimestre, maintenant les cours à des niveaux élevés à court terme. Pour l’ensemble de 2026, le Brent est désormais prévu à 91 $/bbl en moyenne, contre 69 $/bbl en 2025. Cette projection reste toutefois entourée d’une incertitude particulièrement élevée compte tenu de l’évolution des tensions géopolitiques et des conditions de circulation dans les principaux détroits pétroliers. 
+
+##### **_I.1.2.2. Evolution des cours des produits pétroliers liquides_** 
+
+En 2026, les marchés des produits pétroliers liquides ont connu une rupture marquée avec la détente observée en 2025. Après un début d’année relativement modéré, les prix et les marges de raffinage se sont fortement tendus à partir de mars, sous l’effet de la perturbation exceptionnelle des approvisionnements du Moyen-Orient et de la forte réduction des flux de pétrole brut et de produits raffinés transitant par le détroit d’Ormuz. La contraction des capacités de raffinage dans le Golfe et les difficultés rencontrées par les raffineries asiatiques pour accéder aux matières premières ont provoqué une raréfaction des produits disponibles sur le marché international. Cette tension a été particulièrement prononcée pour les distillats moyens, mais elle s’est progressivement étendue à l’essence au début de l’été. 
+
+###### ► Evolution du cours du gasoil en 2026 
+
+Au début de l’année 2026, le marché du gasoil s’inscrivait encore dans le prolongement de la détente observée à la fin de 2025. En janvier, l’AIE relevait une baisse sensible de la rentabilité du raffinage en Europe, les marges sur les distillats moyens ayant pratiquement été divisées par deux par rapport aux niveaux élevés enregistrés en novembre 2025. L’augmentation des cadences de raffinage à la fin de l’année précédente et la reconstitution des stocks de produits avaient alors contribué à relâcher les tensions sur les disponibilités. Cette situation a toutefois rapidement changé avec la montée des risques géopolitiques au Moyen-Orient à partir de février. 
+
+La situation du gasoil s’est fortement tendue après le déclenchement du conflit au MoyenOrient à la fin du mois de février. La quasi-interruption des mouvements pétroliers par le détroit d’Ormuz a affecté simultanément le brut et les produits raffinés. Les pays du Golfe avaient exporté environ 3,3 mb/j de produits pétroliers raffinés en 2025, tandis que plusieurs raffineries de la région ont été contraintes de réduire ou d’interrompre leurs activités en raison des attaques, du manque de débouchés maritimes et de la saturation des capacités de stockage. L’AIE a alors identifié le gasoil et le carburéacteur comme les produits les plus vulnérables à une interruption prolongée des exportations moyen-orientales, compte tenu des possibilités relativement limitées d’augmenter rapidement leur production dans les autres régions. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+Cette tension s’est amplifiée en avril et en mai. Les cadences mondiales de raffinage ont fortement diminué et les marges sur les distillats moyens ont atteint des niveaux exceptionnellement élevés. L’AIE indique qu’en avril les marges de raffinage ont temporairement bondi, les cracks des distillats moyens atteignant des records historiques. En mai, les marges sont demeurées à des niveaux historiquement élevés, toujours soutenues par la rareté des distillats. Les traitements mondiaux de brut étaient alors attendus en baisse d’environ 4,5 mb/j au deuxième trimestre 2026, en raison des dommages aux infrastructures, des restrictions aux exportations et de la disponibilité insuffisante du brut pour certaines raffineries. Le marché du gasoil s’est donc distingué du marché du brut par une tension propre liée non seulement au coût de la matière première, mais aussi à la disponibilité limitée des capacités de transformation et des cargaisons de produits finis. 
+
+À partir de juin, la reprise partielle des flux de brut par le détroit d’Ormuz a contribué à détendre les cours du pétrole brut, mais la normalisation a été nettement plus lente sur le marché des produits raffinés. En juin, les exportations de produits raffinés et de GPL en provenance du Golfe sont demeurées inférieures à la moitié de leurs niveaux antérieurs au conflit, alors que les flux de brut avaient déjà retrouvé près des trois quarts de leur rythme de février. Plusieurs grandes raffineries exportatrices du Moyen-Orient n’avaient pas encore retrouvé une activité normale. Les attaques contre les raffineries et infrastructures russes ont simultanément réduit les disponibilités de produits provenant de Russie. Ces deux facteurs ont maintenu le marché international du gasoil sous tension malgré le recul du prix du brut. 
+
+Cette divergence entre le brut et les produits raffinés apparaît clairement au début de l’été. Selon l’AIE, les prix de gros des produits raffinés ont augmenté proportionnellement davantage que ceux du pétrole brut après le déclenchement du conflit. Début juillet, alors que le brut était revenu près de ses niveaux antérieurs à la crise, les prix du gasoil et de l’essence demeuraient encore environ 30 % supérieurs à leurs niveaux d’avant-guerre. Les marges et cracks des produits raffinés ont parallèlement atteint leur niveau le plus élevé depuis quatre ans. Le gasoil reste ainsi, en 2026, particulièrement sensible à la disponibilité des raffineries du Moyen-Orient, aux exportations russes et au rythme de reconstitution des stocks, davantage qu’à la seule évolution du Brent. 
+
+###### ► Evolution du cours du super en 2026 
+
+Le marché du super a suivi une trajectoire légèrement différente. Au début de 2026, les disponibilités relativement abondantes de produits raffinés et l’affaiblissement des marges de raffinage ont limité les tensions sur les prix. La situation a cependant changé après la perturbation des approvisionnements du Moyen-Orient. La hausse du prix du brut, la contraction des activités de raffinage et les difficultés d’acheminement des produits ont entraîné un renchérissement des prix de gros. L’effet initial a été moins marqué que pour le gasoil et le carburéacteur, mais la réduction prolongée de l’offre de produits raffinés a progressivement resserré le bilan du super. 
+
+À partir du deuxième trimestre, cette tension a été renforcée par la diminution des cadences mondiales de raffinage et par le début de la saison de forte consommation de carburants routiers dans l’hémisphère Nord. La baisse de disponibilité des produits du Golfe n’a été que 
+
+12 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+partiellement compensée par les raffineries d’autres régions. Parallèlement, les stocks mondiaux ont enregistré d’importants prélèvements pendant la crise, tandis que les prix élevés ont pesé sur la consommation finale. Cette combinaison a généré un marché très volatil, où la hausse des prix a progressivement freiné la demande sans pour autant permettre une reconstitution rapide des disponibilités. 
+
+Au début du troisième trimestre, le marché de l’essence s’est nettement raffermi. L’AIE indique qu’en début juillet 2026, les marchés du gasoil et de l’essence se sont simultanément resserrés et que les cracks de l’essence ont fortement augmenté. Cette situation s’explique par le décalage entre la reprise relativement rapide des approvisionnements en brut et celle, beaucoup plus lente, des capacités de raffinage et des exportations de produits finis. Les cadences mondiales de raffinage ont progressé de 1,5 mb/j en juin, mais elles demeuraient encore environ 6 mb/j inférieures à celles de juin 2025, tandis que plusieurs raffineries du Moyen-Orient restaient contraintes et que les traitements russes continuaient d’être affectés par les attaques. Les marges de raffinage et les cracks des produits ont ainsi atteint des niveaux qui n’avaient plus été observés depuis quatre ans. 
+
+Ainsi, contrairement à 2025 où les cours européens du gasoil et de l’essence avaient principalement suivi le mouvement de détente du Brent, l’année 2026 est caractérisée par une forte déconnexion temporaire entre les cours du brut et ceux des produits raffinés. La crise du détroit d’Ormuz a réduit simultanément les exportations de produits, les disponibilités de brut pour les raffineries et les capacités effectives de transformation. Le gasoil a été le produit le plus directement exposé au choc en raison de la dépendance du marché mondial aux distillats exportés par le Moyen-Orient, tandis que l’essence s’est fortement raffermie à l’approche de l’été. Malgré la reprise partielle des flux de brut à partir de juin, la lente normalisation des raffineries et des exportations de produits a maintenu les prix du gasoil et de l’essence à des niveaux sensiblement supérieurs à ceux précédant la crise. 
+
+###### **Evolution des cours moyens mensuels du gasoil et de l'essence en 2026 en $/T** 
+
+
+
+<!-- Start of picture text -->
+1313  1293<br>1259<br>1099  1188  1172  1172  1096  1138<br>996  1003<br>989<br>668  650  718  701<br>janv-26 févr-26 mars-26 avr-26 mai-26 juin-26 juil-26 aout-26<br>Gasoil Essence<br><!-- End of picture text -->
+
+Source : Platts 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+### **I.2. Marché du Gaz de Pétrole Liquéfié (GPL)** 
+
+En 2026, le marché mondial du Gaz de Pétrole Liquéfié (GPL) a évolué dans un contexte de recomposition des flux d’approvisionnement, après une année 2025 marquée par des niveaux élevés de demande et d’offre mondiales. Le marché est resté structuré autour de grands pôles de consommation, principalement asiatiques, et de grandes zones d’offre, notamment l’Amérique du Nord et le Moyen-Orient. Cette configuration a renforcé l’importance des échanges maritimes, des arbitrages entre origines et des conditions de disponibilité des cargaisons. 
+
+Les tensions au Moyen-Orient ont accentué ces déséquilibres, non pas uniquement par leur effet géopolitique, mais à travers leurs conséquences directes sur le marché du GPL : ralentissement de certains flux en provenance du Golfe moyen-oriental, incertitudes sur les cargaisons riches en butane, report d’une partie des achats asiatiques vers les États-Unis et pression accrue sur les capacités de transport maritime. Les pays fortement dépendants des approvisionnements extérieurs, notamment en Asie, ont ainsi été amenés à adapter leurs achats en fonction du niveau des cours, de la sécurité d’approvisionnement et de la disponibilité effective du produit. 
+
+Dans ce contexte, les cours du gaz butane ont connu une évolution heurtée, marquée par une hausse au printemps 2026, puis par un reflux partiel à partir de juin. Cette évolution s’est transmise à la formule marocaine à travers ses composantes américaine et euroméditerranéenne, elles-mêmes influencées, entre autres, par les primes sur les cargaisons, les niveaux de stocks, les arbitrages pétrochimiques, les contraintes logistiques et le renchérissement du fret VLGC. Ainsi, l’analyse du marché du GPL en 2026 met en évidence un marché moins déterminé par le seul niveau global de l’offre que par la capacité à acheminer les cargaisons disponibles vers les zones de consommation. 
+
+##### **_I.2.1. Commerce international du GPL_** 
+
+##### **_I.2.1.1. Demande mondiale du GPL_** 
+
+En 2025, la demande mondiale de GPL s’est établie à 370 MT, contre 364 MT en 2024, soit une progression de 1,6%. Ce niveau, le plus élevé de la période 2020-2025, confirme la poursuite de la croissance de la consommation mondiale de GPL, après une hausse continue depuis 2020. 
+
+Cette progression demeure portée principalement par les marchés asiatiques, à travers les usages domestiques dans les grands pays importateurs et les besoins pétrochimiques, notamment en Chine. Toutefois, le rythme de croissance observé en 2025 est resté modéré, traduisant un marché déjà arrivé à des niveaux élevés de consommation et plus sensible aux arbitrages de prix, aux conditions d’approvisionnement et aux évolutions saisonnières de la demande. 
+
+14 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+
+
+<!-- Start of picture text -->
+Evolution de la demande mondiale du GPL en MT<br>370<br>364<br>357<br>340<br>331<br>318<br>2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+Source : Argus Media 
+
+En 2025, la demande mondiale de GPL est restée fortement concentrée autour des marchés asiatiques. L’Asie-Pacifique a enregistré une consommation de 180,449 MT, soit près de la moitié de la demande mondiale, en hausse de 4,837 MT par rapport à 2024. Cette évolution confirme le poids structurel de la région dans les équilibres de consommation, soutenu notamment par la demande de la Chine, de l’Inde, de l’Indonésie, du Japon et de la Corée du Sud, qui figurent parmi les principaux marchés consommateurs de GPL à l’échelle mondiale. 
+
+Derrière cette prédominance asiatique, les moteurs de demande demeurent différenciés selon les pays. En Chine, la consommation est fortement liée aux arbitrages des industries pétrochimiques entre GPL, naphta et MTBE, ainsi qu’aux variations des disponibilités locales issues du raffinage. En Inde, le GPL reste principalement orienté vers les usages résidentiels, ce qui rend la demande sensible au niveau des cours, aux politiques de soutien et à la sécurité des approvisionnements importés. Le Japon et la Corée du Sud constituent, pour leur part, des marchés plus matures, dont la demande évolue davantage en fonction des besoins industriels, de la saisonnalité et des conditions d’approvisionnement. 
+
+En dehors de l’Asie, la demande est restée nettement plus répartie entre les autres régions. L’Amérique du Nord s’est établie à 59,834 MT en 2025, devant l’Europe avec 35,113 MT, le Moyen-Orient avec 30,839 MT et l’Amérique latine avec 29,354 MT, tandis que l’Afrique a enregistré 17,896 MT. Cette répartition montre que la dynamique mondiale du GPL reste largement déterminée par l’Asie, mais que ses évolutions ne peuvent être expliquées par un seul facteur : elles dépendent à la fois des prix, de la saisonnalité, des usages pétrochimiques, des politiques publiques et de la disponibilité des cargaisons. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+
+
+<!-- Start of picture text -->
+La demande du GPL par région en  La demande du GPL par région en<br>2024 (MT)  2025 (MT)<br>175,612  180,449<br>Asie pacifique Asie pacifique<br>Amerique du Nord 66,304  Amerique du Nord 59,834<br>Moyen-orient 28,088  Europe 35,113<br>Méditerranée 25,917  Moyen-orient 30,839<br>Nord-ouest de l'europe 24,061  Amerique latine 29,354<br>Amerique latine 21,052  Afrique 17,896<br><!-- End of picture text -->
+
+Source : Argus Media 
+
+(*) : La comparaison régionale 2024-2025 doit être interprétée avec prudence, compte tenu du changement de découpage régional retenu par Argus entre les deux années. 
+
+À partir de 2026, les tensions au Moyen-Orient ont surtout révélé cette sensibilité, plus qu’elles ne l’ont créée. Leur effet s’est transmis différemment selon les marchés : en Inde, par la fragilisation d’une partie des approvisionnements en provenance des pays de golfe ; en Chine, par les arbitrages entre importations, raffinage local et usages pétrochimiques ; et, plus largement, par une concurrence accrue entre les grands importateurs asiatiques pour accéder aux cargaisons disponibles. 
+
+Au niveau mondial, la demande de GPL s’est établie à 92,016 MT au premier trimestre 2026, avant de revenir à 83,180 MT au deuxième trimestre, soit un repli de près de 9,6%, puis de remonter à 86,635 MT au troisième trimestre prévisionnel. Cette évolution reflète un ralentissement temporaire de la consommation au printemps, lié notamment à la fin de la période de chauffage en Amérique du Nord, aux niveaux élevés des cours et à des arbitrages pétrochimiques plus prudents en Asie, avant une reprise au troisième trimestre soutenue par le redressement de la demande asiatique et les achats de butane des raffineurs américains en amont de la saison de mélange dans l’essence. 
+
+Ce profil reflète à la fois l’effet saisonnier et les tensions propres au marché du GPL. Le premier trimestre a été soutenu par les besoins hivernaux, notamment en Amérique du Nord, tandis que le deuxième trimestre a été marqué par un ralentissement de la demande asiatique, sous l’effet des niveaux élevés des cours, de marges pétrochimiques contraintes et d’une disponibilité moins régulière de certaines cargaisons en provenance du Moyen-Orient. 
+
+Le graphe régional confirme le poids déterminant de l’Asie-Pacifique, dont la demande est passée de 42,994 MT au premier trimestre à 38,987 MT au deuxième trimestre, avant de remonter à 40,566 MT au troisième trimestre prévisionnel. Cette évolution reste liée aux ajustements des grands marchés importateurs, notamment la Chine, à travers les marges des unités PDH et la compétitivité du GPL par rapport au naphta, ainsi que l’Inde, où les usages résidentiels et commerciaux demeurent prépondérants. 
+
+16 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+
+
+<!-- Start of picture text -->
+Evolution trimestrielle de la demande en milliers de tonnes en 2026<br> 42.994<br> 38.987      40.566<br> 15.527<br> 12.101      13.460<br> 8.426<br> 7.457      7.112      8.389     8.733      8.924      7.667      7.466      7.823<br> 4.918      4.342      4.250<br>Asie pacifique Amerique du Nord Moyen-orient Europe Amerique latine Afrique<br>T1 T2 T3*<br><!-- End of picture text -->
+
+Source : Argus Media (*) Prévisionnel 
+
+En Amérique du Nord, la demande a reculé au deuxième trimestre avec la fin de la période de chauffage, avant de se redresser à 13,460 MT au troisième trimestre, en lien notamment avec les achats de butane des raffineurs en amont de la saison de mélange dans l’essence. Les autres régions affichent des variations plus limitées, avec une légère progression en Europe et en Amérique latine, contre un repli graduel au Moyen-Orient et en Afrique. 
+
+###### **_I.2.1.2. Offre mondiale de GPL_** 
+
+En 2025, l’offre mondiale de GPL s’est établie à 379 MT, contre 368 MT en 2024, soit une progression de près de 3%. Ce niveau, le plus élevé de la période 2020-2025, confirme la poursuite de l’élargissement des disponibilités mondiales, à un rythme supérieur à celui de la demande observée sur la même année. 
+
+Cette progression s’explique principalement par le maintien d’une offre nord-américaine abondante et par le poids toujours important du Moyen-Orient, qui représente environ un tiers de l’offre mondiale de GPL. Toutefois, cette concentration autour de quelques grands pôles rend le marché plus sensible aux contraintes d’acheminement et aux tensions affectant les principales zones exportatrices. En 2026, cet enjeu est devenu déterminant, notamment en raison de la forte dépendance d’une partie des flux mondiaux aux exportations du Moyen-Orient et aux routes maritimes qui les relient aux marchés importateurs. 
+
+
+
+<!-- Start of picture text -->
+Evolution de l'offre mondiale du GPL en MT<br>379<br>368<br>358<br>341<br>332<br>327<br>2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+Source : Argus Media 
+
+En 2025, l’offre mondiale de GPL est restée dominée par l’Amérique du Nord, l’Asie-Pacifique 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+et le Moyen-Orient. L’Amérique du Nord a enregistré 136,018 MT, soit une hausse de près de 3,5%. Cette progression confirme le poids de l’offre américaine, soutenue par une production de GPL issue de la chaîne gazière et par des capacités d’exportation élevées, permettant aux États-Unis de renforcer leur présence sur les marchés importateurs. 
+
+Le Moyen-Orient a également contribué à l’expansion de l’offre mondiale, avec un volume passé de 71,818 MT en 2024 à 76,948 MT en 2025, soit une hausse de 5,130 MT, équivalente à près de 7,1%. Cette évolution consolide la place de la région parmi les principaux pôles exportateurs de GPL, avec des flux fortement orientés vers les marchés asiatiques. 
+
+L’Asie-Pacifique s’est, pour sa part, maintenue à un volume élevé, avec 86,849 MT en 2025, contre 87,002 MT en 2024. Cette quasi-stabilité traduit une configuration différente de celle de l’Amérique du Nord et du Moyen-Orient : la production régionale demeure importante, mais elle est largement absorbée par les besoins internes, notamment en Chine et en Inde, où le GPL alimente à la fois les usages domestiques, le raffinage et les activités pétrochimiques. Ainsi, malgré son niveau de production, la région reste fortement dépendante des importations pour équilibrer son marché. 
+
+Les autres régions affichent des volumes plus limités. L’Europe, présentée sous forme agrégée dans le nouveau découpage régional, a enregistré 21,520 MT en 2025, tandis que l’Afrique et l’Amérique latine ont atteint respectivement 19,707 MT et 17,307 MT. Leur contribution demeure donc plus modérée dans la structure globale de l’offre. 
+
+Cette configuration explique la sensibilité du marché observée en 2026. Lorsque les flux des pays de golfe deviennent moins réguliers ou plus coûteux, les acheteurs asiatiques se reportent davantage vers les cargaisons américaines, ce qui modifie les arbitrages entre régions et accroît la pression sur le transport maritime. L’offre mondiale peut donc progresser en volume tout en restant exposée à des contraintes d’accessibilité, de fret et de disponibilité effective des cargaisons. 
+
+
+
+<!-- Start of picture text -->
+L'offre du GPL par région en 2024 (MT)  L'offre du GPL par région en 2025 (MT)<br>131,456<br>Amerique du Nord Amerique du Nord 13 6,018<br>Asie pacifique 87,002<br>Asie pacifique 86,849<br>Moyen-orient 71,818<br>Moyen-orient 76,948<br>Méditerranée 19,676<br>Europe 21,52<br>Nord-ouest de l'europe 16,948<br>Afrique 19,707<br>Amerique latine 14,286<br>Amerique latine 17,307<br>2024<br><!-- End of picture text -->
+
+_S_ ource : Argus Media et IHS markit 
+
+- (*) : Les données régionales 2024 et 2025 ne sont pas strictement comparables pour certaines zones, le découpage régional retenu par Argus ayant changé entre les deux années 
+
+Au niveau mondial, l’offre de GPL s’est établie à 91,701 MT au premier trimestre 2026, avant de revenir à 85,972 MT au deuxième trimestre, puis de remonter à 89,474 MT au troisième trimestre prévisionnel. Cette évolution reflète un recul temporaire des disponibilités au printemps, lié principalement aux perturbations ayant affecté certains flux du Moyen-Orient, au ralentissement du trafic via le détroit d’Ormuz et aux contraintes de chargement sur plusieurs origines exportatrices, avant une amélioration au troisième trimestre soutenue notamment par la mobilisation de l’offre nord-américaine, dans un marché encore contraint par les conditions d’acheminement. 
+
+
+
+<!-- Start of picture text -->
+18<br><!-- End of picture text -->
+
+**RAPPORT SUR LA COMPENSATION** 
+
+L’Amérique du Nord demeure le premier pôle d’offre, avec 33,144 MT au premier trimestre, 36,463 MT au deuxième trimestre et 36,873 MT au troisième trimestre prévisionnel. Cette progression s’appuie sur des disponibilités américaines abondantes et des stocks élevés, qui ont permis de soutenir les exportations malgré les contraintes ponctuelles de production et de chargement observées sur la côte américaine du golfe du Mexique. 
+
+Le Moyen-Orient a enregistré le mouvement le plus marqué, avec une offre passée de 16,624 MT au premier trimestre à 9,437 MT au deuxième trimestre, avant de remonter à 12,129 MT au troisième trimestre prévisionnel. Cette évolution reflète l’exposition de la région aux perturbations logistiques et opérationnelles du printemps, notamment la force majeure sur certaines cargaisons et le ralentissement du trafic maritime, dans une zone dont une part importante des exportations de GPL transite par le détroit d’Ormuz. 
+
+
+
+<!-- Start of picture text -->
+Evolution trimestrielle de l'offre en milliers de tonnes en 2026<br> 36.463<br> 36.873<br> 33.144<br> 21.254       21.270<br> 19.951<br> 16.624<br> 12.129<br> 9.437<br> 5.441     4.755      4.395      5.257      5.696      5.285       4.617     4.570      4.602<br>Amerique du Nord Asie pacifique Moyen-orient Afrique Europe Amerique latine<br>T1 T2 T3*<br><!-- End of picture text -->
+
+Source : Argus Media et IHS markit 
+
+L’Asie-Pacifique est restée le deuxième pôle d’offre, avec un volume proche de 21 MT au premier et au troisième trimestre, après un léger recul au deuxième trimestre. Cette trajectoire traduit une production régionale importante, mais largement absorbée par les besoins internes, notamment en Chine, où les disponibilités locales dépendent des arbitrages de raffinage et de l’orientation de la production entre GPL, naphta et carburants de transport. 
+
+Les autres régions affichent des variations plus limitées. L’Europe évolue autour de 5 à 6 MT par trimestre, dans un contexte d’offre globalement disponible mais affectée ponctuellement par les opérations de maintenance et les contraintes logistiques. L’Amérique latine demeure quasiment stable, tandis que l’Afrique poursuit un repli graduel sur la période. 
+
+##### **_I.2.1.3. Echanges mondiaux de GPL_** 
+
+En 2025, les échanges internationaux de GPL ont poursuivi leur progression. Les besoins d’importation ont atteint 160,274 MT, en hausse de 3%, tandis que les disponibilités à l’exportation se sont établies à 166,34 MT, en progression de 4,5%. Cette évolution s’explique par le maintien d’une demande soutenue sur les grands marchés importateurs, en particulier en Asie, et par l’élargissement de l’offre exportable provenant principalement des États-Unis et du Moyen-Orient. 
+
+Dans cette configuration, les États-Unis ont continué de renforcer leur place dans le commerce mondial du GPL, grâce à une production abondante, des stocks élevés et des 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+capacités d’exportation importantes. Cette offre a permis d’alimenter une part croissante des besoins internationaux, notamment asiatiques, tout en renforçant le rôle du marché américain dans les arbitrages entre origines d’approvisionnement. 
+
+Cette montée en puissance américaine s’est toutefois inscrite aux côtés du poids toujours déterminant du Moyen-Orient. La région représente environ un tiers de l’offre mondiale de GPL et demeure un fournisseur majeur des marchés asiatiques. Ses exportations de GPL ont atteint un niveau record de 48,5 MT en 2025, confirmant l’importance de ses flux dans l’approvisionnement maritime international. 
+
+Ce poids rend le détroit d’Ormuz particulièrement stratégique pour le marché du GPL. Environ 85% des exportations de GPL du Moyen-Orient transitent par ce passage, qui concentre près de 27% des exportations mondiales de GPL et près de 30% de l’approvisionnement mondial transporté par voie maritime. Ainsi, même lorsque l’offre mondiale progresse, la fluidité des échanges reste fortement dépendante de quelques routes maritimes essentielles. 
+
+En 2026, cette configuration a rendu le marché plus sensible aux perturbations affectant les flux moyen-orientaux et le transport maritime. Les tensions régionales ont réduit la régularité de certaines cargaisons, favorisé le report d’une partie des achats asiatiques vers les États-Unis et renforcé la pression sur les capacités VLGC. Après avoir atteint leurs niveaux les plus élevés depuis trois ans, les cours du GPL en Asie ont ensuite reflué, sans effacer les contraintes liées à l’accès aux cargaisons disponibles et à leur acheminement vers les marchés importateurs. 
+
+
+
+<!-- Start of picture text -->
+Exportations de GPL du Moyen-Orient en milliers de tonnes<br>877<br>786 798  759 770 770<br>511<br>500<br>364<br>273  269<br>239  243  224<br>120  136  147<br>63  78  95  76  84<br>19  15  46  18  36  45 31  15  34<br>jan-26 fév-26 mar-26 avr-26 mai-26 jui-26<br>avant-guerre après-guerre<br>Iraq Kuwait Oman Qatar Saudi Arabia UAE<br><!-- End of picture text -->
+
+Source : Argus media 
+
+Après des niveaux encore soutenus en janvier et février 2026, les exportations de GPL du Moyen-Orient se sont nettement contractées à partir du mois de mars. Cette rupture traduit les perturbations ayant affecté les flux du Golfe moyen-oriental, notamment le ralentissement du trafic via le détroit d’Ormuz, les contraintes opérationnelles sur certaines installations d’exportation et les mesures de force majeure annoncées sur plusieurs cargaisons. 
+
+La baisse observée n’a pas seulement porté sur les volumes, mais aussi sur la régularité et la visibilité des flux. Les acheteurs asiatiques, traditionnellement approvisionnés par cette zone 
+
+
+
+<!-- Start of picture text -->
+20<br><!-- End of picture text -->
+
+**RAPPORT SUR LA COMPENSATION** 
+
+pour des cargaisons riches en butane, ont ainsi été amenés à sécuriser d’autres origines, alors que le retour progressif des expéditions en mai et juin est resté insuffisant pour rétablir les niveaux observés avant l’escalade des tensions. 
+
+
+
+<!-- Start of picture text -->
+Évolution trimestrielle des exportations américaines de butane et de propane en MT<br> 14.859<br> 13.128    13.223    13.388    13.499<br> 12.515<br> 7.114<br> 4.151    5.100    4.623    4.531    4.896<br>T1-25 T2-25 T3-25 T4-25 T1-26 T2-26<br>Avant-guerre Après-guerre<br>Butane Propane<br><!-- End of picture text -->
+
+Source : EIA, Aramco, Argus, IHS Merkit, Direction Norvégienne du pétrole, Platts 
+
+Dans ce contexte, les exportations américaines de GPL ont été davantage sollicitées par les marchés importateurs, en particulier asiatiques. Les flux sont restés dominés par le propane, avec 14,859 MT au deuxième trimestre 2026, contre 7,114 MT pour le butane. La progression la plus marquée concerne toutefois le butane, dont les volumes ont fortement augmenté par rapport au premier trimestre. 
+
+Cette évolution traduit le report d’une partie des achats asiatiques vers les cargaisons américaines, afin de compenser la moindre régularité des approvisionnements en provenance du Golfe moyen-oriental. Elle s’explique aussi par la configuration du marché américain, où l’offre est abondante, mais où les terminaux de la côte américaine du golfe du Mexique restent davantage adaptés au chargement du propane qu’à celui du butane. 
+
+La baisse des flux moyen-orientaux et la hausse des exportations américaines au deuxième trimestre traduisent ainsi une recomposition des échanges mondiaux de GPL. Les acheteurs asiatiques ont cherché à sécuriser des volumes alternatifs auprès des États-Unis, renforçant la place de l’offre américaine dans les échanges, tout en accentuant les contraintes sur les calendriers de chargement, les primes à l’exportation et la disponibilité des VLGC. 
+
+
+
+<!-- Start of picture text -->
+Exportations américaines du butane vers la chine et l'inde en KT<br>2062<br> 941<br>632<br>510<br> 350<br> 235<br>CHINE INDE<br>BUTANE<br>S1-25 S2-25 S1-26<br><!-- End of picture text -->
+
+Source : EIA, Aramco, Argus, IHS Merkit, Direction Norvégienne du pétrole, Platts 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+La répartition des exportations américaines de butane vers la Chine et l’Inde confirme la montée rapide du marché indien au premier semestre 2026. Les volumes destinés à l’Inde ont atteint 2.062 KT, contre 941 KT pour la Chine, alors qu’ils étaient encore relativement proches au premier semestre 2025. 
+
+Cette évolution traduit une sollicitation plus marquée du butane américain par l’Inde, dans un contexte où ce marché cherchait à sécuriser ses approvisionnements pour couvrir des besoins essentiellement résidentiels et commerciaux. La Chine a également renforcé ses achats au premier semestre 2026, mais dans une logique davantage liée aux arbitrages industriels et pétrochimiques. 
+
+Ainsi, ce mouvement confirme que la recomposition des flux asiatiques ne s’est pas limitée à une hausse globale des exportations américaines. Elle s’est aussi traduite par un changement dans la hiérarchie des débouchés, avec une progression particulièrement marquée de l’Inde sur les cargaisons américaines riches en butane. 
+
+Au premier semestre 2026, les principaux marchés asiatiques ont ajusté leurs origines d’approvisionnement en GPL, dans un contexte marqué par une moindre régularité des flux en provenance du Moyen-Orient et par un recours accru aux cargaisons américaines. À l’échelle régionale, la part du Moyen-Orient dans les importations asiatiques est revenue à 31%, contre 50% un an auparavant, tandis que les États-Unis ont consolidé leur position de premier fournisseur de l’Asie. 
+
+Cette évolution apparaît de manière différenciée selon les marchés. En Chine, les arrivages ont reculé depuis les deux origines représentées, traduisant à la fois l’effet des cours élevés sur la demande, la pression sur les marges des unités PDH et la diversification des achats vers d’autres fournisseurs. À l’inverse, l’Inde a fortement renforcé son recours aux cargaisons américaines, alors que ses approvisionnements en provenance du Moyen-Orient ont nettement baissé. Cette évolution reflète la forte dépendance du marché indien aux importations de GPL pour couvrir ses besoins résidentiels et commerciaux. 
+
+
+
+<!-- Start of picture text -->
+Évolution des importations du GPL par origine en MT<br> 10,50<br> 7,13<br> 6,25<br> 4,95    5,10<br> 4,36<br> 3,51    3,87    3,62    3,30    3,90<br> 2,70<br> 2,25<br> 1,19<br> 0,18    0,30    0,50    0,55    0,37   0<br>S1-25 S1-26 S1-25 S1-26 S1-25 S1-26 S1-25 S1-26 S1-25 S1-26<br>Chine japan Inde Indonesie corée de sud<br>États-Unis Moyen-Orient<br><!-- End of picture text -->
+
+Source : Argus media 
+
+Le Japon et la Corée du Sud restent davantage orientés vers l’origine américaine, avec des flux moyen-orientaux limités, voire quasi nuls pour la Corée du Sud au premier semestre 2026. L’Indonésie suit également cette tendance, avec une progression des arrivages américains et un recul des volumes en provenance du Moyen-Orient, dans un contexte de constitution de stocks et de besoins liés au secteur pétrochimique. 
+
+22 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+Ainsi, les importations asiatiques de GPL au premier semestre 2026 confirment que la recomposition des échanges ne s’est pas limitée aux pays exportateurs. Elle s’est également traduite, côté acheteurs, par une diversification des origines et par une concurrence plus forte pour accéder aux cargaisons américaines disponibles. 
+
+###### **_I.2.2. Evolution des cours mondiaux du gaz butane_** 
+
+► Evolution du cours du gaz butane en 2025 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle du cours du gaz butane en $/T<br>740<br>634<br>546  559  532<br>377<br>2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+Source : Platts et OPIS 
+
+En 2025, le cours moyen annuel du gaz butane, déterminé selon la formule marocaine, s’est établi à 532 $/T, soit un repli de 4,8% en glissement annuel. Cette évolution prolonge la correction engagée après le pic de 740 $/T enregistré en 2022, dans un contexte alors marqué par de fortes tensions énergétiques. Elle reflète une situation moins tendue, portée par une meilleure disponibilité de l’offre, notamment américaine, et par une demande asiatique plus sensible aux niveaux de cours et aux marges pétrochimiques. Le niveau enregistré en 2025 demeure ainsi parmi les plus modérés de la période récente, tout en restant inférieur à la moyenne quinquennale observée sur la période 2020-2024. 
+
+
+
+<!-- Start of picture text -->
+Evolution trimestrielle du cours du gaz butane suivant la formule marocaine au titre de la<br>période 2021-2025 ($/T)<br>890<br>831<br>792<br>686  666<br>619  613  622  606<br>543  516  511  554  570  536  544  491  511  522<br>449<br><!-- End of picture text -->
+
+Source : Platts et OPIS 
+
+Sur le plan trimestriel, le cours du gaz butane, suivant la formule marocaine, s’est inscrit en baisse au deuxième trimestre 2025, avant de se redresser progressivement au second 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+semestre. Cette évolution traduit la correction saisonnière après le niveau élevé du début de l’année, dans un contexte de disponibilités mondiales plus confortables et d’une demande asiatique plus sensible aux niveaux de cours et aux marges pétrochimiques. 
+
+La remontée observée au quatrième trimestre reste liée à des facteurs saisonniers propres au marché du butane, notamment la hausse des besoins pétrochimiques en Europe et les achats des raffineurs américains en amont de la saison de mélange d’essence. 
+
+###### ► Evolution des cours du gaz butane en 2026 
+
+
+
+<!-- Start of picture text -->
+Evolution des prix mensuels des principaux producteurs mondiaux GPL en 2026 ($/T)<br>900 906  880<br>800  800  869  820<br>671<br>640<br>610  600  596<br>520 485 456  540 490 475  540 500 485 487  471  555  445  480 495 455  570  474<br>343  363<br>Janvier Février Mars Avril Mai Juin Juillet Août<br>Avant-guerre Après-guerre<br>Arabie Saoudite Algérie Mer du Nord USA*<br><!-- End of picture text -->
+
+Source : Platts et Argus Media (*Hors terminalling) 
+
+L’évolution mensuelle des principales références régionales du gaz butane en 2026 fait ressortir un changement net de régime à partir du mois d’avril. Durant le premier trimestre, les cours sont restés à des niveaux modérés, avec une progression limitée des références saoudienne, algérienne et nord-européenne. La référence américaine est, pour sa part, passée de 343 $/T en janvier à 487 $/T en mars, sous l’effet d’un raffermissement de la demande et de premières tensions sur les cargaisons destinées à l’exportation. 
+
+À partir d’avril, les cours ont fortement augmenté sur les principales références. Le prix saoudien a atteint 800 $/T en avril et en mai, avant de culminer à 820 $/T en juin. La hausse a été encore plus marquée sur les références algérienne et Mer du Nord, qui ont atteint respectivement 900 $/T et 906 $/T en avril. Ce mouvement traduit la montée des incertitudes sur les disponibilités de butane après les perturbations des flux du Moyen Orient, mais aussi des facteurs propres aux marchés euro-méditerranéens, notamment des stocks limités dans la zone ARA, des opérations de maintenance en mer du Nord et des contraintes logistiques plus fortes sur les routes maritimes. 
+
+Le repli observé à partir de juin sur les références algérienne et nord-européenne s’explique par l’affaiblissement de la demande régionale en période estivale, notamment lorsque les restrictions relatives aux mélanges d’essence limitent l’utilisation du butane, ainsi que par l’amélioration temporaire du trafic maritime après l’accord de paix conclu en juin. Cette baisse a également été alimentée par le recul de certains achats asiatiques face aux niveaux élevés des cours, en particulier en Inde et en Asie du Sud-Est. 
+
+
+
+<!-- Start of picture text -->
+24<br><!-- End of picture text -->
+
+**RAPPORT SUR LA COMPENSATION** 
+
+En juillet, le prix saoudien est revenu à 600 $/T, soit le recul mensuel le plus prononcé depuis la pandémie, avant de remonter à 640 $/T en août. Cette évolution reflète à la fois la reprise d’une prime de risque après la nouvelle dégradation du contexte régional et la prudence des acheteurs asiatiques. Les références algérienne et Mer du Nord se sont également redressées en août, respectivement à 570 $/T et 596 $/T parallèlement à la reprise de certains besoins liés au mélange de l’essence. 
+
+► Evolution du cours du gaz butane suivant la formule marocaine en 2026 
+
+
+
+<!-- Start of picture text -->
+Evolution mensuelle de la formule marocaine du gaz butane en $/T<br>751<br>703  688<br>650<br>617<br>547  548  560  574<br>517  523  499  480  493  514  487<br>janvier fevrier mars avril mai juin juillet août<br>2025 2026<br><!-- End of picture text -->
+
+Source : Platts et OPIS 
+
+Sur la période allant de janvier à août 2026, la formule marocaine du gaz butane s’est établie en moyenne à 611 $/T, soit une hausse de 14,7% en glissement annuel. Au cours de cette période, elle a évolué entre un minimum de 489 $/T à la fin juin et un maximum de 856 $/T vers la mi-mars. Après un début d’année relativement modéré, les cours ont fortement accéléré à partir de mars, traduisant la réaction rapide des références internationales aux tensions sur les cargaisons riches en butane, aux incertitudes sur les flux en provenance du Golfe moyen-oriental, à la hausse des primes sur certaines origines et au renchérissement du fret maritime. 
+
+Le maintien de niveaux élevés en avril et mai confirme que le choc ne s’est pas limité à un mouvement ponctuel, mais qu’il s’est transmis aux composantes de la formule marocaine. À partir de juin, les cours ont reflué sous l’effet d’une amélioration temporaire du trafic maritime et d’un ajustement de la demande face aux niveaux élevés, avant de se redresser de nouveau en fin août. La pondération de la formule marocaine, fondée à 70% sur la composante américaine et à 30% sur la zone euro-méditerranéenne, a permis d’atténuer une partie de ces variations, sans empêcher leur transmission au coût d’approvisionnement. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+
+
+<!-- Start of picture text -->
+Evolution des cours du gaz butane en $/T<br>856<br>748<br>613<br>550  584<br>505<br>489<br>avant guerre apres guerre<br>Source : Platts et OPIS<br>► La composante américaine<br>Evolution de la composantes  Evolution du rapport mensuel moyen<br>américaine en $/T  du prix du butane américain par<br>rapport au WTI<br>649<br>582  566  540  550  569  162%<br>145%  141%  140%<br>438  458  128%  131%  134%  134%<br>Avant-guerre Après-guerre Avant-guerre Après-guerre<br>02/01/2026 08/01/2026 14/01/2026 21/01/2026 27/01/2026 02/02/2026 06/02/2026 12/02/2026 19/02/2026 25/02/2026 03/03/2026 09/03/2026 13/03/2026 19/03/2026 25/03/2026 31/03/2026 08/04/2026 14/04/2026 20/04/2026 24/04/2026 30/04/2026 07/05/2026 13/05/2026 19/05/2026 26/05/2026 01/06/2026 05/06/2026 11/06/2026 17/06/2026 24/06/2026 30/06/2026 07/07/2026 13/07/2026 17/07/2026 23/07/2026 29/07/2026 04/08/2026 10/08/2026 14/08/2026 20/08/2026 26/08/2026<br>jan-26 fevr-26 mar-26 avr-26 mai-26 jui-26 juil-26 août-26 jan-26 fevr-26 mar-26 avr-26 mai-26 jui-26 juil-26 août-26<br><!-- End of picture text -->
+
+Source : Platts, OPIS et Bloomberg 
+
+La composante américaine de la formule marocaine du gaz butane s’est inscrite en hausse sur les huit premiers mois de 2026, passant de 438 $/T en janvier à 569 $/T en août. Après deux premiers mois à des niveaux modérés, elle s’est nettement raffermie en mars, à 582 $/T, avant d’atteindre son niveau le plus élevé en mai, à 649 $/T. 
+
+Cette hausse ne s’explique pas uniquement par le mouvement du brut. Elle traduit surtout les tensions propres au marché américain du butane, alimentées par la demande accrue de cargaisons américaines riches en butane, notamment de la part des acheteurs asiatiques cherchant à compenser une partie des volumes moins réguliers en provenance du Moyen Orient. Cette demande a exercé une pression sur les calendriers de chargement de la côte américaine du Golfe de Mexique, dont les infrastructures restent davantage adaptées au propane qu’au butane. 
+
+
+
+<!-- Start of picture text -->
+26<br><!-- End of picture text -->
+
+**RAPPORT SUR LA COMPENSATION** 
+
+Après le pic de mai, la composante américaine est revenue à 540 $/T en juin, avant de se redresser à 550 $/T en juillet et 569 $/T en août. Cette reprise de fin de période s’explique par la persistance d’une forte demande internationale, mais aussi par les achats des raffineurs américains cherchant à constituer des stocks de butane avant l’hiver et en lien avec les besoins de mélange dans l’essence. 
+
+Le rapport entre le butane américain et le WTI confirme cette évolution. Il est passé de 128% en janvier à 162% en avril, avant de revenir à 134% en juillet et en août. Ce niveau élevé montre que la composante américaine a évolué au-delà du seul comportement du brut, sous l’effet des primes sur les cargaisons de butane, des contraintes de chargement, de la demande d’exportation et du renchérissement du fret. 
+
+###### ► La composante euro-méditerranéenne 
+
+
+
+<!-- Start of picture text -->
+Evolution du rapport mensuel moyen du prix<br>Evolution de la moyenne mensuelle en<br>du butane euro-méditerannéen par rapport<br>2026 de la composante euro-<br>méditerannéenne en $/T  au Brent<br>124%<br>1147  117%  117%<br>107%<br>1020<br>701  752  778  81%  72%  75%  72%<br>564  581  589<br>jan-26 fevr-26 mar-26 avr-26 mai-26 jui-26 juil-26 août-26 jan-26 fevr-26 mar-26 avr-26 mai-26 jui-26 juil-26 août-26<br>Avant-guerre Après-guerre Avant-guerre Après-guerre<br><!-- End of picture text -->
+
+Source : Platts, OPIS et Bloomberg 
+
+La composante euro-méditerranéenne de la formule marocaine du gaz butane a connu une forte hausse au début de l’année 2026, passant de 701 $/T en janvier à 752 $/T en février, avant d’atteindre un pic de 1.147 $/T en mars. Cette accélération s’explique par un resserrement rapide du marché régional, marqué par des stocks limités dans la zone ARA, une moindre visibilité sur les arrivages et une réaction plus forte des vendeurs face aux incertitudes sur l’offre. 
+
+La composante est restée élevée en avril, à 1.020 $/T, dans un contexte où les tensions sur les flux internationaux se sont ajoutées à des facteurs propres à la zone euro-méditerranéenne. Les opérations de maintenance en mer du Nord ont réduit certaines disponibilités régionales, tandis que les contraintes logistiques ont renforcé la pression sur les références européennes et méditerranéennes. 
+
+À partir de mai, le mouvement s’est inversé. La composante est revenue à 778 $/T, puis à 564 $/T en juin, avant de se maintenir autour de 581 $/T en juillet et 589 $/T en août. Ce repli s’explique par l’affaiblissement saisonnier de la demande de butane en Europe, notamment lorsque les restrictions liées au mélange de l’essence limitent son utilisation, ainsi que par une situation d’approvisionnement plus confortable dans certains hubs régionaux. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+Le rapport de cette composante au Brent confirme que le pic du printemps ne s’explique pas uniquement par l’évolution du brut. Après 117% en janvier et février, il a atteint 124% en mars, avant de revenir entre 72% et 81% de mai à août. Cette évolution montre que la composante euro-méditerranéenne a été surtout influencée par les conditions propres au marché du butane : disponibilité régionale, niveau des stocks, maintenance, demande saisonnière et contraintes d’acheminement. 
+
+###### ► Evolution du fret 
+
+
+
+<!-- Start of picture text -->
+Evolution de taux de fret annuel moyen pour les  Evolution des moyennes mensuelles du fret (VLGC)<br>VLGC (Houston-Mohammadia) en $/T  pour le trajet Houston-Mohammadia ($/T)<br>162  166<br>98<br>141<br>127<br>112<br>71  63  65  82  67  67  70  79  84  87<br>53  52<br>48<br>31<br>28  28<br>Année 2025 Avant- Apès-guerre<br>2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 guerre<br>sept-25 oct-25 nov-25 déc-25 jan-26 fév-26 mar-26 avr-26 mai-26 jui-26 juil-26 août-26<br><!-- End of picture text -->
+
+Source : Platts, OPIS et Bloomberg 
+
+En 2025, le taux de fret annuel moyen des VLGC sur le trajet Houston-Mohammedia s’est établi à 65 $/T, soit une hausse de près de 3,2% en glissement annuel. Ce niveau demeure néanmoins inférieur au pic de 98 $/T enregistré en 2023, année marquée par de fortes tensions sur les routes maritimes du GPL. 
+
+L’évolution mensuelle montre une nette accélération en 2026. Après une moyenne de près de 72 $/T entre septembre et décembre 2025, le fret Houston-Mohammedia s’est établi autour de 83 $/T au premier trimestre 2026, avant de se redresser fortement à partir d’avril pour atteindre 162 $/T en mai. 
+
+Cette hausse s’explique par une contraction de la disponibilité effective des VLGC. Les perturbations des flux en provenance du Golfe moyen-oriental ont renforcé le recours aux cargaisons américaines, notamment vers l’Asie, ce qui a allongé les trajets au départ du golfe du Mexique et immobilisé les navires plus longtemps. Le problème n’a donc pas porté uniquement sur les volumes de GPL disponibles, mais aussi sur la capacité à les transporter dans des délais réguliers. 
+
+Les contraintes au canal de Panama ont accentué cette pression. La hausse des coûts de passage et la réduction des créneaux disponibles ont poussé une partie des navires vers des routes plus longues, notamment par le cap de Bonne-Espérance. Ces détours ont augmenté les tonnes-milles, retardé le retour des navires vers les zones de chargement et réduit le tonnage disponible sur le marché spot. 
+
+28 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+Après un repli à 127 $/T en juin, lié à l’apparition ponctuelle de navires disponibles et à un ralentissement temporaire de l’activité d’affrètement, les taux sont repartis à la hausse pour atteindre 166 $/T en août, soit le niveau le plus élevé de la période observée. Sur la période avril-août 2026, la moyenne du fret s’est établie à près de 142 $/T, soit environ 70% au-dessus du niveau moyen du premier trimestre. 
+
+Ainsi, bien que le Maroc ne soit pas directement dépendant des approvisionnements en provenance du Golfe moyen-oriental, le fret Houston-Mohammedia reste exposé aux déséquilibres du marché mondial des VLGC. La recomposition des flux, l’allongement des rotations et les contraintes de transit ont transmis au coût de transport marocain une partie importante des tensions observées sur les grandes routes internationales du GPL. 
+
+### **I.3. Marché sucrier** 
+
+Le sucre occupe une place importante sur les marchés agricoles internationaux, en raison de son poids dans la consommation alimentaire et de la diversité de ses usages industriels. Issu principalement de la canne à sucre et de la betterave sucrière, il est produit dans plusieurs régions du monde, ce qui rend son offre particulièrement sensible aux conditions climatiques, à l’évolution des rendements agricoles ainsi qu’aux politiques de production et de commercialisation adoptées par les principaux pays producteurs. 
+
+Au-delà de son utilisation alimentaire, le sucre constitue également une matière première importante pour la production d’éthanol, notamment au Brésil, l’un des principaux acteurs du marché mondial. L’arbitrage entre la production de sucre et celle de biocarburants renforce ainsi l’interdépendance entre les marchés sucrier et énergétique. Les cours mondiaux du sucre demeurent, de ce fait, sensibles à la fois aux perspectives de production, aux conditions climatiques, à l’évolution des prix de l’énergie, aux politiques commerciales et aux fluctuations des taux de change. 
+
+Dans un contexte international marqué par la persistance des tensions géopolitiques au Moyen-Orient et par les perturbations affectant certains marchés de matières premières, les cours mondiaux du sucre brut ont néanmoins fait preuve d’une relative résilience. Contrairement aux produits énergétiques, directement exposés aux tensions sur les routes d’approvisionnement et aux risques géopolitiques, l’évolution du marché sucrier est restée largement déterminée par ses fondamentaux propres, notamment les perspectives de récolte des principaux pays producteurs, les niveaux de disponibilité et de stocks ainsi que les conditions climatiques. Ces facteurs ont contribué à atténuer la transmission des tensions internationales aux cours du sucre et à contenir leur progression sur la période. 
+
+##### **_I.3.1. Commerce international du sucre_** 
+
+###### **_I.3.1.1. Production et consommation mondiales du sucre_** 
+
+► Production mondiale du sucre 
+
+Au titre de la campagne 2025/2026, la production mondiale de sucre est estimée par l’ISO à 180,7 millions de tonnes. Le Brésil demeure le premier producteur mondial, avec une production estimée à 44,4 millions de tonnes, représentant près de 24,6 % de l’offre mondiale. Il est suivi par l’Inde, dont la production devrait atteindre 35,3 millions de tonnes, soit 19,5 % du total, portée par un fort rebond des disponibilités en canne à sucre. 
+
+L’Union européenne occupe la troisième position avec 15,5 millions de tonnes (8,57 %), malgré un léger recul lié à la baisse des rendements dans certaines zones de production betteravière. La Chine et la Thaïlande complètent le top cinq, avec respectivement 11,5 et 10,3 millions de tonnes, correspondant à 6,36 % et 5,7 % de la production mondiale. La Thaïlande 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+poursuit ainsi sa reprise après plusieurs campagnes marquées par des conditions climatiques défavorables. Les États-Unis se classent au sixième rang avec 8,5 millions de tonnes, devant le Pakistan et le Mexique, dont les productions sont estimées respectivement à 6,2 et 5,4 millions de tonnes. Au total, les cinq principaux producteurs mondiaux concentrent environ 64 % de la production mondiale. 
+
+
+
+<!-- Start of picture text -->
+Principaux producteurs mondiaux du sucre pour la campagne 2025/2026<br>5,7%<br>6,36%<br>24,6%<br>8,57%<br>19,5%<br>Brésil Inde UE Chine Thaïlande<br><!-- End of picture text -->
+
+Sources : estimations USDA/ Foreign Agricultural Service (FAS) et International Sugar Organization (ISO). 
+
+► Consommation mondiale du sucre 
+
+La consommation mondiale de sucre devrait atteindre 179,6 millions de tonnes au titre de la campagne 2025/2026, faisant ressortir un excédent de 1,1 million de tonnes, contre un déficit de 3,2 millions de tonnes lors de la campagne précédente. 
+
+La demande mondiale reste concentrée sur un nombre limité de pays. L’Inde conserve sa position de premier consommateur mondial, avec une demande estimée à 32 millions de tonnes, soit près de 17,8 % de la consommation mondiale. Cette dynamique est notamment soutenue par la croissance démographique et l’importance de la consommation intérieure. L’Union européenne arrive en deuxième position, avec une consommation de près de 17 millions de tonnes. 
+
+La Chine occupe le troisième rang, avec une demande estimée à 16 millions de tonnes, soutenue notamment par l’évolution des habitudes alimentaires et l’urbanisation. Les ÉtatsUnis se classent au quatrième rang, avec environ 11 millions de tonnes, tandis que le Brésil complète le top cinq avec une consommation estimée à 10 millions de tonnes. Une part importante de sa production demeure toutefois destinée aux marchés extérieurs. Dans l’ensemble, les cinq principaux marchés consommateurs représentent près de la moitié de la demande mondiale. 
+
+30 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+
+
+<!-- Start of picture text -->
+Principaux consommateurs mondiaux du sucre pour la campagne 2025/2026<br>5,56%<br>6,12%<br>17,8%<br>8,9%<br>9,46%<br>Inde Union européenne Chine États-Unis Brésil<br><!-- End of picture text -->
+
+Sources : estimations USDA/ FAS et ISO. 
+
+###### **_I.3.1.2. Echanges mondiaux de sucre_** 
+
+Le commerce international du sucre demeure fortement concentré, avec une prédominance nette du Brésil. Ses exportations sont estimées à 36 millions de tonnes, représentant près de 48 % des échanges mondiaux. Grâce à son importante capacité de production et à la flexibilité de son industrie sucrière, qui permet d’arbitrer entre la production de sucre et d’éthanol, le pays constitue le principal fournisseur du marché international. La Thaïlande se classe au deuxième rang, avec des exportations estimées à 10,5 millions de tonnes, soit environ 14 % du commerce mondial. Sa proximité avec les principaux marchés asiatiques et la compétitivité de son secteur sucrier renforcent sa position sur le marché international. L’Inde occupe la troisième place, avec des exportations de 6 millions de tonnes. L’Australie se positionne au quatrième rang avec environ 3,8 millions de tonnes exportées, soit près de 5 % du marché mondial. Le Guatemala complète le top cinq, avec des exportations estimées à 2,3 millions de tonnes, représentant environ 3 % du commerce mondial. Ainsi, les cinq principaux exportateurs concentrent près de 78 % des exportations mondiales. 
+
+
+
+<!-- Start of picture text -->
+Principaux exportateurs mondiaux pour la campagne 2025/2026<br>3%<br>5%<br>8%<br>48%<br>14%<br>Brésil Thaïlande Inde Australie Guatemala<br><!-- End of picture text -->
+
+Sources : USDA / FAS. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+En somme, le bilan mondial de sucre se présente comme suit : 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle du bilan sucrier mondial (MT)<br>173  175  178  179  181  181  176  179  180,7  179,6  180,1  180,3<br>100  99  98<br>79  79<br>-2,3  -1,2  -0,2  -3,2  +1,1  -0,2<br>2021-2022 2022-2023 2023-2024 2024-2025 2025-2026 2026-2027<br>Production Consommation Surplus/Déficit Stocks finaux<br><!-- End of picture text -->
+
+Source : ISO 
+
+##### **_I.3.2. Evolution des cours mondiaux du sucre brut_** 
+
+En 2025, le cours annuel moyen du sucre brut s’est établi à 401 $/T, contre 488 $/T en 2024, confirmant la détente amorcée sur le marché international. Ce repli intervient après une période de forte hausse entre 2021 et 2023, durant laquelle les cours étaient passés de 423 $/T à 566 $/T, sous l’effet notamment des contraintes de production et des tensions sur l’offre mondiale. 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle des cours du sucre brut ($/T)<br>566<br>488<br>423  445  401<br>2021 2022 2023 2024 2025<br>Source : Bloomberg adapté.<br><!-- End of picture text -->
+
+► Evolution des cours du sucre brut en 2026 
+
+Sur la période allant de janvier à août 2026, les cours mondiaux du sucre ont évolué de manière volatile, oscillant entre 321 et 431 $/T, pour une moyenne d’environ 352 $/T. Après un début d’année autour de 347 $/T, les cours ont légèrement progressé en janvier pour atteindre 355 $/T, avant de s’orienter à la baisse en février et d’atteindre un premier point bas de 321 $/T. 
+
+À partir de la fin février, les cours se sont nettement redressés, atteignant 377 $/T en mars, avant de refluer en avril pour revenir à 321 $/T. Une nouvelle reprise s’est amorcée en mai, 
+
+
+
+<!-- Start of picture text -->
+32<br><!-- End of picture text -->
+
+**RAPPORT SUR LA COMPENSATION** 
+
+portant les cours à 363 $/T, suivie d’un repli en juin autour de 335 $/T. La tendance s’est ensuite inversée en juillet, avec une remontée des cours à 360 $/T. 
+
+Cette dynamique haussière s’est sensiblement accentuée au cours du mois d’août. Les cours ont franchi le seuil de 390 $/T avant de poursuivre leur progression pour atteindre 431 $/T en fin de période, soit leur niveau le plus élevé depuis le début de l’année et une hausse de près de 24 % par rapport au niveau observé début janvier. 
+
+Les tensions observées au cours du mois de mars s’expliquent notamment par la dégradation du contexte géopolitique au Moyen-Orient et ses répercussions sur les marchés énergétiques. La hausse des prix du pétrole a renforcé l’attractivité de l’éthanol, alimentant les anticipations d’une réorientation d’une part plus importante de la canne à sucre brésilienne vers la production de biocarburants, au détriment de la production sucrière. Ces anticipations ont ravivé les craintes d’un resserrement de l’offre mondiale. Dans ce contexte, l’indice FAO des prix du sucre a progressé de 7,2 % en mars par rapport au mois précédent, enregistrant la plus forte hausse parmi les principales catégories de produits alimentaires. 
+
+À partir de mai, les cours ont toutefois temporairement perdu du terrain sous l’effet de l’amélioration des perspectives d’approvisionnement mondial. L’accélération du broyage de la canne à sucre au Brésil et l’augmentation de la production sucrière ont contribué à atténuer les inquiétudes relatives à l’offre, malgré la persistance d’incertitudes liées notamment aux conditions climatiques dans plusieurs grands pays producteurs, dont l’Inde et la Thaïlande. 
+
+Enfin, le regain marqué des cours observé en juillet et, surtout, en août traduit le retour des préoccupations entourant les perspectives d’approvisionnement mondial, dans un contexte toujours caractérisé par des incertitudes sur l’offre et par les interactions étroites entre les marchés du sucre, de l’énergie et des biocarburants. 
+
+
+
+<!-- Start of picture text -->
+Evolution des cours du sucre au titre de janvier-aout 2026 ($/T)<br>431<br>390<br>377<br>355  363<br>360<br>347<br>341<br>335<br>321  321<br>02/01/2026 02/02/2026 02/03/2026 02/04/2026 02/05/2026 02/06/2026 02/07/2026 02/08/2026<br><!-- End of picture text -->
+
+Source : Bloomberg 
+
+### **I.4. Marché céréalier** 
+
+Les céréales constituent des denrées stratégiques au regard de leur poids dans l’alimentation mondiale et de l’importance des échanges internationaux qui leur sont associés. Le blé, le maïs, le riz, l’orge et le sorgho représentent les principales céréales produites et consommées à l’échelle mondiale, avec des usages couvrant l’alimentation humaine, l’alimentation animale et certaines activités industrielles. Le blé occupe, à cet égard, une place particulière compte tenu de son rôle essentiel dans la sécurité alimentaire. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+L’évolution des marchés céréaliers demeure étroitement liée aux perspectives de production, aux conditions climatiques, aux niveaux de stocks et aux politiques commerciales des principaux pays producteurs et exportateurs. Elle peut également être affectée par les tensions géopolitiques et les perturbations logistiques, susceptibles d’influencer les flux commerciaux, la disponibilité des produits et, par conséquent, les cours sur les marchés internationaux. 
+
+##### **_I.4.1. Commerce international des céréales_** 
+
+###### **_I.4.1.1. Production et consommation mondiales des céréales_** 
+
+D’après les dernières données publiées par la FAO dans son Bulletin sur l’offre et la demande de céréales, en date du 2 octobre 2026, la production mondiale de céréales devrait atteindre un niveau particulièrement élevé en 2025/2026, pour s’établir à 3.042 MT, contre 2.870,7 MT en 2024/2025, soit une progression d’environ 6%. Cette évolution serait principalement soutenue par l’amélioration de la production des principales céréales, en particulier du maïs, traduisant un renforcement significatif de l’offre mondiale. 
+
+La production mondiale de blé devrait également enregistrer une nette progression, pour atteindre 841,8 MT, contre 800,4 MT une campagne auparavant, soit une hausse d’environ 5%. Cette augmentation serait favorisée par des rendements particulièrement élevés et par l’amélioration des récoltes dans plusieurs grands pays producteurs et exportateurs, ainsi qu’en Inde, au Maroc et au Royaume-Uni. 
+
+La production de riz connaîtrait, pour sa part, une progression plus modérée, passant de 553,5 MT à 566,1 MT, soit une hausse d’environ 2 %. Les céréales secondaires enregistreraient la croissance la plus soutenue, avec une production estimée à 1.634,1 MT, contre 1.516,8 MT en 2024/2025, soit une augmentation d’environ 8 %. 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle de la production mondiale (MT)<br>2811,0  2863,3  2870,7  3042,0  2979,1<br>807,1  792,3  800,4  841,8  813,9<br>2022/2023 2023/2024 2024/2025 2025/2026 (*) 2026/2027 (**)<br>Production Céréales Production Blé<br><!-- End of picture text -->
+
+Source : FAO (* : estimation, ** : prévisions) 
+
+Les données récentes de l’IGC confirment cette orientation favorable, la progression de la production mondiale de blé étant notamment soutenue par le redressement des récoltes dans plusieurs grands pays exportateurs. Cette amélioration serait particulièrement marquée dans l’Union européenne, où la production passerait de 119 MT en 2024/2025 à 143,4 MT en 2025/2026, ainsi qu’en Russie, avec une hausse de 81,7 MT à 90,3 MT. 
+
+Des augmentations significatives seraient également enregistrées en Argentine, dont la production progresserait de 18,5 MT à 27,9 MT, au Canada, de 35,9 MT à 40,6 MT, et en Australie, de 34,1 MT à 36MT. Cette évolution traduirait ainsi un renforcement de l’offre mondiale de blé, porté par l’amélioration des perspectives de récolte chez plusieurs acteurs majeurs du commerce international. 
+
+
+
+<!-- Start of picture text -->
+34<br><!-- End of picture text -->
+
+**RAPPORT SUR LA COMPENSATION** 
+
+
+
+<!-- Start of picture text -->
+Production de blés des principaux exportateurs pour la campagne 2025/2026 (MT)<br>143,4<br>90,3<br>54,0<br>40,6  36,0<br>26,0  27,9<br>19,3<br>EU Russia USA Canada Australia Ukraine Argentina Kazakhstan<br><!-- End of picture text -->
+
+Source : IGC 
+
+L’utilisation mondiale de céréales devrait poursuivre sa progression en 2025/2026, pour s’établir à 2.961,5 MT, contre 2.877,9 MT en 2024/2025, soit une hausse de 2,9 %. Selon la FAO, cette augmentation serait principalement soutenue par la croissance de l’utilisation des céréales secondaires, notamment le maïs, ainsi que du riz. 
+
+En ce qui concerne le blé, l’utilisation mondiale progresserait plus modérément, passant de 795,1 MT en 2024/2025 à 806,6 MT en 2025/2026, soit une hausse de 1,45 %. Cette évolution serait notamment portée par la progression de la consommation alimentaire et de l’alimentation animale. 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle de l'utilisation mondiale (MT)<br>2785  2845,5  2877,9  2961,5  2965,6<br>778,2  794,5  795,1  806,6  805,3<br>2022/2023 2023/2024 2024/2025 2025/2026 (*) 2026/2027 (**)<br>Utilisation Céréales Utilisation Blé<br><!-- End of picture text -->
+
+Source : FAO (* : estimation, ** : prévisions) 
+
+###### **_I.4.1.2. Stocks et échanges mondiaux des céréales_** 
+
+Les stocks mondiaux de céréales devraient atteindre 949,4 MT en 2025/2026, en hausse d’environ 8,7 % par rapport à la campagne précédente. Cette reconstitution interviendrait malgré la progression de l’utilisation mondiale et s’expliquerait principalement par l’augmentation des stocks de blé, de maïs et de riz, dans un contexte marqué par une nette amélioration de l’offre mondiale. 
+
+S’agissant du blé, les stocks mondiaux devraient également connaître une progression significative, passant de 315 MT en 2024/2025 à 345 MT en 2025/2026, soit une hausse d’environ 9,5 %. Cette évolution traduit un renforcement des disponibilités mondiales de blé, favorisé par l’amélioration de la production au cours de la campagne 2025/2026. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle des stocks mondiaux (MT)<br>949,4  950,0<br>874  892,6  873,6<br>320,0  318,6  315  345  353<br>2022/2023 2023/2024 2024/2025 2025/2026 (*) 2026/2027 (**)<br>Stocks Céréales Stocks Blé<br><!-- End of picture text -->
+
+Source : FAO (* : estimation, ** : prévisions) 
+
+Les échanges mondiaux de céréales devraient progresser en 2025/2026, pour s’établir à 524,2 MT, contre 486,2 MT en 2024/2025, soit une hausse d’environ 7,8 %. Cette progression s’expliquerait principalement par le fort rebond des échanges mondiaux de blé et des principales céréales secondaires. En revanche, les échanges mondiaux de riz devraient reculer par rapport à leur niveau de la campagne précédente. 
+
+S’agissant du blé, les échanges mondiaux devraient également augmenter, passant de 193,4 MT en 2024/2025 à 210,1 MT en 2025/2026, soit une hausse d’environ 8,6 %. Cette évolution traduit une reprise des flux commerciaux de blé, en lien avec l’amélioration de l’offre disponible chez plusieurs grands exportateurs. 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle des échanges mondiaux (MT)<br>480,6  514,5  486,2  524,2  505,8<br>201,5  210,2  193,4  210,1  197,2<br>2022/2023 2023/2024 2024/2025 2025/2026 (*) 2026/2027 (**)<br>Echanges Céréales Echanges Blé<br><!-- End of picture text -->
+
+Source : FAO (* : estimation, ** : prévisions) 
+
+##### **_I.4.2. Evolution des cours mondiaux du blé tendre_** 
+
+En 2025, le cours moyen du blé tendre d’origine française s’est établi à 232 $/T, demeurant ainsi quasiment stable par rapport à 2024, où il avait atteint 235 $/T. Cette stabilité s’inscrit dans le prolongement de la détente observée sur le marché mondial du blé depuis le pic enregistré en 2022. 
+
+Après avoir culminé à 367 $/T en 2022, contre 291 $/T en 2021, les cours se sont en effet nettement repliés à partir de 2023, pour s’établir à 267 $/T, puis à 235 $/T en 2024. Cette évolution traduit un apaisement progressif des tensions sur le marché international, favorisé notamment par l’amélioration de l’offre et des disponibilités mondiales plus confortables. 
+
+
+
+<!-- Start of picture text -->
+36<br><!-- End of picture text -->
+
+**RAPPORT SUR LA COMPENSATION** 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle des cours moyens du blé tendre d'origine française ($/T)<br>367<br>291<br>267<br>235  232<br>2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+Source : IGC 
+
+Sur la période allant de janvier à août 2026, le cours du blé tendre FR-GR2 a évolué entre 225 $/T et 288 $/T, pour une moyenne d’environ 241 $/T. Après une évolution relativement modérée en début d’année, les cours ont enregistré une hausse en mars, dans un contexte marqué par les tensions géopolitiques au Moyen-Orient, qui ont ravivé les inquiétudes concernant les coûts de l’énergie, du transport et des intrants agricoles, notamment les engrais. 
+
+Les cours se sont ensuite orientés à la baisse au cours des mois suivants, avant de connaître une progression à partir de juillet, passant de 234 $/T au début du mois à 277 $/T le 22 juillet. Cette tendance haussière s’est poursuivie en août, avec un niveau maximal de 288 $/T atteint le 28 août. Ladite montée en juillet et août s’explique principalement par les perturbations des flux d’exportation de céréales liées à l’intensification du conflit russoukrainien. Les frappes contre les ports et les infrastructures céréalières ont perturbé les exportations et entraîné une hausse des coûts de transport, notamment depuis les ports de la mer Noire. 
+
+
+
+<!-- Start of picture text -->
+Evolution des cours du blé tendre FR-GR2 au titre de la période janvier-août 2026 ($/T)<br>288<br>277<br>245  243  241<br>236  236<br>231  249<br>233  229  225  233<br>01/01/2026 01/02/2026 01/03/2026 01/04/2026 01/05/2026 01/06/2026 01/07/2026 01/08/2026<br><!-- End of picture text -->
+
+Source : IGC 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+## **CHAPITRE II : EVOLUTION DE LA CHARGE DU SOUTIEN DES PRIX DES PRODUITS SUBVENTIONNES** 
+
+### **II.1. Soutien du prix du gaz butane** 
+
+##### **_II.1.1. Evolution des subventions unitaires du gaz butane_** 
+
+► Evolution annuelle des subventions unitaires du gaz butane 
+
+En 2025, la subvention annuelle moyenne accordée à la bonbonne de gaz butane de 12 kg s’est établie à 51 DH, contre 61 DH en 2024, soit une baisse de 10 DH, équivalente à près de 16 %. Cette baisse s’explique principalement par le recul du cours moyen international du gaz butane, conjugué au réajustement partiel du prix de vente intervenu à compter du 20 mai 2024, qui a contribué à réduire le niveau de subvention. 
+
+En dépit de ce repli, le niveau de subvention demeure important, témoignant de la poursuite de l’effort budgétaire consenti par l’État afin de poursuivre le soutien du pouvoir d’achat des citoyens. 
+
+###### **Subvention unitaire annuelle moyenne de la bonbonne de 12 Kg de gaz butane en DH** 
+
+
+
+<!-- Start of picture text -->
+94<br>69<br>58  61<br>51<br>64<br>44  45<br>48<br>39<br>37<br>2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+- Evolution des subventions unitaires du gaz butane au titre de la période janvier- août 2026 
+
+Sur la période allant de janvier à août 2026, la subvention mensuelle moyenne accordée à la bonbonne de gaz butane de 12 kg s’est établie à près de 61,79 DH, contre 53,38 DH au cours de la même période de 2025, soit une diminution de 8,4 DH, équivalente à environ 15,75 %. 
+
+Durant les trois premiers mois de l’année, le niveau de la subvention est demeuré relativement contenu, oscillant entre 46 DH et 51 DH par bonbonne, pour une moyenne de 49 DH. À partir du mois d’avril, une nette hausse a été enregistrée, portant la subvention à 79 DH, son niveau le plus élevé sur la période considérée. Elle est ensuite restée à des niveaux soutenus en mai et juin, atteignant respectivement 77 DH et 78 DH. 
+
+Pour les mois de juillet et août, la subvention unitaire s’est élevée à 58 DH. Cette détente, après les niveaux élevés observés au deuxième trimestre, traduit un allègement du coût de revient de la bonbonne, sans toutefois permettre un retour aux niveaux enregistrés en début d’année. 
+
+38 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+
+
+<!-- Start of picture text -->
+Evolution de la subvention mensuelle de la bonbonne de 12 Kg en DH<br>79<br>78<br>77  58<br>49<br>58<br>51<br>46<br>jan-26 fév-26 mar-26 avr-26 mai-26 jui-26 juil-26 aout-26<br>Avant-guerre Après-guerre<br><!-- End of picture text -->
+
+Sur la période allant de janvier à août 2026, le coût de revient réel de la bonbonne de gaz butane de 12 kg a enregistré une forte hausse à partir du mois d’avril, passant de 101 DH en mars à 129 DH en avril, soit son niveau le plus élevé sur la période considérée. Il s’est ensuite maintenu à des niveaux élevés, à 127 DH en mai et 128 DH en juin, avant de se replier à 108 DH en juillet et en août. 
+
+Cette évolution s’est accompagnée d’un accroissement de la part du coût prise en charge par l’État à travers le mécanisme de compensation. La part de la subvention est ainsi passée de 49 % en janvier à 61 % en avril, avant de se maintenir autour de 60 % en mai et en juin. Malgré son repli à 54 % en juillet et en août, elle demeure supérieure au niveau observé au début de l’année. 
+
+Corrélativement, la part supportée par le consommateur à travers le prix de vente est passée de 51 % du coût réel en janvier à 39 % en avril, avant de remonter à 46 % en juillet et en août. Ces évolutions mettent en évidence le rôle d’amortisseur joué par la compensation, qui a permis d’absorber une part substantielle de la hausse du coût de revient de la bonbonne et d’en limiter la répercussion sur le prix acquitté par le consommateur. 
+
+|||**Avant-guerr**|**e**|||**Après-guer**|**re**||
+|---|---|---|---|---|---|---|---|---|
+||**Janvier**|**Février**|**Mars**|**Avril**|**Mai**|**Juin**|**Juillet**|**Août**|
+|**Coût de revient réel DH/B**|99|96|101|129|127|128|108|108|
+|**Part de la subvention(%)**|49%|48%|50%|61%|60%|60%|54%|54%|
+|**Part duprix de vente(%)**|51%|52%|50%|39%|40%|40%|46%|46%|
+
+
+
+Tableau : Taux de subvention du prix du gaz butane en 2026 
+
+##### **_II.1.2. Importation et consommation nationales du gaz butane_** 
+
+###### ► Evolution des importations 
+
+En 2025, les importations nationales de gaz butane se sont établies à 2,63 millions de tonnes, contre 2,89 millions de tonnes en 2024, soit une baisse de 0,26 million de tonnes, équivalente à près de 10 %. Ce repli intervient après le niveau particulièrement élevé enregistré en 2024, qui avait constitué le point culminant de la période observée. 
+
+Malgré cette baisse, les volumes importés demeurent supérieurs à ceux enregistrés avant 2022, confirmant la dépendance structurelle du marché national aux approvisionnements extérieurs. Cette situation souligne l’importance d’assurer la sécurité et la continuité des approvisionnements, dans un contexte où le coût des importations reste étroitement lié à l’évolution des cours internationaux, des coûts du fret maritime et des conditions d’accès aux cargaisons disponibles sur le marché mondial. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+
+
+<!-- Start of picture text -->
+Les importations nationales du gaz butane en MT<br>2,89<br>2,33  2,44  2,54  2,66  2,59  2,78  2,76  2,63<br>2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+Source : L’office des changes 
+
+En 2025, les importations nationales de gaz butane sont demeurées fortement concentrées sur l’origine américaine, qui a représenté 78 % du panier d’approvisionnement, contre 22 % pour l’Europe. Rapportée à un volume total importé de 2,63 millions de tonnes, cette répartition correspond à près de 2,05 millions de tonnes en provenance des États-Unis et à environ 0,58 million de tonnes d’origine européenne, les autres sources d’approvisionnement étant devenues marginales. 
+
+Cette configuration confirme la place prépondérante des États-Unis dans l’approvisionnement du marché national, favorisée notamment par l’abondance de l’offre américaine, sa compétitivité ainsi que la capacité des opérateurs nationaux à sécuriser des flux réguliers. 
+
+
+
+<!-- Start of picture text -->
+Les importations du  Évolution mensuelle du poids des sources<br>gaz butane par  d’approvisionnement du gaz butane au 1er semestre<br>origine ( % )  2026<br>86%<br>76%  77%  78%  79%  81%<br>71%  68%  69%<br>64%<br>26%<br>24%  23%<br>22%  10% 19%  12%  11%  12% 9% 11%  17% 12%<br>2% 1%  5% 3%  6% 6% 2% 0%  4% 4% 1%  1% 5% 1%  0%  2%  0%<br>2022 2023 2024 2025 janvier février mars Avril mai juin<br>USA Europe États-Unis Espagne Royaume-Uni<br>Autre Algérie Autres pays européens Autres pays<br><!-- End of picture text -->
+
+Source : L’office des changes 
+
+Les importations nationales de gaz butane ont atteint un niveau semestriel record de 1,49 MT au premier semestre 2026, en hausse de près de 7 % en glissement annuel. 
+
+Au premier semestre de l’année 2026, l’origine américaine est demeurée prépondérante dans l’approvisionnement national en gaz butane, malgré des variations mensuelles liées aux conditions de chargement et d’acheminement. En janvier, sa part s’est établie à 64 %, dans un contexte marqué par des perturbations climatiques ayant affecté certains terminaux d’exportation du golfe du Mexique. Afin de sécuriser la couverture des besoins du marché national, notamment à l’approche du mois de Ramadan, les opérateurs ont 
+
+40 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+davantage eu recours aux origines européennes, en particulier au Royaume-Uni, avec 19 %, et à l’Espagne, avec 10 %. Le recours au marché britannique a également permis de mobiliser des navires de plus grande capacité que les caboteurs généralement utilisés pour les flux en provenance d’Espagne. 
+
+En février, la part des approvisionnements d’origine américaine a fortement progressé pour atteindre 86 %, sous l’effet notamment de l’arrivée de cargaisons initialement retardées en janvier à la suite des épisodes de froid et de brouillard ayant affecté certains ports américains. Corrélativement, la contribution des principales origines européennes s’est repliée, à 6 % pour l’Espagne, 6 % pour le Royaume-Uni et 2 % pour la Norvège. 
+
+En mars, l’origine américaine est restée largement dominante, représentant 79 % des approvisionnements, contre 12 % pour l’Espagne et 4 % pour le Royaume-Uni. Les autres origines sont demeurées marginales, avec notamment 3 % pour le Portugal, 1 % pour la Belgique et 1 % pour Trinité-et-Tobago. Dans l’ensemble, cette évolution confirme la place centrale des cargaisons américaines dans le dispositif national d’approvisionnement, tout en mettant en évidence le rôle complémentaire des fournisseurs européens pour absorber ponctuellement les aléas logistiques et renforcer la sécurité de couverture des besoins du marché. 
+
+Il convient de relever que le mois de mars 2026 a enregistré le niveau d’importations de gaz butane le plus élevé observé depuis avril 2024, avec un volume supérieur à 273 KT. Cette dynamique de renforcement et de sécurisation des approvisionnements s’est poursuivie et amplifiée au cours du mois d’avril. 
+
+En avril 2026, dans un contexte de tensions sur l’approvisionnement international en butane liées à la fermeture du détroit d’Ormuz, les importations nationales ont atteint un record historique de 331,44 KT, dépassant le pic de mars 2022. Ce volume représente une hausse de 48 % par rapport à la moyenne mensuelle du premier trimestre 2026 et de 51 % par rapport à celle de 2025, afin de préserver la continuité de l’approvisionnement et de maintenir des stocks suffisants. 
+
+Pour anticiper la concurrence accrue sur les cargaisons, les opérateurs ont mobilisé plus de 268 KT de butane américain, soit près de 81 % du total mensuel. Des volumes complémentaires provenant d’Europe et d’Amérique latine ont contribué à diversifier les sources d’approvisionnement. 
+
+Après le renforcement des stocks en mars et avril, les importations de butane ont retrouvé, en mai et juin, des niveaux proches de ceux d’avant-crise. La part de l’origine américaine s’est établie respectivement à 68 % et 69 %, tandis que celle des approvisionnements européens a dépassé 30 % sur la période, avec un élargissement des pays fournisseurs. 
+
+Cette évolution s’explique notamment par une moindre disponibilité des cargaisons américaines pour le Maroc, sous l’effet d’une concurrence accrue de l’Inde et de l’Indonésie, traditionnellement approvisionnées en grande partie par les pays du Golfe. 
+
+La sécurisation des approvisionnements s’est poursuivie au troisième trimestre 2026 à travers la diversification des sources, les États-Unis demeurant le premier fournisseur du Royaume. Cette démarche a permis aux opérateurs nationaux de disposer, à fin septembre 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+2026, de stocks confortables, malgré les tensions sur les disponibilités internationales de butane et les contraintes d’approvisionnement affectant plusieurs grands marchés. 
+
+
+
+<!-- Start of picture text -->
+Les poids des principaux clients du  Les poids des principaux clients du<br>butane américain T1-2026   butane américain T2-2026<br>13,97%<br>20,68%<br>12,06% 11,37%<br>9,01%<br>7,36%<br>6,29%  9,77% 9,66% 8,90%<br>4,87% 4,40%<br>6,38% 6,36% 5,30%<br>2,94% 2,49%<br>2,89% 2,84%<br>1,68%<br><!-- End of picture text -->
+
+Source : EIA 
+
+Au premier trimestre 2026, le Maroc a été le premier importateur de butane américain, représentant 13,97 % des exportations des États-Unis, devant l’Inde avec 12,06 % et l’Indonésie avec 11,37 %. Cette position souligne la place majeure du butane d’origine américaine dans l’approvisionnement du marché national et traduit la poursuite des efforts des opérateurs marocains pour sécuriser leurs achats auprès d’une source offrant des disponibilités abondantes et régulières. 
+
+Au deuxième trimestre 2026, la hiérarchie des principaux débouchés du butane américain a évolué. L’Inde est passée au premier rang, avec 20,68% des exportations américaines, suivie de l’Indonésie avec 9,77% et du Maroc avec 9,66%. Cette évolution traduit surtout la forte accélération des achats indiens auprès des États-Unis, dans un contexte de baisse des disponibilités habituelles en provenance des pays de Golfe et de recherche de cargaisons alternatives. 
+
+Le passage du Maroc du premier au troisième rang ne traduit pas nécessairement un recul de son approvisionnement en volume, mais plutôt une baisse de sa part relative dans un marché où la demande indienne a fortement progressé. Le Maroc demeure ainsi parmi les principaux débouchés du butane américain, confirmant l’ancrage de cette origine dans le panier d’approvisionnement national. 
+
+Cette évolution met en évidence la concurrence accrue sur les cargaisons américaines de butane au deuxième trimestre 2026. La montée de l’Inde, conjuguée au maintien de l’Indonésie et du Maroc parmi les premiers clients, illustre la recomposition des flux internationaux de GPL et l’importance croissante des États-Unis dans la couverture des besoins des marchés importateurs. 
+
+42 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+###### ► Evolution de la consommation 
+
+
+
+<!-- Start of picture text -->
+Evolution de la consommation<br>nationale en équivalent de millions de<br>bonbonnes de 12 kg<br>221,9 222,3  227,3 234,2 235,7 227,5<br>211,7<br>199,1<br>145<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Evolution de la consommation<br>nationale du gaz butane en MT<br>2,81  2,83<br>2,73  2,73<br>2,66  2,67<br>2,54<br>2,39<br>1,74<br><!-- End of picture text -->
+
+Source : Caisse de compensation 
+
+* : Données prévisionnelles au titre de la période janvier-août 2026 
+
+La consommation de gaz butane sur le marché marocain demeure structurellement élevée, compte tenu de son importance dans les usages domestiques, notamment pour la cuisson et le chauffage. 
+
+Cette tendance ressort nettement sur la période 2018-2024, au cours de laquelle la consommation nationale est passée de 199,1 millions à 235,7 millions de bonbonnes de 12 kg, soit une progression de 36,6 millions de bonbonnes (+18,4 %). 
+
+En 2025, la consommation s’est toutefois repliée à 227,5 millions de bonbonnes, contre 235,7 millions en 2024, soit une baisse de 3,5 %. Ce recul traduit une normalisation après le niveau particulièrement élevé enregistré en 2024, tout en maintenant la consommation à un niveau supérieur à ceux observés avant 2022. 
+
+Sur les huit premiers mois de 2026, la consommation nationale de gaz butane s’est établie à 1,74 MT, soit l’équivalent de 145 millions de bonbonnes de 12 kg. Ce niveau représente près de 64 % de la consommation totale enregistrée en 2025, aussi bien en volume qu’en équivalent de bonbonnes. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+##### **_II.1.3. Situation de la charge de compensation du gaz butane_** 
+
+- Charge de compensation du gaz butane 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle de la charge de compensation du gaz butane (MMDH)<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+21,8<br>16,7<br>14,6  15<br>12,1  12<br>8,7  10,3  10,4  9,1  9<br>7,1<br>2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 (*)<br><!-- End of picture text -->
+
+Source : Caisse de Compensation * : Données prévisionnelles au titre de la période janvier-août 2026 
+
+Entre 2015 et 2025, l’État a consacré près de 137,8 MMDH à la compensation du gaz butane, témoignant de l’importance de l’effort budgétaire mobilisé pour soutenir le prix de vente de ce produit et en atténuer le coût pour les consommateurs. 
+
+En 2025, la charge de compensation du gaz butane s’est établie à près de 12 MMDH, contre 15 MMDH en 2024, soit une baisse de 20 % en glissement annuel. Ce repli s’explique principalement par la baisse de la subvention unitaire moyenne accordée à la bonbonne de 12 kg, passée de 61 DH en 2024 à 51 DH en 2025, sous l’effet notamment du réajustement partiel du prix de vente intervenu à compter du 20 mai 2024. 
+
+Cette évolution favorable s’explique également par l’amélioration des conditions d’importation. Le cours CIF moyen du gaz butane a baissé de 4,8 %, passant de 559 $/T en 2024 à 532 $/T en 2025. Parallèlement, l’appréciation du dirham vis-à-vis du dollar, avec un taux de change moyen passant de 9,9411 DH/$ à 9,3506 DH/$, a contribué à réduire le coût d’approvisionnement. L’effet conjugué de ces deux facteurs a permis un allègement de la charge budgétaire de compensation en 2025. 
+
+Au titre de la période janvier-août 2026, la charge de compensation liée au soutien des prix du gaz butane devrait s’établir à près de 9 milliards de dirhams. La charge mensuelle moyenne de compensation du gaz butane a augmenté de près de 38 % en passant d’environ 0,9 milliard de dirhams avant la guerre au Moyen-Orient à près de 1,3 milliard de dirhams sous l’effet de ses répercussions. 
+
+### **II.2. Soutien du prix du sucre** 
+
+Le sucre figure parmi les produits de première nécessité dont les prix demeurent réglementés par l’État. À ce titre, le dispositif public de soutien repose sur deux principaux mécanismes de subvention, destinés à garantir un prix de sortie d’usine fixe, uniforme et réglementé, quelle que soit l’origine du sucre, qu’il soit issu de la production nationale ou de l’importation : 
+
+- La première intervention concerne les quantités importées de sucre brut, destinées à combler le déficit de la production locale. Ces importations sont assujetties à une subvention additionnelle, ou le cas échéant à une restitution en faveur de l’État, permettant de couvrir l’écart entre le prix de revient à l’importation du sucre brut et le 
+
+44 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+prix cible fixé par l’Administration. Ce mécanisme vise ainsi à atténuer l’impact de la volatilité des cours mondiaux du sucre sur le marché national ; 
+
+- La deuxième intervention porte sur le soutien du prix à la consommation, appliqué à la totalité de la consommation nationale de sucre, estimée à environ 1,24 million de tonnes. Ce soutien prend la forme d’une subvention forfaitaire à la consommation, actuellement fixée à environ 3,67 dirhams par kilogramme, permettant de maintenir un prix accessible pour le consommateur. 
+
+##### **_II.2.1. Consommation et production nationales du sucre blanc_** 
+
+- Consommation nationale du sucre blanc 
+
+En 2025, la consommation nationale de sucre blanc s’est établie à 1.230 KT, en léger recul de 0,8 % par rapport à 2024, où elle avait atteint 1.240 KT. Cette évolution intervient après une progression régulière observée entre 2021 et 2024, la consommation étant passée de 1.197 KT à 1.240 KT, soit une hausse cumulée d’environ 3,6 % sur la période. 
+
+###### **Evolution annuelle de la consommation nationale du sucre blanc en KT** 
+
+
+
+<!-- Start of picture text -->
+1197  1202  1209  1240  1230<br>797,78<br>2021 2022 2023 2024 2025 2026(*)<br><!-- End of picture text -->
+
+* : Données prévisionnelles au titre de la période janvier-août 2026 
+
+Au titre de la période janvier-août 2026, la consommation nationale de sucre blanc est estimée à 797,78 KT, dominée par le sucre granulé, qui concentre 62 % du volume total. Le sucre en pain représente 21 % de la consommation, suivi du sucre lingot avec 15 %, et le sucre en morceaux avec une part limitée à 2 %. 
+
+###### **Répartition de la consommation nationale du sucre blanc par type en %** 
+
+
+
+<!-- Start of picture text -->
+21%<br>15%<br>62%<br>2%<br>Pain Lingot Morceau Granulé<br><!-- End of picture text -->
+
+Source : Rapports Conseil d’Administration de la Caisse de Compensation 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+► Production nationale de sucre blanc 
+
+En 2026, la production nationale de sucre devrait s’établir à 300 KT, contre 280 KT en 2025, traduisant la poursuite de la reprise engagée après le faible niveau enregistré en 2024. Cette évolution reflète l’amélioration progressive des résultats de la filière sucrière, favorisée notamment par l’extension des superficies cultivées, l’amélioration des conditions hydriques et l’accroissement des performances agronomiques. 
+
+Cette évolution intervient après une forte contraction de la production entre 2021 et 2024, celle-ci étant passée de 388 KT à 191 KT, soit une baisse d’environ 51 %, avec des niveaux de 321 KT en 2022 et 224 KT en 2023. Ce recul s’explique principalement par la succession des années de sécheresse et la raréfaction des ressources hydriques, qui ont fortement affecté les superficies cultivées et les rendements des cultures sucrières. 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle de la production nationale du sucre en KT<br>388<br>321<br>300*<br>280<br>224<br>191<br>2021 2022 2023 2024 2025 2026<br><!-- End of picture text -->
+
+Source : MAPMDREF * : Estimations 
+
+En 2026, la production nationale de sucre devrait couvrir 24 % de la consommation, contre 23 % en 2025. Cette évolution traduit une amélioration progressive du taux de couverture depuis le niveau le plus faible enregistré en 2024. 
+
+Ce taux avait en effet fortement reculé entre 2021 et 2024, passant de 32 % à 15 %, sous l’effet de la baisse marquée de la production nationale. Malgré l’amélioration observée depuis 2025, la couverture des besoins demeure encore limitée, maintenant ainsi une forte dépendance aux importations pour satisfaire la demande nationale. 
+
+
+
+<!-- Start of picture text -->
+Taux de couverture de la consommation par la production nationale en %<br>32%<br>27%<br>24%<br>23%<br>19%<br>15%<br>2021 2022 2023 2024 2025 2026<br><!-- End of picture text -->
+
+Source: Rapports Conseil d’Administration de la Caisse de Compensation 
+
+46 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+##### **_II.2.2. Importation du sucre brut_** 
+
+En 2025, les importations de sucre brut se sont établies à 821 KT, contre 1.095 KT en 2024, soit un recul d’environ 25 %. Cette baisse intervient après plusieurs années de renforcement du recours aux importations, sous l’effet notamment du déficit de la production nationale, les volumes importés ayant augmenté de 68 % entre 2019 et 2023. 
+
+Le repli observé en 2025 s’explique principalement par la reprise partielle de la production nationale, dans un contexte également marqué par la détente des cours mondiaux du sucre. 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle des importations du sucre brut en KT<br>1095<br>1034<br>830  821<br>759<br>2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+Source : Rapports Conseil d’Administration de la Caisse de Compensation 
+
+Au titre de la période janvier-août 2026, les importations de sucre brut se sont élevées à 606 KT. 
+
+
+
+<!-- Start of picture text -->
+Evolution mensuelle des importations du sucre brut sur la période janvier-août 2026 (KT)<br>126<br>99<br>85<br>65  64  65  66<br>36<br>janvier février mars avril mai juin juillet août<br><!-- End of picture text -->
+
+Données prévisionnelles 
+
+En 2026, le taux de couverture de la consommation nationale par les importations devrait s’établir à 76 %, contre 77 % en 2025, poursuivant ainsi le léger repli amorcé l’année précédente. Cette évolution intervient après une hausse marquée de ce taux, passé de 68 % en 2021 à 85 % en 2024, sous l’effet du recul de la production nationale et du recours accru aux importations. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+
+
+<!-- Start of picture text -->
+Taux de couverture de la consommation par l'importation en %<br>85%<br>81%<br>77%<br>76%<br>73%<br>68%<br>2021 2022 2023 2024 2025 2026<br><!-- End of picture text -->
+
+Source: Rapports Conseil d’Administration de la Caisse de Compensation 
+
+##### **_II.2.3. Situation de la charge de compensation du sucre_** 
+
+###### ► Charge de compensation du sucre à la consommation 
+
+En 2025, la charge de compensation du sucre à la consommation s’est établie à près de 4,4 milliards de DH, soit le même niveau enregistré en 2024. 
+
+Cette charge avait connu une hausse sensible à partir de 2023, atteignant près de 4,1 MMDH, contre 3,4 MMDH en 2021 et 2022. Cette évolution s’explique principalement par la revalorisation de 27 % de la subvention forfaitaire à la consommation, entrée en vigueur le 14 avril 2023, consécutivement à l’augmentation des prix des cultures sucrières décidée afin de soutenir et de relancer la production nationale de sucre. 
+
+
+
+<!-- Start of picture text -->
+Charge annuelle du sucre à la consommation en MMDH<br>4,4  4,4<br>4,1<br>3,4  3,4<br>2,7<br>2021 2022 2023 2024 2025 2026*<br><!-- End of picture text -->
+
+* : Données prévisionnelles au titre de la période janvier-août 2026 
+
+Au titre de la période janvier-août 2026, la charge de compensation du sucre raffiné pourrait s’élever à près de 2,7 milliards de DH. 
+
+- Charge de compensation du sucre à l’importation 
+
+En 2025, la charge liée au soutien à l’importation du sucre brut s’est établie à un niveau quasi nul, contre 1,76 milliard de DH en 2024. Les conditions actuelles du marché se traduisent par des restitutions au profit de l’État. 
+
+Au titre de la période janvier-août 2026, le montant global à restituer à la Caisse de Compensation au titre des importations du sucre brut pourrait atteindre 0,7 milliard de DH. Cette évolution contraste avec les niveaux élevés de soutien observés à la suite de la réactivation du dispositif en 2022, année au cours de laquelle la charge avait atteint près de 1,27 milliard de DH, avant de culminer à 2,51 milliards de DH en 2023, puis de se replier à 1,76 milliard de DH en 2024. 
+
+
+
+<!-- Start of picture text -->
+48<br><!-- End of picture text -->
+
+**RAPPORT SUR LA COMPENSATION** 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle de la charge à l'importation du sucre brut en MMDH<br>2,51<br>1,76<br>1,27<br>0,19<br>-<br>2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+Source : Rapports Conseil d’Administration de la Caisse de Compensation 
+
+### **II.3. Soutien du prix du blé tendre et de la farine nationale du blé tendre** 
+
+Le blé tendre constitue un produit stratégique pour la sécurité alimentaire nationale, en raison de son rôle central dans la fabrication du pain et de la forte dépendance de la production nationale aux conditions climatiques. Cette situation conduit le Maroc à recourir régulièrement aux importations pour compléter l’offre locale, exposant ainsi le marché national aux fluctuations des cours internationaux ainsi qu’aux coûts du fret, de l’énergie et de la logistique. 
+
+En 2026, les tensions géopolitiques au Moyen-Orient n’ont pas remis en cause la sécurité de l’approvisionnement du Royaume en blé tendre, les principales origines d’importation n’étant pas directement tributaires des routes affectées par le conflit. Les impacts observés demeurent principalement indirects, à travers la hausse des cours mondiaux et des coûts logistiques. Par ailleurs, les tensions susceptibles d’affecter le marché international des engrais, constituent un facteur de vigilance pour les prochaines campagnes agricoles. Dans ce contexte, la bonne campagne céréalière 2025/2026 et le renforcement des opérations de collecte contribuent à améliorer la résilience du marché national. 
+
+Afin de garantir la disponibilité du blé tendre, de la farine et du pain à des prix accessibles, l’intervention de l’État repose principalement sur deux mécanismes : le soutien à la farine nationale de blé tendre, à travers un contingent annuel de 6,26 millions de quintaux, et le soutien à l’importation du blé tendre, mobilisé lorsque les conditions du marché international le justifient, notamment à travers la suspension des droits de douane et, le cas échéant, un mécanisme de restitution par rapport à un prix de référence de 270 DH/quintal. 
+
+##### **_II.3.1. Production et collecte nationales des céréales_** 
+
+► Production nationale des céréales 
+
+Au titre de la campagne 2025/2026, la production céréalière nationale s’élève à 90 millions de quintaux (MQx), selon les estimations du ministère de l’Agriculture, de la Pêche Maritime, du Développement Rural et des Eaux et Forêts. Elle se répartit entre 44 MQx de blé tendre, 21 MQx de blé dur et 25 MQx d’orge. Ce niveau représente une hausse de 109 % par rapport à la campagne 2024/2025, dont la production s’était limitée à 43 MQx. 
+
+Cette forte progression s’explique principalement par l’amélioration des conditions climatiques, marquées par des précipitations plus abondantes et mieux réparties au cours de la campagne, favorisant le développement des cultures dans les principales zones céréalières. La reprise a concerné l’ensemble des espèces, avec une nette amélioration des volumes de blé tendre, de blé dur et d’orge par rapport à la campagne précédente. 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+
+
+<!-- Start of picture text -->
+Evolution annuelle de la production nationale des céréales (MQx)<br>90<br>55,1<br>44<br>43<br>34  31,2<br>29,8<br>21<br>22<br>18,9  17,5<br>11,8  11<br>8,1  7,1  25<br>7  13,5  6,6  10<br>2021/2022 2022/2023 2023/2024 2024/2025 2025/2026<br>Orge Blé dur Blé tendre<br><!-- End of picture text -->
+
+Source : MAPMDREF 
+
+Selon les données de la Direction Générale de la Météorologie, l'hiver 2025/2026 a été marqué par une pluviométrie exceptionnelle, avec un cumul moyen national de 136 mm, soit près du double de la normale hivernale de 71 mm. Cette saison se classe ainsi au troisième rang des hivers les plus pluvieux enregistrés au Maroc depuis 1981, après ceux de 2010 et de 1996. Les précipitations ont été accompagnées d'un enneigement remarquable et d'un nombre record de jours de pluie dans plusieurs régions du Royaume. 
+
+Ces conditions ont favorisé une amélioration significative des ressources hydriques, contribuant à la recharge des barrages, à l'humidification des sols et à la reconstitution du couvert végétal. Elles ont également créé un contexte favorable au développement des cultures céréalières et des autres filières agricoles. 
+
+
+
+<!-- Start of picture text -->
+Répartition de la production des céréales par espèce (%)<br>28%<br>49%<br>23%<br>Orge Blé dur Blé tendre<br><!-- End of picture text -->
+
+Source : MAPMDREF 
+
+Au titre de la campagne 2025/2026, la production céréalière nationale demeure fortement concentrée dans quatre régions, avec en tête Casablanca-Settat, qui représente 29 % du total national, suivie de Fès-Meknès (21 %), Rabat-Salé-Kénitra (16 %) et Marrakech-Safi (13 %). À elles seules, ces quatre régions concentrent ainsi près de 79 % de la production céréalière nationale. 
+
+
+
+<!-- Start of picture text -->
+50<br><!-- End of picture text -->
+
+**RAPPORT SUR LA COMPENSATION** 
+
+
+
+<!-- Start of picture text -->
+Répartition de la production des céréales : principales regions (%)<br>13%<br>29%<br>16%<br>21%<br>■ Casa-Settat Fes-Meknès ■ Rabat-Salé-Kénitra ■ Marrakech-Safi<br><!-- End of picture text -->
+
+Source : MAPMDREF 
+
+###### ► Collecte nationale de la production en blé tendre 
+
+Afin d’assurer la commercialisation de la récolte céréalière nationale 2026 dans des conditions favorables et de renforcer les capacités de stockage stratégique, le Gouvernement a mis en place un dispositif de soutien piloté par l’ONICL. 
+
+   - Ce dispositif prévoit la fixation d’un prix référentiel cible de 280 DH par quintal pour le blé tendre national répondant aux normes de qualité en vigueur, en tenant compte de l’évolution des prix sur les marchés national et international. Ce prix intègre l’ensemble des coûts, taxes et marges, y compris les frais d’acheminement du blé tendre jusqu’aux minoteries industrielles ; 
+
+   - La période de commercialisation intensive de la récolte a été fixée du <u>1</u><sup>er</sup> <u>juin au 31 août 2026 ;</u> 
+
+   - Afin d’encourager la collecte du blé tendre national, le dispositif prévoit le maintien de la prime de magasinage, fixée à 2,50 DH par quintal et par quinzaine de stockage du blé tendre de la récolte nationale 2026, au profit des organismes stockeurs, et ce jusqu'au 31 décembre 2026 ; 
+
+   - Ce dispositif prévoit également l'octroi d'une prime de stockage de 3 DH par quintal et par quinzaine au profit des organismes stockeurs, destinée à soutenir la constitution d'un stock stratégique conservé pendant au moins deux mois. Cette prime est accordée jusqu'au 31 janvier 2027 ; 
+
+   - La prise en charge des frais de transport du blé tendre libre vers les provinces éloignées, notamment Ouarzazate, Errachidia et Guelmim ; 
+
+- Des appels d’offres peuvent être organisés pour l’acquisition de blé tendre destiné à l’approvisionnement des minoteries produisant la farine nationale subventionnée. 
+
+- Il y a lieu de noter qu’à fin août 2026, la quantité de blé tendre collectée par les opérateurs <u>de la filière a atteint près de 6,5 millions de quintaux.</u> 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+
+
+<!-- Start of picture text -->
+Production nationale et collecte du blé tendre (MQx)<br>44<br>29,80<br>22,49<br>18,90<br>17,49<br>1,40  1,70  1,79  1,51  6,50<br>2021/2022 2022/2023 2023/2024 2024/2025 2025/2026<br>Quantité produite Quantité collectée<br><!-- End of picture text -->
+
+Source : Rapports Conseil d’Administration de l’ONICL 
+
+##### **_II.3.2. Importation des céréales_** 
+
+Au cours de la campagne 2025/2026, les importations nationales des principales céréales se sont établies à environ 105,69 MQx, en hausse de près de 7 % par rapport à la campagne précédente, où elles avaient atteint 99 MQx. Cette progression traduit le maintien de besoins importants d’approvisionnement du marché national, malgré l’amélioration sensible de la production céréalière enregistrée au titre de la campagne 2025/2026. 
+
+La structure des importations demeure dominée par le blé tendre, avec un volume de 51,0 MQx, représentant près de 48 % du total. Le maïs arrive en deuxième position avec 36,7 MQx, soit environ 35 % des importations, en progression de 24 % par rapport à la campagne précédente. Les importations de blé dur se sont élevées à 12,5 MQx, tandis que celles de l’orge ont nettement reculé, passant de 9,2 MQx à 5,51 MQx, soit une baisse d’environ 40 %. Cette configuration s’explique principalement par le poids structurel du blé tendre dans la satisfaction des besoins nationaux en farine et en pain, ainsi que par l’importance du maïs dans l’alimentation animale. Le recul marqué des importations d’orge s’inscrit, quant à lui, dans un contexte marqué par l’achèvement des programmes exceptionnels liés à la sécheresse et à la reconstitution du cheptel, l’amélioration des parcours à la faveur des précipitations enregistrées et la mise en place du programme d’aide directe destiné aux éleveurs. 
+
+
+
+<!-- Start of picture text -->
+Importations des céréales principales (MQx)<br>49,4  51,0<br>46,2<br>36,7<br>29,6<br>25,9<br>15,4<br>8,7  10,8  12,5  9,2<br>5,5<br>Blé tendre Blé dur Orge Maïs<br>2023/2024 2024/2025 2025/2026<br><!-- End of picture text -->
+
+Source : Rapports Conseil d’Administration de l’ONICL 
+
+► Origines d’importation des céréales et du blé tendre 
+
+Au cours de la campagne 2025/2026, les importations céréalières du Royaume ont été assurées auprès de treize pays fournisseurs. La France a conforté sa position de premier 
+
+52 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+partenaire, avec 37 % des volumes importés, devant le Brésil et l’Argentine, qui représentent chacun 17 % des approvisionnements. 
+
+La répartition par type de céréale fait apparaître une forte concentration des origines. Le Canada a assuré la totalité des importations de blé dur, tandis que la France demeure le principal fournisseur de blé tendre, avec 69 % des volumes importés. Pour le maïs, les approvisionnements proviennent principalement du Brésil (51 %), de l’Argentine (28 %) et des États-Unis (21 %). S’agissant de l’orge, la France occupe également une place prépondérante, avec 73 % des quantités importées. 
+
+► Quantités importées du blé tendre en 2025 
+
+En 2025, les importations de blé tendre se sont élevées à 49,0 MQx, avec une évolution mensuelle adaptée aux besoins du marché national. Elles ont culminé à 7,88 MQx en mars, avant de reculer à 1,62 MQx en mai, au début de la commercialisation de la récolte nationale, puis de reprendre durant l’été. Cette évolution reflète l’ajustement des achats extérieurs aux besoins des minoteries, au niveau des stocks et aux conditions du marché international. 
+
+###### **Evolution des importations du blé tendre au titre de l'année 2025 (MQx)** 
+
+
+
+<!-- Start of picture text -->
+7,88<br>6,38<br>5,93<br>4,61  4,70<br>4,23<br>3,54<br>3,02<br>2,49  2,73<br>1,87<br>1,62<br>jan.-25 fév.-25 mar.-25 avr.-25 mai-25 jui.-25 juil.-25 août-25 sept.-25 oct.-25 nov.-25 déc.-25<br><!-- End of picture text -->
+
+Source : Rapports Conseil d’Administration de l’ONICL 
+
+###### ► Quantités importées du blé tendre au titre de janvier-août 2026 
+
+Au cours du premier semestre 2026, les importations nationales de blé tendre se sont établies à environ 18,10 MQx. Après un recul entre janvier (4,94 MQx) et mars (3,14 MQx), elles ont rebondi en avril (4,01 MQx), avant de diminuer fortement en mai (1,65 MQx) puis de s’interrompre à partir de juin. Cette évolution s’explique par l’entrée en vigueur des droits d’importation pendant la période de collecte de la récolte nationale, afin de favoriser l’écoulement de la production locale. 
+
+###### **Evolution des importations nationales du blé tendre au titre de janvier-aout 2026 (MQx)** 
+
+
+
+<!-- Start of picture text -->
+4,94<br>4,36<br>4,01<br>3,14<br>1,65<br>0,00  0,00  0,00<br>jan.-26 fév.-26 mar.-26 avr.-26 mai-26 jui.-26 juil.-26 août-26<br><!-- End of picture text -->
+
+Source : Rapports Conseil d’Administration de l’ONICL 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+###### ► Evolution des droits de douanes à l’importation du blé tendre 
+
+Afin d'assurer un équilibre entre la protection de la production nationale et la sécurité de l'approvisionnement du marché en blé tendre, l'État adapte le niveau des droits de douane en fonction de l'évolution des cours internationaux et de la conjoncture des marchés national et international. 
+
+
+
+<!-- Start of picture text -->
+Evolution des droits de douane du blé tendre (%)<br>135%  135%  135%  135%<br>65%<br>35%<br>30%  30%  30%  0%  30%  0%  0%<br>1er janvier- 15 juin – 15  16 août 18 mai 1er déc  14 mai 1er nov 1er mai 1er juin 1er oct 1er jan 15 mai 2021- A partir du<br>14 juin 2016 août 2016  2016 -17 2017-30 nov 2017 – 13  2018- 31 oct 2018- 30 2019- 31 mai 2019- 30 2019- 31 déc 2020- 15 31 oct 2021 1er nov<br>mai 2017 2017 mai 2018  2018 avril 2019 2019 sept 2019 2019 mai 2021 2021<br><!-- End of picture text -->
+
+Source : Rapports Conseil d’Administration de l’ONICL 
+
+##### **_II.3.3. Ecrasements de la minoterie industrielle_** 
+
+Au titre de la campagne 2025/2026, les minoteries industrielles ont enregistré un volume d’écrasement de 58,48 MQx, en léger recul de 1,9 % par rapport à la campagne précédente. Rapporté à une capacité annuelle d’écrasement estimée à 105 MQx, ce niveau correspond à un taux d’utilisation de 55,7 % des capacités industrielles. 
+
+Le blé tendre concentre l’essentiel de l’activité, avec 47,95 MQx écrasés, soit près de 82 % du volume total des céréales transformées. Ce volume affiche également une légère baisse de 2,1 % par rapport à la campagne 2024/2025. 
+
+
+
+<!-- Start of picture text -->
+Ecrasements de la minoterie industrielle (Mqx)<br>60,4  59  59,59  58,48<br>55,8<br>52,5<br>47,2  50,2  48,96  47,95<br>2021/2022 2022/2023 2023/2024 2024/2025 2025/2026<br>Blé tendre Céréales<br><!-- End of picture text -->
+
+Source : Rapports Conseil d’Administration de l’ONICL 
+
+
+
+<!-- Start of picture text -->
+54<br><!-- End of picture text -->
+
+**RAPPORT SUR LA COMPENSATION** 
+
+##### **_II.3.4. Situation de la charge de compensation du blé tendre et de la farine nationale de blé tendre_** 
+
+La compensation du blé tendre local et de la farine nationale de blé tendre (FNBT) s’est élevée à environ 1,1 milliard de DH à la fin de l’année 2025. Ces dépenses comprennent principalement la compensation des minoteries industrielles, les frais de transport de la farine nationale de blé tendre, ainsi que les primes de magasinage et les appels d’offres, destinés à assurer un approvisionnement régulier et la stabilité du marché intérieur. La répartition se présente comme suit : 
+
+- **Compensation des minoteries industrielles :** elle s’est élevée à 0,78 MMDH au titre de l’exercice budgétaire 2025. 
+
+- **Frais de transport :** l’État continue d’assurer la prise en charge des frais de transport de la farine nationale de blé tendre, depuis les minoteries industrielles jusqu’aux centres bénéficiaires, pour un montant de 0,23 MMDH en 2025. 
+
+- **Prime de magasinage** : il s’agit de l’application d’une prime de stockage fixée à 2,50 dirhams pour chaque période de quinze jours de stockage du blé tendre issu de la production nationale, au profit des organismes de stockage disposant d’une autorisation sanitaire délivrée par l’Office National de Sécurité Sanitaire des Produits Alimentaires. En 2025, cette prime s’est élevée à 15 MDH, contre 6 MDH en 2024. 
+
+- **Appels d’offres pour l’approvisionnement des minoteries industrielles en blé tendre** destiné à la fabrication de la FNBT : la charge s’est établie à 62 MDH en 2025. 
+
+###### **Charge de compensation de la FNBT et du blé tendre en MMDH** 
+
+
+
+<!-- Start of picture text -->
+1,29  1,53  1,29  1,1<br>1,31  1,36<br>1%  3%  1%  2%  0%  0%<br>3%  5%  6%<br>7%<br>3%  8%  8%  0%  1%<br>0%<br>2%<br>16%  11%  16%  18%  18%<br>15%<br>13%<br>77%  76%  73%  76%  75%<br>65%<br>2020 2021 2022 2023 2024 2025<br>Compensation des minoteries Frais de transport Prime de magasinage Appels d’offre   Prime de collecte<br><!-- End of picture text -->
+
+Source : Rapports Conseil d’Administration de l’ONICL 
+
+
+
+_PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
+
+### **II.4. Mesures déployées pour le soutien du pouvoir d’achat des citoyens au titre de l’année 2026** 
+
+Dans un contexte international particulièrement tendu, marqué par la persistance de la crise au Moyen-Orient, les perturbations affectant les voies stratégiques d’approvisionnement et la forte volatilité des cours des produits énergétiques et des matières premières, l’État a poursuivi son engagement en faveur de la préservation du pouvoir d’achat des citoyens et de la stabilité des prix intérieurs. 
+
+À cet effet, plusieurs mesures ont été déployées afin d’atténuer la transmission des fluctuations des marchés internationaux aux prix des produits de base, notamment à travers la poursuite des mécanismes de soutien et de compensation. Parallèlement, face à la hausse des prix des carburants et à son impact sur les coûts d’exploitation, le dispositif de soutien exceptionnel au secteur du transport routier a été réactivé afin d’accompagner les professionnels et de limiter les répercussions de ces tensions sur les tarifs de transport et, plus largement, sur les prix à la consommation. 
+
+##### **_II.4.1. Poursuite du soutien des prix à la consommation des produits subventionnés_** 
+
+**Gaz butane :** la subvention moyenne de la bonbonne de 12 kg s’élève à 61,79 DH au titre de la période janvier- août 2026 pour un cours moyen de 611 $/T. 
+
+Elle est passée à une moyenne de 70 DH sous l’effet de la guerre contre une moyenne de 49 DH avant la guerre. De ce fait, la charge de compensation du soutien des prix du gaz butane pourrait s’élever à fin août 2026 à près de 9 milliards de DH, en hausse de 4,95 % par rapport à la même période de l’année précédente ; 
+
+**Sucre raffiné :** sur la base d’une subvention forfaitaire accordée par l’Etat à la consommation du sucre de 3,67 DH/Kg, la charge de subvention à la consommation du sucre raffiné pourrait s’élever, au titre de la période janvier-août 2026, à un montant de près de 2,7 milliards de DH ; 
+
+**Farine nationale du blé tendre :** la charge afférente à la farine nationale du blé tendre pourrait atteindre près de 0,8 milliard de DH au titre de la période allant de janvier à août 2026 ; 
+
+**Approvisionnement des Provinces du Sud (APS) :** la charge relative à la poursuite du soutien de certains produits alimentaires en faveur des populations des provinces du sud s’élève à un montant de 64 MDH au titre de la période janvier-août 2026. 
+
+##### **_II.4.2. Poursuite des systèmes de restitution à l’importation du sucre brut et du blé tendre_** 
+
+**Sucre importé :** le cours du sucre brut a enregistré une baisse notable permettant de générer une restitution à l’importation en faveur de l’Etat. Sur la base des données actuelles, le montant à restituer pourrait atteindre un montant de 0,7 milliard de dirhams au titre de la période janvier-août 2026; 
+
+**Blé importé :** le recul des cours internationaux observé sur la période janvier-août 2026 a permis de maintenir le prix de revient à l’importation en dessous du prix cible fixé à 270 dirhams le quintal. Cette évolution n’a ainsi pas nécessité le recours au mécanisme de restitution à l’importation durant cette période. 
+
+56 
+
+**RAPPORT SUR LA COMPENSATION** 
+
+##### **_II.4.3. Soutien de transport routier_** 
+
+En réponse à la forte hausse des prix du gasoil, le Gouvernement a réactivé le dispositif de soutien exceptionnel en faveur des professionnels du transport routier. Le montant global du soutien mobilisé s’est établi à 2,488 milliards de dirhams au titre de la période janvierseptembre 2026. 
+
+**II.5. Crédits programmés au titre du Projet de Loi de Finances 2027** 
+
+L’Etat continuerait de soutenir les prix du gaz butane, du sucre et de la farine nationale du blé tendre, à travers la programmation d’une enveloppe de 19,4 milliards de dirhams au titre du projet de la loi de finances 2027. 
+
+
+
+Le Ministère de l’Economie, des Finances 
+
+et de la Performance publique met à votre disposition plusieurs canaux de communication et d’information 
+
+#### **Le Portail Internet** 
+
+www.finances.gov.ma 
+
+#### **La page Facebook** 
+
+www.facebook.com/financesmaroc 
+
+**Le compte X** 
+
+www.x.com/financesmaroc 
+
+**Le site LOF** 
+
+http://lof.finances.gov.ma 
+

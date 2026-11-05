@@ -1,0 +1,2512 @@
+Royaume du Maroc 
+
+Ministère de l’Economie, des Finances et de la Performance Publique 
+
+Projet de Loi de Finances pour l’année budgétaire 2027 
+
+# RAPPORT SUR LA DETTE PUBLIQUE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###### **SOMMAIRE** 
+
+|**LISTE DES ABREVIATIONS**|**4**|
+|---|---|
+|**CHIFFRES CLES**|**8**|
+|**POLITIQUE D’EMISSION DES BDT**|**11**|
+|**ENVIRONNEMENT INTERNATIONAL**|**13**|
+|**DETTE CONSOLIDÉE DES ADMINISTRATIONS PUBLIQUES**|**19**|
+|**FINANCEMENT DU TRÉSOR EN 2025**|**21**|
+|**STRUCTURE DE LA DETTE DU TRÉSOR A FIN 2025**|**28**|
+|**INDICATEURS DE COÛT ET DE RISQUE**|**35**|
+|**DETTE EXTÉRIEURE PUBLIQUE**|**39**|
+|**DETTE INTERIEURE GARANTIE**|**49**|
+|**GESTION ACTIVE DE LA DETTE**|**51**|
+|**MARCHÉ SECONDAIRE DES BDT**|**54**|
+|**GESTION ACTIVE DE LA TRÉSORERIE PUBLIQUE**|**57**|
+|**ACTIONS ET MESURES DE RÉFORMES EN 2025**|**59**|
+|**ÉVOLUTION DE LA DETTE DU TRÉSOR À FIN JUIN 2026**|**61**|
+|**ANNEXES STATISTIQUES**|**65**|
+
+
+
+**Err** 
+
+###### PROJET DE LOI DE FINANCES POUR L'ANNÉE 2027 
+
+### **Liste des abréviations** 
+
+**ADM** :  Autoroutes du Maroc **AIIB** : Banque asiatique d'investissement pour les infrastructures **ANP** : Agence Nationale des Ports **APUs** : Administrations Publiques **ASFIM** : Association des Sociétés de Gestion et Fonds d’Investissement Marocains **BAD** : Banque Africaine de Développement **BAM** : Bank Al-Maghrib **BCE** : Banque Centrale Européenne **BDT** : Bons du Trésor **BEI** : Banque Européenne d’Investissement **BERD** : Banque Européenne pour la Reconstruction et le Développement **BID** : Banque Islamique de Développement **BIRD** : Banque Internationale pour la Reconstruction et le Développement **BoJ** : Banque Centrale du Japon **CCT** : Compte Courant du Trésor **CCG** :  Caisse Centrale de Garantie **CDS** :  Credit default Swap **COSO** : Comité des Organisations parrainant la Commission Treadway **CT** : Court terme 
+
+- **CTs** : Collectivités Territoriales **DH** : Dirham Marocain **DTFE** : Direction du Trésor et des Finances Extérieures **DTS** : Droits de Tirages Spéciaux **DVM** : Durée de vie moyenne **EEPs** : Établissements et Entreprises Publics 
+
+- **EMBI+** : J.P. Morgan Emerging Markets Bond Index 
+
+- **EPNM** : Établissements Publics à caractère non marchand 
+
+- **FADES** : Fonds Arabe pour le Développement Économique et Social 
+
+- **FEC** : Fonds d'Equipement Communal 
+
+- **FED** : Réserve Fédérale Américaine 
+
+- **FGEEP** : Fonds de Garantie des Établissements et Entreprises Publics 
+
+- **FMA** : Fonds Monétaire Arabe 
+
+- **FMI** : Fonds Monétaire International 
+
+- **GADI** : Gestion Active de la Dette Intérieure 
+
+- **GSDSP** : Guide des Statistiques de la Dette du Secteur Public du FMI **IFPs** : Institutions Financières Publiques 
+
+**4** 
+
+
+
+
+
+
+
+- **IUPs** : Institutions d’Utilité Publique **IVT** : Intermédiaire en Valeurs du Trésor **LT** : Long terme **MASEN** : Moroccan Agency for Sustainable Energy **MAVT** : Marché des Adjudications des Valeurs du Trésor **MEF** : Ministère de l’Économie et des Finances **MFI** : Marché Financier International **MLT** : Moyen et Long Termes **MONIA** :  Moroccan Overnight Index Average **MSFP** : Manuel de Statistiques de Finances Publiques du FMI de 2014 **OCP** : Office Chérifien des Phosphates **ONCF** : Office National des Chemins de Fer **ONEE** : Office National de l’Électricité et de l’Eau Potable **ONDA** :  Office National des Aéroports **OPCVM** : Organismes de Placement Collectif en Valeurs Mobilières **OPEC** : Organisation des pays exportateurs de pétrole **ORPS** : Organismes de Retraite et de Prévoyance Sociale **pb** : Point de base (1 pb = 0,01%) **PIB** : Produit Intérieur Brut **RAM** : Royal Air Maroc **RCBP** : Recettes Courantes de la Balance des Paiements **RADEES** : Régie Autonome de Distribution d'Eau et d'Electricité de Safi **RADEEF** : Régie Autonome Intercommunale de Distribution d'Eau et d'Electricité de Fès **RADEEL** :  Régie Autonome Intercommunale de Distribution d'Eau et d'Electricité de Larache **RADEM** : Régie Autonome de Distribution d'Eau et d'Electricité de Meknès **RADEET** : Régie Autonome Intercommunale de Distribution d'Eau et d'Electricité de Tadla **RADEETA** : Régie Autonome Intercommunale de Distribution d'Eau et d'Electricité de Taza **RAK** : Régie Autonome Intercommunale de Distribution d'Eau & d'Electricité de Kénitra **RO** : Recettes Ordinaires Hors TVA des CTs **SGPTV** : Société de Gestion du Port de Tanger Ville **SNGFE** : Société Nationale de Garantie et du Financement de l’Entreprise **S&P** : S&P Global Ratings **TCT** : Très court terme **TMED** :  Tanger Med **TMP** : Taux moyen pondéré **TMPA** : Tanger Med Port Authority **TVA** : Taxe sur la Valeur Ajoutée **UE** : Union européenne 
+
+
+
+PROJET DE LOI DE FINANCES POUR L'ANNÉE 2027 
+
+
+
+<!-- Start of picture text -->
+6<br><!-- End of picture text -->
+
+<mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+## **Une stratégie de gestion de la dette au service du financement de l'État** 
+
+La stratégie de gestion de la dette a pour objectifs d’assurer la couverture des besoins de financement de l’Etat tout en réduisant, à terme, le coût de l’endettement et en maintenant l’exposition du portefeuille de la dette aux risques à des niveaux prudents. Elle vise également à soutenir le développement du marché domestique des valeurs du Trésor. 
+
+
+
+<!-- Start of picture text -->
+Financement<br>stable et durable<br>Couvrir les besoins de l’État<br>de manière régulière<br>et pérenne.<br>Maîtrise du coût PRINCIPAUX Avec un niveau<br>de la dette STRATÉGIE DE GESTIONOBJECTIFS DE LA prudent des risques<br>DE LA DETTE Limiter l'exposition du portefeuille<br>Réduire le coût<br>de la dette aux risques de<br>de la dette à terme. refinancement, de taux,<br>de change et de liquidité.<br>Développement<br>du marché des<br>Valeurs du Trésor<br>Contribuer à l'approfondissement<br>du MAVT, au renforcement de sa<br>liquidité et de sa transparence.<br><!-- End of picture text -->
+
+
+
+
+
+
+
+### **CHIFFRES CLES** 
+
+- **DETTE CONSOLIDÉE DES ADMINISTRATIONS PUBLIQUES** 
+
+||**2024**|**2025**|
+|---|---|---|
+|Encours (en milliards DH)|**1 017,9**|**1 115,6**|
+|En% du PIB|**63,0%**|**64,9%**|
+
+
+
+_Les données de 2024 ont été actualisées et celles de 2025 sont provisoires._ 
+
+- **ENDETTEMENT DU TRÉSOR** 
+
+Dette du Trésor/Dette intérieure/Dette extérieure 
+
+**Encours (en milliards DH) Ratio -% du PIB** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_Les ratios de la dette par rapport au PIB au titre de l’année 2024 ont été actualisées._ 
+
+- **DETTE NÉGOCIABLE DU TRÉSOR** 
+
+||**2024**|**2025**|**S1-2026**|
+|---|---|---|---|
+|**Encours (en milliards DH)**|**837,8**|**887,2**|**923,9**|
+|Adjudication de BDT|753,6|787,3|803,6|
+|Eurobonds|84,2|99,9|120,3|
+
+
+
+- **DETTE EXTÉRIEURE PUBLIQUE** 
+
+||**2024**|**2025**|**S1-2026**|
+|---|---|---|---|
+|**Encours (en milliards DH)**|**468,2**|**517,4**|**563,0**|
+|**Trésor**|269,8|299,8|328,0|
+|**EEPs**|189,4|206,7|224,2|
+|**Institutions Financières Publiques**|5,1|6,8|6,4|
+|**CTs**|2,8|3,0|3,3|
+|**IUP**|1,1|1,1|1,1|
+|**% PIB**|**29,0%**|**30,1%**|**-**|
+
+
+
+**8** 
+
+
+
+
+
+
+
+######  **CHARGES EN INTÉRÊTS** 
+
+||**2024**|**2025**|**S1-2026**|
+|---|---|---|---|
+|**Dette du Trésor (en milliards DH)**|**39,8**|**45,2**|**25,0**|
+|**% RO**|**10,7%**|**10,7%**|**-**|
+|Dette intérieure (en milliards DH)|29,3|35,8|19,4|
+|% RO|7,9%|8,4%|-|
+|Dette extérieure (en milliards DH)|10,5|9,5|5,6|
+|% RO|2,8%|2,2%|-|
+|**Dette extérieure publique (en milliards DH)**|**16,9**|**16,7**|**9,5**|
+|**% RCBP**|**2,0%**|**1,9%**|**-**|
+
+
+
+- **INDICATEURS DE COÛT ET DE RISQUE - DETTE DU TRÉSOR** 
+
+||**2024**|**2025**|**S1-2026**|
+|---|---|---|---|
+|Coût moyen apparent|4,0%|4,2%|-|
+|Durée de vie moyenne|8 ans et 2 mois|8 ans et 1 mois|7 ans et 10 mois|
+|Part du court terme|11,7%|10,2%|9,6%|
+
+
+
+- **ADJUDICATION DES BONS DU TRÉSOR** 
+
+||**2024**|**2025**|**S1-2026**|
+|---|---|---|---|
+|Émissions (en milliards DH)|171,7|162,2|58,4|
+|Soumissions (en milliards DH)|366,5|370,0|195,0|
+|Taux de couverture*****|2,1 fois|2,3 fois|2,9 fois|
+|Souscriptions nettes (en milliards DH)|54,2|33,7|16,3|
+
+
+
+_* Sans tenir compte des opérations de gestion active de la dette intérieure._ 
+
+- **GESTION ACTIVE DE LA DETTE INTÉRIEURE** 
+
+||**2024**||**2025**||**S1-2**|**026**|
+|---|---|---|---|---|---|---|
+|En milliards DH|**Nbr.**<br>**d’opérations**|**Mt.**<br>**Racheté***|**Nbr.**<br>**d’opérations**|**Mt.**<br>**Racheté***|**Nbr.**<br>**d’opérations**|**Mt.**<br>**Racheté***|
+|Rachat de BDT|1|7,1|2|14,1|-|-|
+|Échange de BDT|8|44,8|8|17,6|6|7,7|
+|**Total**|**9**|**51,9**|**10**|**31,7**|**6**|**7,7**|
+
+
+
+_*Montant nominal_ 
+
+- **MARCHE SECONDAIRE DES BDT** 
+
+||**2024**|**2025**|**S1 - 2026**|
+|---|---|---|---|
+|Volume des opérations fermes (en milliards DH)|1 140|1 380|913|
+|Taux de rotation*|137%|159%|108%|
+|Taille moyenne des opérations (en millions DH)|72|77|86|
+
+
+
+_*Rapport entre le volume des transactions fermes réalisées sur le marché secondaire et l’encours des titres sur lesquels ces transactions ont porté._ 
+
+
+
+
+
+
+
+######  **DÉTENTEURS DES BDT ÉMIS PAR ADJUDICATION** 
+
+
+
+######  **TRÉSORERIE** 
+
+|**Placement des excédents de trés**|**orerie**||||||
+|---|---|---|---|---|---|---|
+||**202**|**4**|**2025**||**S1 -**|**2026**|
+||**Dépôts en**<br>**blanc**|**Repo**|**Dépôts en**<br>**blanc**|**Repo**|**Dépôts en**<br>**blanc**|<br>**Repo**|
+|Nombre d’opérations|148|347|98|329|50|153|
+|Encours quotidien moyen des<br>placements (en milliards DH)|0,9|17,7|0,8|15,4|0,9|13,4|
+|TMP des placements|2,87%|2,92%|2,36%|2,16%|2,27%|2,13%|
+
+
+
+|**Emprunt interbancaire**||||
+|---|---|---|---|
+||**2024**|**2025**|**S1 - 2026**|
+|Nombre d’opérations|1|-|-|
+|Volume emprunté (milliards DH)|2,5|-|-|
+|Taux moyen des emprunts|3,00%|-|-|
+
+
+
+**10** 
+
+<mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+### **Politique d’émission des BDT** 
+
+**La politique d’émission de la direction du Trésor et des finances extérieures (DTFE) sur le marché domestique repose sur les principes de régularité et de transparence pour accroitre la liquidité et la profondeur du marché des adjudications des valeurs du Trésor (MAVT) et permettre ainsi de réduire le coût d’endettement de l’état.** 
+
+#### 國 
+
+###### **TRANSPARENCE** 
+
+- Programme annuel de financement. 
+
+- Annonce, chaque premier lundi du mois, du besoin mensuel de financement. 
+
+- Annonce, à la veille de chaque séance d’adjudication, du besoin de financement hebdomadaire. 
+
+- Système électronique de soumissions aux adjudications des Bons du Trésor (BDT) en temps réel avec anonymat des soumissionnaires. 
+
+- Informations économiques et financières exhaustives et fréquentes à la disposition des investisseurs. 
+
+- Canaux multiples de communication : réunions, bulletins et rapports, site internet, Bloomberg, conférences. 
+
+- Cotation des BDT sur la plateforme électronique e-Bond. 
+
+- Réunions avec les banques Intermédiaires en Valeurs du Trésor (IVT), l’Association des Sociétés de Gestion et Fonds d’Investissement Marocains (ASFIM) et la Fédération Marocaine de l’Assurance. 
+
+###### RÉGULARITÉ 
+
+###### **Calendrier d’émission préétabli :** 
+
+
+
+<!-- Start of picture text -->
+Calendrier d’émission préétabli :<br>Chaque trimestre<br>30 ans<br>20 ans<br>15 ans<br>10 ans<br>5 ans<br>2 ans<br>2 ans<br>52 sem.<br>52 sem.<br>26 sem.<br>13 sem. 26 sem.<br>1er et 3eMardi 2e Mardi Dernier Mardi<br><!-- End of picture text -->
+
+###### COORDINATION AVEC BANK AL-MAGHRIB 
+
+- Réunions mensuelles de coordination de haut niveau entre la DTFE et BAM pour discuter de l’ensemble des sujets d’intérêt commun. 
+
+- Communication à BAM, sur une base hebdomadaire, des prévisions de trésorerie de l’État. 
+
+- Communication par BAM du solde provisoire du Compte courant du Trésor (CCT) plusieurs fois par jour et du solde de fin de journée. 
+
+- Échanges quotidiens entre les front-Offices et les back-Offices des deux institutions. 
+
+
+
+PROJET DE LOI DE FINANCES POUR L’ANNÉE 2027 
+
+- **PROCESSUS CONTINU DE RÉFORMES POUR LE DEVELOPPEMENT DU MAVT** 
+
+
+
+###### **CREATION ET MISE EN PLACE** 
+
+
+
+<!-- Start of picture text -->
+Institution du  Création de  Emission<br>marché des  Maroclear  inaugurale des<br>adjudications  BDT à 20 ans<br>1996 1998 2006<br>1989 1997 2000<br>1+1<br>Mise en place de  Emission<br>Création du  la technique  inaugurale des<br>marché  d’assimilation  BDT à 30 ans<br>secondaire des  des BDT<br>BDT<br>DEVELOPPEMENT ET MODERNISATION<br>Déploiement du  Mise en place de la  Démarrage de la<br>système de télé  gestion active de la  cotation électronique<br>adjudication  dette intérieure  des BDT<br>2010 2013 2015<br>2009 2011 2014<br> Création des lignes  Opérationnalisation  Entrée en vigueur de<br>Benchmarks 5 et 10  du nouveau système  la nouvelle<br>ans  intégré de gestion de  convention Trésor-IVT<br> Mise en place de la  la dette et de la<br>gestion active de la  trésorerie (TADBIR)<br>trésorerie publique<br>APPROFONDISSEMENT ET CONSOLIDATION<br>Emission inaugurale  Création de la  Refonte du système de<br>des Certificats de  Division du Contrôle  télé adjudication et du<br>Sukuk souverains de  Permanent et de  système du suivi du<br>type Ijara  Maitrise des Risques  marché secondaire<br>2020 2022<br>+<br>2018 2021<br>2025<br>a+<br>Mise en place du  Emission inaugurale<br>dispositif du contrôle  des BDT à taux<br>interne et du cadre de  révisable<br>gestion des risques et de<br>maitrise des risques<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+12<br><!-- End of picture text -->
+
+<mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+### **ENVIRONNEMENT INTERNATIONAL** 
+
+######  **CONTEXTE INTERNATIONAL** 
+
+L’année 2025 a été marquée par un environnement économique international incertain, sous l’effet notamment du changement d’orientation de la politique commerciale américaine, de la persistance des tensions géopolitiques et des préoccupations entourant les perspectives budgétaires de plusieurs économies avancées. Elle a également été caractérisée par la poursuite de l’assouplissement des politiques monétaires dans les principales économies avancées, dans un contexte de reflux progressif de l’inflation. 
+
+Sur le plan commercial, les annonces et l’instauration de droits de douane sur une large gamme d’importations américaines ont notamment ravivé les tensions commerciales et alimenté plusieurs épisodes de volatilité sur les marchés financiers. 
+
+Malgré ce contexte, **l’économie mondiale** a fait preuve de résilience, poursuivant son expansion à un rythme modéré. La croissance mondiale s’est ainsi établie à 3,5% en 2025, soit un niveau identique à celui enregistré en 2024. Cette dynamique a notamment été soutenue par l’assouplissement des conditions financières et la vigueur des investissements liés à l’intelligence artificielle, qui ont contribué à atténuer les effets négatifs des tensions commerciales et du relèvement des droits de douane sur la croissance et les échanges internationaux. 
+
+Aux **États-Unis** , l’activité économique a ralenti en 2025, après plusieurs années de forte résilience. La croissance du PIB réel s’est établie à 2,1%, contre 2,8% en 2024, dans un contexte marqué par les craintes liées à l’instauration des droits de douane et par une paralysie budgétaire prolongée en fin d’année. Malgré ces incertitudes, l’activité est demeurée soutenue par la consommation des ménages et l’investissement. 
+
+Le marché du travail a connu un net ralentissement en 2025, avec des créations d’emplois limitées à 181 000 contre 1,46 million en 2024, soit leur niveau annuel le plus faible depuis 2020. Parallèlement, le taux de chômage a légèrement augmenté, passant de 4% en 2024 à 4,3% en 2025. S’agissant de l’inflation, la hausse des prix à la consommation a poursuivi son ralentissement, pour s’établir à 2,7% en 2025, contre 3% en 2024. 
+
+Dans ce contexte, et après avoir maintenu ses taux inchangés dans une fourchette de 4,25% à 4,50% durant les huit premiers mois de l’année, la Fed a procédé, à partir de septembre, à trois baisses consécutives pour un total de 75 pb, ramenant ainsi la fourchette cible des taux directeurs à 3,50% - 3,75%. 
+
+Dés le début de l’année 2026, la Fed a adopté une approche attentiste, en maintenant ses taux directeurs inchangés dans un contexte marqué par une inflation demeurant supérieure à son objectif de 2%, une activité économique toujours solide et un marché du travail globalement stable. 
+
+Dans la **zone euro** , l’activité économique s’est raffermie en 2025, avec une croissance du PIB réel de 1,4%, contre 1% en 2024, et ce, malgré un environnement marqué par des incertitudes aussi bien commerciales que géopolitiques. Cette amélioration a été soutenue par le dynamisme de la demande intérieure, favorisé notamment par la bonne tenue du marché du travail et le reflux des pressions inflationnistes, ainsi que par le renforcement de l’investissement des entreprises. 
+
+Toutefois, les performances économiques sont restées contrastées d’un pays à l’autre. Après deux années consécutives de contraction, l’Allemagne a renoué avec une croissance positive de 0,2%, tandis que l’activité a progressé de 0,9% en France et de 0,5% en Italie. En Espagne, malgré une décélération, la croissance est demeurée particulièrement dynamique, atteignant 2,8% en 2025, après 3,5% en 2024. 
+
+**13** 
+
+PROJET DE LOI DE FINANCES POUR L’ANNÉE 2027 
+
+Le marché du travail est resté globalement solide en 2025, avec un taux de chômage qui s’est maintenu à des niveaux bas, s’établissant à 6,3%, après 6,4% en 2024. Parallèlement, l’inflation a poursuivi sa trajectoire baissière pour s’établir à 2,1% en 2025, se rapprochant ainsi de l’objectif de 2% de la Banque centrale européenne (BCE). 
+
+Dans ces conditions, la **BCE** a poursuivi son cycle d’assouplissement monétaire au cours du premier semestre 2025, procédant à quatre baisses consécutives de ses taux directeurs, pour un total de 100 pb, avant de les maintenir inchangés durant le reste de l’année. Le taux de la facilité de dépôt a ainsi été ramené à 2%, celui des opérations principales de refinancement à 2,15% et celui de la facilité de prêt marginal à 2,40%. 
+
+Dans un contexte de regain des pressions inflationnistes lié notamment à la hausse des prix de l’énergie, la BCE a infléchi l’orientation de sa politique monétaire et ce, après avoir maintenu ses taux directeurs inchangés jusqu’en mai 2026, Elle a ainsi procédé à un relèvement de 50 pb de ses taux directeurs, portant le taux de la facilité de dépôt à 2,50%, le taux de refinancement à 2,65% et le taux de prêt marginal à 2,90%. 
+
+Au **Japon** , l’activité économique s’est progressivement redressée en 2025, avec une croissance du PIB de 1,1%, après une légère contraction de 0,2% en 2024. Cette reprise a été soutenue par l’amélioration de la consommation privée, favorisée par la progression des salaires, ainsi que par le dynamisme de l’investissement privé, porté notamment par la solidité des bénéfices des entreprises. 
+
+De son côté, le marché du travail est demeuré résilient en 2025, avec un taux de chômage de 2,5%, stable par rapport à 2024. Parallèlement, l’inflation s’est accélérée pour atteindre 3,2%, après 2,7% en 2024, demeurant ainsi nettement supérieure à la cible de 2% de la Banque du Japon (BoJ). 
+
+Face à la persistance de l’inflation, la **BoJ** a poursuivi en 2025 la normalisation de sa politique monétaire engagée en 2024. Elle a ainsi relevé son taux directeur à deux reprises, de 25 pb en janvier puis en décembre, le portant de 0,25% à 0,75%, soit son niveau le plus élevé depuis 1995. 
+
+En **Chine** , la croissance économique s’est maintenue à 5% en 2025, pour la deuxième année consécutive, conformément à l’objectif fixé par les autorités. Cette performance a été soutenue notamment par la vigueur des exportations, en dépit de l’intensification des tensions commerciales avec les États-Unis, ainsi que par le maintien des mesures de soutien à l’économie. Les difficultés persistantes du secteur immobilier et la faiblesse de la demande intérieure ont toutefois continué de peser sur l’activité économique. 
+
+Sur le marché du travail, le taux de chômage a légèrement augmenté de 0,1 point, pour s’établir à 5,1% en 2025. Parallèlement, les pressions déflationnistes ont persisté, avec une inflation demeurée quasi-nulle en 2025. Dans ce contexte, la Banque populaire de Chine (PBoC) a poursuivi l’assouplissement de sa politique monétaire afin de soutenir l’activité. Elle a notamment abaissé de 10 pb ses taux préférentiels de prêt (LPR) à un an et à cinq ans, les ramenant respectivement à 3% et 3,5%. 
+
+En **Inde** , l’économie a continué d’afficher l’un des rythmes de croissance les plus élevés dans la région. La croissance s’est accélérée à 7,7% en 2025, après 7,1% en 2024, soutenue notamment par la vigueur de la demande intérieure et de l’investissement ainsi que le dynamisme du secteur des services. 
+
+Parallèlement, l’inflation a poursuivi son ralentissement pour s’établir à 2,1% en 2025 contre 4,6% en 2024, demeurant ainsi nettement en deçà de la cible de 4% de la Banque centrale de l’Inde (RBI). Dans ce contexte, la RBI a assoupli sa politique monétaire, abaissant son taux directeur de 125 pb au cours de l’année pour le ramener à 5,25%. 
+
+
+
+<!-- Start of picture text -->
+14<br><!-- End of picture text -->
+
+<mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+######  MARCHES FINANCIERS 
+
+Les **marchés actions** ont globalement fait preuve de résilience en 2025, en dépit de plusieurs épisodes de volatilité liés notamment aux annonces de droits de douane de l’administration américaine et aux tensions géopolitiques. Cette dynamique a été soutenue notamment par l’assouplissement des politiques monétaires ainsi que par l’engouement des investisseurs pour les nouvelles technologies. Ainsi, les principaux indices boursiers ont enregistré des performances soutenues, notamment aux Etats-Unis et au Japon. Le Nasdaq Composite et le Dow Jones ont progressé respectivement de 20,36% et 12,97% sur l’ensemble de l’année, tandis que le Nikkei a affiché une hausse de 26,18%. En Europe, les indices boursiers ont également enregistré une tendance globalement haussière notamment l’EuroStoxx50 qui a enregistré une progression de 18,29% en 2025. 
+
+Sur les **marchés obligataires** , l’année 2025 a été marquée par une certaine volatilité des taux de rendement souverains, qui ont fluctué au gré des anticipations relatives à l’orientation des politiques monétaires de la Fed et de la BCE, de la publication des données macroéconomiques et des incertitudes entourant la politique commerciale américaine. Les préoccupations relatives aux trajectoires budgétaires de plusieurs grandes économies ont également pesé sur les marchés de taux. 
+
+Aux États-Unis, le rendement du bon du Trésor à 10 ans, qui s’établissait à 4,569% en début d’année, a évolué dans une fourchette comprise entre 4% et 4,7%, avant de clôturer l’année à 4,167%. 
+
+Dans la zone euro, les rendements obligataires ont également connu une certaine volatilité. Le rendement du Bund allemand à 10 ans, qui s’établissait à 2,367% en début d’année, s’est tendu au cours du premier semestre, atteignant un pic de près de 2,89%, avant de terminer l’année à 2,855%. 
+
+Sur le **marché des changes** , l’année 2025 a été marquée par une appréciation de l’euro face au dollar, pénalisé notamment par les anticipations d’un assouplissement de la politique monétaire de la Fed et par les incertitudes entourant la politique commerciale. Ainsi, la parité euro/dollar est passée de 1,0356 au 1<sup>er</sup> janvier à 1,1746 en fin d’année après avoir atteint un pic de 1,1867 en septembre. 
+
+De son côté, la parité dollar/yen a connu une évolution contrastée en 2025, passant de 157,24 à 142,01 entre le 1<sup>er</sup> janvier et fin avril, avant de remonter progressivement pour terminer l’année à 156,71. 
+
+######  **EVOLUTION DES PRIMES DE RISQUE** 
+
+Les primes de risque des économies émergentes ont connu une évolution en deux temps en 2025. L’indice EMBI+ a d’abord suivi une tendance haussière entre le 2 janvier et le 8 avril, passant de 364 pb à 432 pb, soit un élargissement de près de 70 pb. Cette évolution est intervenue dans un environnement marqué par une forte montée des incertitudes commerciales à la suite des annonces tarifaires américaines, lesquelles ont ravivé les craintes d’un ralentissement de l’économie mondiale et accentué la volatilité des marchés, entraînant ainsi un ralentissement des émissions obligataires des pays émergents. 
+
+Cette tendance s’est toutefois inversée à partir du mois de mai. L’EMBI+ a amorcé un recul progressif, qui s’est accentué au 4ème trimestre, pour se stabiliser autour de 270-290 pb en fin d’année. Cette détente est intervenue dans un contexte d’atténuation des tensions commerciales et de résilience de plusieurs grandes économies émergentes. Le mouvement de détente s’est renforcé à partir de septembre avec l’assouplissement de la politique monétaire de la Fed, qui a procédé à 3 baisses successives de 25 pb, ramenant ses taux directeurs dans la fourchette de 3,50% à 3,75% en fin d’année. 
+
+**15** 
+
+
+
+
+
+Dans ce contexte, les spreads des Eurobonds du Maroc se sont globalement resserrés au cours de l’année 2025. Le spread de l’Eurobond 2033 us$ est ainsi passé de 149 pb le 2 janvier à 112 pb au 31 décembre 2025, soit une baisse de 37 pb. De même, le spread de l’Eurobond 2035 € s’est contracté de 63 pb, passant de 222 pb le 28 mars à 159 pb à fin décembre 2025. 
+
+
+
+<!-- Start of picture text -->
+Grahique 1 : Évolution des spreads des Eurobonds-Maroc 2035€, 2033$, l’EMBI+ et CDS 5 ans<br>500<br>450<br>400<br>350<br>300<br>250<br>200<br>150<br>100<br>50<br>0<br>Eurobond Maroc 2033 $ Eurobond Maroc 2035 € EMBI+ CDS<br><!-- End of picture text -->
+
+######  **ACTION DES AGENCES DE NOTATION AU COURS DE L’ANNÉE 2025** 
+
+Au cours de l’année 2025, les agences de notation ont opéré des actions dans les deux sens sur les notations souveraines et ce, dans un contexte international marqué par la persistance des tensions géopolitiques et commerciales et par les défis liés à l’assainissement des finances publiques de plusieurs économies à travers le monde. Ainsi, les États-Unis ont vu leur note abaissée par Moody’s de « Aaa » à « Aa1 », en lien notamment avec la détérioration de leur situation budgétaire. 
+
+En Europe, la France a vu ses notes abaissées de « AA- » à « A+ » par Fitch et S&P, dans un contexte marqué par la persistance de déficits budgétaires élevés. En revanche, le Portugal, la Grèce et l’Italie ont bénéficié d’actions favorables, reflétant notamment l’amélioration de leurs finances publiques. S&P et Fitch ont ainsi rehaussé la note du Portugal respectivement à « A+ » et à « A », tandis que la Grèce a retrouvé la catégorie Investment Grade auprès de Moody’s, à la suite du relèvement de sa note de « Ba1 » à « Baa3 ». L’Italie a également bénéficié d’une amélioration de sa notation à « BBB+» par S&P et Fitch et à « Baa2 » par Moody’s. 
+
+En Amérique latine, plusieurs pays ont enregistré une amélioration de leur profil de crédit. Le Salvador et la République dominicaine ont vu leurs notes relevées respectivement de « CCC+ » à « B- » par Fitch et de « Ba3 » à « Ba2 » par Moody’s. Pour sa part, l’Argentine a également bénéficié de plusieurs relèvements de notation de la part des trois agences, portant ses notes à « Caa1 » par Moody’s et à « CCC+ » par S&P et Fitch. En revanche, S&P a abaissé les notes de la Colombie et de la Bolivie, respectivement de « BB+ » à « BB » et de « CCC+ » à « CCC ». 
+
+Dans la région du Moyen-Orient, les actions ont été globalement favorables. Oman a vu sa note relevée de « BB+ » à « BBB- » par Fitch, tandis que S&P a rehaussé celles du Koweït et de l’Arabie saoudite, respectivement à « AA- » et « A+ ». 
+
+**16** 
+
+<mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+Sur le continent africain, plusieurs pays ont bénéficié d’actions favorables notamment l’Égypte (« B » par S&P), la Tunisie (« Caa1 » par Moody’s), le Ghana (« B- » par S&P et Fitch) et la Côte d’Ivoire (« BB » par Fitch). À l’inverse, le Sénégal et le Gabon ont subi des rétrogradations, respectivement à « Caa1 » par Moody’s et à « CCC- » par Fitch. 
+
+Pour ce qui est du Maroc, S&P a confirmé la note « BB+ », avec perspective « Positive », lors des consultations effectuées en mars 2025 dans le cadre de la 1ère revue semi-annuelle. 
+
+Lors des consultations effectuées en septembre 2025 dans le cadre de la 2ème revue semiannuelle, S&P a relevé de « BB+ » à « BBB- », la note du Maroc avec une perspective « Stable », permettant ainsi au Royaume de retrouver la catégorie Investment Grade. Ce relèvement reflète notamment la résilience de l’économie nationale face aux chocs successifs, soutenue par des réformes continues visant à diversifier et formaliser l’économie. 
+
+######  **ÉMISSION RÉUSSIE SUR LE MARCHÉ FINANCIER INTERNATIONAL** 
+
+Le 19 mai 2026, le Maroc a réussi son retour sur le marché financier international à travers une émission obligataire d’un montant de 2,25 milliards d’euros. Le Maroc est ainsi le 1er émetteur africain ayant pu accéder au compartiment de l’euro cette année, lequel est devenu très sélectif pour les pays non européens. Le montant mobilisé constitue également un record historique pour les souverains africains sur ce compartiment de marché. 
+
+Constituée de deux tranches et réalisée pour la première fois en mode « Intraday », cette émission a été assortie de conditions favorables et ce, en dépit d’un contexte de marché très volatil et marqué par les inquiétudes des investisseurs quant à la persistance des tensions géopolitiques et leurs répercussions sur l’économie mondiale. En effet, la 1ère tranche d’une maturité de 8 ans, portant sur un montant de 1,25 milliard d’euros, a été émise à un spread de 170 pb et un coupon de 4,750%. Quant à la 2ème tranche de maturité 12 ans et portant sur un montant de 1 milliard d’euros, elle a été émise à un spread de 200 pb et un coupon de 5,125%. 
+
+###### **Une émission favorablement accueillie** 
+
+Cette émission a connu un franc succès auprès des investisseurs internationaux avec un livre d’ordres dépassant les 5 milliards d’euros, soit une sursouscription de plus de 2 fois le montant émis. Cette importante demande a permis de resserrer de 30 pb les niveaux des spreads de chaque tranche en passant des niveaux indicatifs annoncés de 230 pb et 200 pb à 200 pb et 170 pb respectivement pour les tranches 12 ans et 8 ans. 
+
+Concernant l’accueil par les investisseurs, cette émission a bénéficié d’une large diversification aussi bien géographique (Etats-Unis, Royaume-Uni, Europe) qu’en termes de profils d’investisseurs (gestionnaires de fonds, compagnies d’assurance, fonds de pension). 
+
+###### **Timing approprié** 
+
+Le Timing de cette sortie s’est avéré très approprié grâce à une veille de plusieurs mois qui a permis de faire une exécution intraday et de saisir une des meilleures fenêtres de tir depuis le déclenchement de la guerre au Moyen-Orient. 
+
+###### **Des objectifs atteints** 
+
+Cette sortie, qui s’inscrit dans le cadre de la stratégie basée sur l’arbitrage entre le financement externe et le financement interne, a contribué à financer les besoins du Trésor et a permis de renforcer le niveau des avoirs extérieurs tout en établissant de nouveaux points sur la courbe des taux des émissions du Maroc à l’international. 
+
+**17** 
+
+PROJET DE LOI DE FINANCES POUR L’ANNÉE 2027 
+
+
+
+<!-- Start of picture text -->
+Mai 2026<br>_<br>Le Royaume du Maroc<br>EUR 1,25 MM 4,750% 2034<br>EUR 1 MM 5,125% 2038<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+Emetteur Le Royaume du Maroc<br>Notation BBB- (S&P)<br>Format 144A / Reg S<br>Date de règlement   26 mai 2026<br>Maturité 8 ans  12 ans<br>Date d’échéance 26 mai 2034  26 mai 2038<br>Montant 1,25 Milliard €  1 Milliard €<br>Coupon 4,750%  5,125%<br>Spread  170 pb   200 pb<br>Valeur unitaire  EUR 100.000 x EUR 1.000<br>Listing  Bourse de Londres<br>Loi Anglaise<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+18<br><!-- End of picture text -->
+
+<mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+### **DETTE CONSOLIDÉE DES ADMINISTRATIONS PUBLIQUES** 
+
+Dans le cadre de l’amélioration de la qualité de l’information mise à disposition des décideurs, des institutions nationales et internationales et du grand public, le Ministère de l’Economie et des Finances (MEF) publie depuis 2020, dans le cadre de ce rapport sur la dette publique qui accompagne le projet de loi de finances, les statistiques relatives à la dette consolidée des Administrations Publiques (APUs). 
+
+Pour rappel, ces statistiques sont établies suivant une approche méthodologique construite et partagée avec le FMI et qui permet une convergence progressive vers les normes internationales en matière de publications des statistiques telles que préconisées par le Manuel de Statistiques de Finances Publiques (MSFP 2014) et le Guide des Statistiques de la Dette du Secteur Public (GSDSP 2011). 
+
+Ladite méthodologie de consolidation a pour but de fournir une vision sur la situation d’endettement réelle et globale du secteur des APUs en procédant à une agrégation de tous les flux et encours s’inscrivant dans le cadre analytique convenu, puis l’élimination de tous les flux et encours réciproques entre les entités constituant ce secteur. À cet effet, ladite méthodologie consiste en ce qui suit : 
+
+- (i) **La définition du périmètre de couverture institutionnelle regroupant l’ensemble des structures composant le secteur des APUs en conformité avec le cadre du MSFP 2014** ; 
+
+Pour rappel, le périmètre du secteur des APUs couvre les sous-secteurs suivants : 
+
+   - Gouvernement central budgétaire (Trésor) ; 
+
+   - Gouvernement central extrabudgétaire : les établissements publics à caractère non marchand (EPNMs) ; 
+
+   - Collectivités Territoriales ; et 
+
+      - Organismes de Retraite et de Prévoyance Sociale (ORPS). 
+
+- (ii) **L’identification des instruments de la dette pris en compte dans le calcul de l’encours de la dette** ; 
+
+Selon la définition de la dette au sens étroit du FMI, les instruments de la dette des APUs se composent des éléments suivants : 
+
+   - les bons et obligations du Trésor émis sur le marché intérieur ; 
+
+   - les Eurobonds émis sur le MFI ; 
+
+   - les dépôts dans les circuits du Trésor ; 
+
+   - les crédits et emprunts contractés auprès des établissements de crédit et des bailleurs de fonds officiels étrangers (bilatéraux et multilatéraux) bénéficiant ou non de la garantie de l’État ; 
+
+   - les emprunts bancaires et les émissions obligataires sur le marché domestique et le cas échéant sur le marché international, bénéficiant ou non de la garantie de l’État. 
+
+- **(iii) La valorisation de ces instruments suivant la méthode adoptée, soit une valorisation basée sur la valeur faciale.** 
+
+**19** 
+
+
+
+
+
+######  **EVOLUTION DE L’ENCOURS** 
+
+A fin 2025, la dette consolidée des APUs est estimée à près de 1 115,6 milliards DH contre 1 017,9 MMDH à fin 2024, soit une hausse de 97,7 milliards DH ou 9,6%. 
+
+Cette évolution est due principalement à la hausse de l’encours de la dette du Trésor de près de 63,4 milliards DH et de l’encours de la dette des EPNMs de 23,9 milliards DH. 
+
+Rapporté au PIB, l’encours de la dette des APUs a augmenté de près de 1,9 point de pourcentage en s’établissant à 64,9% à fin 2025 contre 63,0% à fin 2024. 
+
+Le tableau ci-dessous présente l’évolution de la structure de la dette consolidée des APUs entre 2023 et 2025 : 
+
+**Tableau 1 : Répartition de la dette consolidée des administrations publiques** 
+
+|||**_E_**|**_n millions DH_**|
+|---|---|---|---|
+||**2023**|**2024**|**2025 (P)**|
+|**Dette du Trésor (1)**|**1 016 664**|**1 081 586**|**1 144 974**|
+|**En% du PIB**|**68,4%**|**67,0%**|**66,6%**|
+|Intérieure|763 046|811 802|845 212|
+|Extérieure|253 618|269 784|299 762|
+|**Total des Dépôts au Trésor (2)**|**112 100**|**116 950**|**122 350**|
+|**Dette des EPNMs (3)**|**6 574**|**5 713**|**29 607**|
+|**Créances intra-secteur à déduire (4)**|**-198 809**|**-216 777**|**-212 951**|
+|Dépôts au Trésor des EPNMs|-43 570|-58 800|-55 220|
+|Portefeuille en BDT détenu par les EPNMs et<br>ORPS|-155 239|-157 977|-157 731|
+|_EPNMs_|-7 205|-7 131|-7 340|
+|_ORPS_|-148 034|-150 846|-150 391|
+|**Dette des Collectivités Territoriales (5)**|**30 822**|**30 418**|**31 653**|
+|**Dette consolidée des administrations**<br>**publiques(1 + 2 + 3 + 4 + 5)**|**967 351**|**1 017 890**|**1 115 633**|
+|**En% du PIB**|**65,1%**|**63,0%**|**64,9%**|
+
+
+
+_Les données de 2023 et 2024 ont été actualisées et les données de 2025, notamment celles des ORPS et des EPNMs, sont provisoires. Les montants précédés du signe (-) sont des créances sur le Trésor détenues par des entités faisant partie du secteur des APUs._ 
+
+**20** 
+
+
+
+
+
+
+
+##### **FINANCEMENT DU TRÉSOR EN 2025** 
+
+######  **CONTEXTE DE FINANCEMENT DU TRÉSOR EN 2025** 
+
+L’année 2025 s’est inscrite dans un environnement macroéconomique national globalement favorable, marqué par une accélération de l’activité économique, une poursuite de la maîtrise de l’inflation et une amélioration des équilibres macroéconomiques. Ainsi, la croissance économique nationale s’est établie à 4,9% en 2025 contre 4,4% en 2024, sous l’effet notamment du dynamisme de la demande intérieure, de la reprise des activités agricoles et de la consolidation des activités non agricoles. 
+
+Parallèlement, la maîtrise des pressions inflationnistes s’est poursuivie, le taux d’inflation s’établissant à 0,8% en moyenne annuelle en 2025, contre 0,9% en 2024. Cette évolution s’est inscrite dans un contexte de détente progressive des pressions sur les prix et d’assouplissement de la politique monétaire de Bank Al-Maghrib. 
+
+De sa part, la trajectoire de consolidation budgétaire s’est poursuivie. A cet effet, le déficit budgétaire s’est amélioré de près de 0,3 point de PIB pour s’établir à 3,5% du PIB en 2025 contre 3,8% en 2024. 
+
+Pour ce qui est du besoin net de financement, il s’est élevé à 74,0 milliards DH en 2025 contre 52,8 milliards DH en 2024. Ce besoin a été couvert à parts égales entre ressources intérieures et extérieures pour près de 37,0 milliards DH chacune. Le Trésor a poursuivi une stratégie de financement équilibrée entre le marché domestique et les financements extérieurs, tenant compte des conditions de marché, des objectifs de maitrise du coût et des risques, tout en veillant à limiter la pression sur la liquidité locale. 
+
+Dans ce cadre, les conditions de financement du Trésor sur le marché domestique sont restées globalement favorables en 2025, bénéficiant notamment de la détente des taux et d’une demande soutenue des investisseurs. A la différence de l’année 2024, marquée par une forte concentration de la demande sur les maturités moyennes et longues, l’année 2025 s’est caractérisée par une répartition plus équilibrée des soumissions entre le segment à CT et celui à MLT. 
+
+La détente des taux sur le marché des adjudications des valeurs du Trésor s’est, par ailleurs, poursuivie en 2025, dans le sillage de la baisse de 25 pb du taux directeur de Bank Al-Maghrib décidée lors de son conseil du mois de mars 2025. 
+
+######  **FINANCEMENT INTÉRIEUR** 
+
+###### **Conditions du marché monétaire en 2025** 
+
+En 2025, la liquidité bancaire s’est caractérisée par une quasi stabilité par rapport à 2024. En effet, le besoin de liquidité des banques s’est établi à 123,3 milliards DH en moyenne hebdomadaire en 2025, contre 123,7 milliards en 2024. Cette évolution s’explique essentiellement par la persistance de l’effet restrictif exercé par la hausse de la monnaie fiduciaire qui a été partiellement atténuée par l’amélioration des avoirs extérieurs nets de Bank Al-Maghrib. 
+
+**21** 
+
+
+
+
+
+
+
+<!-- Start of picture text -->
+Graphique 2 : Évolution de la liquidité du système bancaire entre 2023 et 2025 - en milliards DH -<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+0<br>-20<br>-40<br>-60<br>-80<br>-87,3<br>-100<br>-83,3<br>-120 -108,7<br>-123,7<br>-140 -123,3<br>-160<br>2023 2024 2025<br><!-- End of picture text -->
+
+Afin de faire face à cette situation, BAM a maintenu ses injections de liquidité dans le marché monétaire à un niveau globalement stable par rapport à 2024. Ces injections se sont établies à 137,8 milliards DH en moyenne hebdomadaire, dont 58,7 milliards DH sous forme d’avances à 7 jours et 60,3 milliards DH au titre des opérations à 1 et 3 mois. Par ailleurs, BAM a procédé à des injections d’un montant de 20,3 milliards DH sous forme d’avances à 24 heures. 
+
+Pour sa part, la DTFE a injecté, à travers ses opérations de placements des excédents du CCT, un montant de près de 15,6 milliards DH en moyenne quotidienne sur ledit marché. 
+
+Dans ces conditions, le taux de référence JJ sur le marché interbancaire a enregistré une baisse de près de 57,1 pb tandis que l’indice MONIA a marqué une baisse de 54,2 pb par rapport à fin 2024, s’établissant à 2,29% et 2,28% respectivement. Cette évolution s’explique, en grande partie, par les deux baisses successives du taux directeur de BAM, intervenues en décembre 2024 et en mars 2025. 
+
+###### **Conditions de financement sur le marché primaire en 2025** 
+
+En 2025, le financement du Trésor sur le marché domestique s’est opéré dans un contexte marqué essentiellement par : 
+
+- une hausse du besoin de financement conjugué à la persistance d’un besoin structurel de liquidité bancaire sur le marché monétaire ; 
+
+- une hausse des mobilisations extérieures par rapport à l’année précédente, avec des tirages qui se sont établis à 48,4 milliards DH, dont 20,9 milliards DH mobilisés sur le marché financier international, contre 40,4 milliards DH en 2024 ; 
+
+- une légère hausse de la demande en BDT avec un retour vers les maturités CT comparé à 2024 ; et 
+
+- une tendance baissière des taux au cours de l’année tirée par les anticipations de poursuite de la baisse du taux directeur, confirmée en mars 2025 avec une 3<sup>ème</sup> baisse du taux directeur de 25 pb pour le ramener à 2,25%. 
+
+###### **Demande des investisseurs** 
+
+Une légère hausse de la demande … 
+
+Le volume demandé par les investisseurs au titre des BDT a atteint près de 370,0 milliards DH, contre 366,5 milliards DH enregistré un an auparavant, en légère hausse de près de 1,0%. 
+
+Par terme, les BDT de maturités de 2 ans et moins ont représenté 57,8% du volume global demandé et ceux de maturités de 5 ans et plus 42,2%, contre 40,5% et 59,5% respectivement à fin décembre 2024. 
+
+**22** 
+
+
+
+
+
+
+
+- **Graphique 3 : Évolution de la demande des investisseurs par segment de maturité en 2024 et 2025** 
+
+
+
+<!-- Start of picture text -->
+CT (inf. ou égale 52 sem.) MT (2 à 5 ans) LT (sup. ou égale à 10 ans)<br>366,5 milliards DH 370,0 milliards DH<br>25,4%<br>41,8%<br>52,8%<br>44,3%<br>21,8%<br>13,9%<br>2024 2025<br><!-- End of picture text -->
+
+…conjuguée à une évolution baissière des taux demandés 
+
+Les taux demandés ont connu une baisse de 18,3 pb en moyenne par rapport à fin 2024. Par terme, cette baisse a été nettement plus importante au titre des BDT à 5 ans et plus avec -31,1 pb contre seulement -2,3 pb en moyenne pour les BDT à 2 ans et moins. 
+
+Toutefois, intra-annuellement, l’évolution des taux demandés a globalement connu deux phases principales : 
+
+
+
+
+
+- **Une première période** , allant du début de l’année jusqu’à fin août 2025, a été marquée par une baisse quasi continue des taux demandés par les investisseurs en lien principalement avec les anticipations d’un assouplissement de la politique monétaire de BAM. Ces anticipations se sont concrétisées au mois de mars 2025 par une baisse du taux directeur de 25 pb. Ainsi, la baisse des taux demandés cumulée pendant cette période a atteint 51,8 pb par rapport à fin décembre 2024. 
+
+- **Une deuxième période** , couvrant la période allant du mois de septembre à décembre 2025, s’est caractérisée par une tendance haussière des taux demandés pour atteindre une hausse cumulée de 31,0 pb en moyenne par rapport à la première période (fin août 2025). Cette évolution traduit une correction progressive des taux dans une perspective de stabilisation du taux directeur. 
+
+**Graphique 4 : Évolution annuelle des derniers TMP offerts entre 2024 et 2025** 
+
+
+
+<!-- Start of picture text -->
+2024 2025<br>4,44%<br>3,80%<br>3,62%<br>3,28%<br>3,76%<br>2,97%<br>2,91% 3,45% 3,47%<br>2,70%<br>2,43% 2,45% 3,10%<br>2,76%<br>2,53%<br>2,54%<br>2,27% 2,31%<br>13 sem 26 sem 52 sem 2 ans 5 ans 10 ans 15 ans 20 ans 30 ans<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+23<br><!-- End of picture text -->
+
+
+
+
+
+###### **Politique de financement intérieur adoptée par la Direction du Trésor** 
+
+Dans un contexte marqué par une hausse des besoins de financement du Trésor, conjuguée à une réorientation de la demande des investisseurs vers les maturités à 2 ans et moins et à la poursuite de la détente des taux, la politique de financement menée par la Direction du Trésor s’est basée sur : 
+
+- le maintien d’une présence régulière sur le MAVT afin de couvrir les besoins de financement du Trésor tout en s’adaptant à la demande et aux conditions de marché ; 
+
+- le recours aux opérations de GADI pour lisser le profil des tombées de la dette du Trésor et atténuer le risque de refinancement ; et 
+
+- le recours quotidien aux opérations de placement des excédents du CCT afin d’optimiser la gestion de trésorerie, en réinjectant sur le marché monétaire les disponibilités constituées pour une gestion préventive du risque de refinancement. 
+
+###### **Émissions du Trésor en 2025** 
+
+Baisse des levées du Trésor… 
+
+A fin décembre 2025, les levées du Trésor ont enregistré une baisse de près de 5,5% par rapport à fin décembre 2024 en s’établissant à 162,2 milliards DH (y compris les opérations de gestion active de la dette intérieure) contre 171,7 milliards DH un an auparavant. 
+
+Par segment de maturités, les levées du Trésor ont été réparties quasi équitablement entre les maturités à 2 ans et moins et celles à 5 ans et plus avec des parts respectives de près de 51,2% et 48,8% du volume global levé, contre 28,7% et 71,3% respectivement à fin décembre 2024. 
+
+Les maturités les plus souscrites sont les BDT à 2 ans avec une part de 38,8%, suivies des BDT à 5 ans (23,5%), des BDT à 10 ans (10,4%), des BDT à 52 semaines (7,9%), des BDT à 15 ans (6,9%), des BDT à 20 ans (5,1%), des BDT à 30 ans (2,9%), des BDT à 26 semaines (2,7%) et des BDT à 13 semaines (1,9%). 
+
+**Tableau 2 : Répartition trimestrielle des souscriptions par maturité - en millions DH** 
+
+||**T1-2025**|**T2-2025**|**T3-2025**|**T4-2025**|**Total**|**Part%**|
+|---|---|---|---|---|---|---|
+|**13 sem.**|500,0|1 620,0|950,0|-|**3 070,0**|**1,9%**|
+|**26 sem.**|1 050,0|400,0|400,0|2 450,0|**4 300,0**|**2,7%**|
+|**52 sem.**|7 354,3|2 160,0|1 590,0|1 650,0|**12 754,3**|**7,9%**|
+|**2 ans**|14 415,5|5 850,0|17 648,2|24 975,5|**62 889,2**|**38,8%**|
+|**5 ans**|6 795,5|9 182,1|6 412,2|15 714,8|**38 104,6**|**23,5%**|
+|**10 ans**|9 359,6|3 992,1|2 555,0|1 000,0|**16 906,7**|**10,4%**|
+|**15 ans**|2 185,0|1 603,2|6 791,4|632,0|**11 211,6**|**6,9%**|
+|**20 ans**|921,0|4 486,8|2 892,8|-|**8 300,6**|**5,1%**|
+|**30 ans**|1 665,3|708,1|2 025,3|300,0|**4 698,7**|**2,9%**|
+|**Total**|**44 246,2**|**30 002,3**|**41 264,9**|**46 722,3**|**162 235,7**|**100,0%**|
+
+
+
+… conjuguée à une baisse des taux de rendement adjugés 
+
+A l’instar des taux demandés, mais avec une ampleur plus importante, les taux retenus sur le marché des adjudications ont enregistré une baisse de 41,2 pb en moyenne comparé à fin 2024. Par terme, cette baisse s’est établie à 33,2 pb en moyenne pour les BDT de maturité à 2 ans et moins et à 47,7 pb en moyenne pour les BDT à 5 ans et plus. 
+
+**24** 
+
+
+
+
+
+
+
+Par maturité, la baisse a été plus prononcée au titre des BDT à 30 ans avec -69,0 pb, suivis des BDT à 13 semaines (-60,6 pb), des BDT à 10 ans (-49,7 pb), des BDT à 20 ans (-49,5 pb), BDT à 15 ans (-39,5 pb), des BDT à 26 semaines (-39,0 pb), des BDT à 5 ans (-30,8 pb), des BDT à 52 semaines (-22,0 pb) et de ceux à 2 ans avec une baisse de 11,2 pb. 
+
+
+
+<!-- Start of picture text -->
+Graphique 5 : Évolution annuelle des taux de rendement des BDT - Derniers TMP retenus –<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+2024 2025<br>5,0%<br>4,44%<br>4,5%<br>3,79%<br>4,0%<br>3,53%<br>3,24%<br>3,5%<br>2,91% 3,75%<br>2,28% 2,54% 2,44% 2,61% 3,13% 3,30% 3,0%<br>2,5%<br>2,74%<br>2,61%<br>2,50%<br>2,0%<br>2,15% 2,22%<br>1,5%<br>1,67%<br>1,0%<br>0,5%<br>0,0%<br>13 sem 26 sem 52 sem 2 ans 5 ans 10 ans 15 ans 20 ans 30 ans<br><!-- End of picture text -->
+
+**Tableau 3 : Évolution des TMP des bons émis par adjudication - derniers taux retenus par mois -** 
+
+||**Déc.**<br>**2024**|**Janv.**|**Fév.**|**Mars**|**Avril**|**Mai**|**Juin**|**Juil.**|**Août**|**Sept.**|**Oct.**|**Nov.**|**Déc.**<br>**2025**|**Var.**<br>**2025/2024**<br>**(pb)**|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**13 sem.**|2,28%|2,28%|2,32%|2,20%|||1,73%||1,68%|1,67%||||**-60,6**|
+|**26 sem.**|2,54%|2,54%|2,43%|2,39%|2,18%|2,00%|||1,94%||2,09%|2,07%|2,15%|**-39,0**|
+|**52 sem.**|2,44%|2,49%|2,57%|2,31%|2,23%|2,05%|1,74%|2,03%|2,02%|2,01%|2,19%|2,22%||**-22,0**|
+|**2 ans**|2,61%|2,59%|2,64%|2,38%|2,32%|2,15%|2,05%|2,22%|2,24%|2,26%|2,42%|2,48%|2,50%|**-11,2**|
+|**5 ans**|2,91%|2,82%|2,84%|2,84%|2,57%|2,44%|2,33%|2,40%|2,41%|2,41%|2,57%|2,61%||**-30,8**|
+|**10 ans**|3,24%|3,20%|3,15%|3,17%|2,89%|2,84%|2,66%||2,72%|2,73%||2,74%||**-49,7**|
+|**15 ans**|3,53%|3,45%||3,45%|3,22%|3,15%|2,98%|3,08%|3,07%|3,07%|3,13%|||**-39,5**|
+|**20 ans**|3,79%|3,75%|3,72%||3,50%|3,45%|3,33%|3,34%|3,33%|3,30%||||**-49,5**|
+|**30 ans**|4,44%|4,22%|||3,85%||3,72%|3,74%||3,75%|3,75%|||**-69,0**|
+
+
+
+######  **FINANCEMENT EXTÉRIEUR** 
+
+###### **Tirages sur emprunts extérieurs** 
+
+Les tirages sur emprunts extérieurs du Trésor pour l’année 2025 ont porté sur un volume global de 48,4 milliards DH, contre 40,4 milliards DH en 2024, soit une progression de 8,0 milliards. Cette évolution s’explique par l’effet combiné de l’émission sur le MFI de 2,0 milliards d’euros (20,9 milliards DH) et de la baisse de 12,9 milliards DH des tirages auprès des créanciers officiels (aucune émission sur le MFI n'ayant été effectué en 2024). 
+
+
+
+<!-- Start of picture text -->
+25<br><!-- End of picture text -->
+
+PROJET DE LOI DE FINANCES POUR L'ANNÉE 2027 
+
+Les mobilisations réalisées auprès des créanciers multilatéraux se sont établies à près de 24,3 milliards DH, représentant 50,3% du total des tirages, en baisse de 6,9 milliards DH par rapport à l’année 2024. Ces tirages ont été mobilisés, principalement, auprès de la Banque mondiale (12,2 milliards DH), de la BAD (5,0 milliards DH), du FMI (4,8 milliards DH), et du FMA (1,3 milliard DH). 
+
+S’agissant des mobilisations réalisées auprès des créanciers bilatéraux, elles ont porté sur un montant de 3,1 milliards DH en 2025, soit 6,5% du total des tirages, contre 9,1 milliards DH en 2024, soit une baisse de 6,0 milliards DH. Ces tirages ont été effectués, principalement, auprès de la France (1,6 milliard DH), de l’Allemagne (1,2 milliard DH) et du Japon (0,3 milliard DH). 
+
+**Graphique 6 : Tirages sur emprunts extérieurs par type de créanciers** 
+
+
+
+<!-- Start of picture text -->
+Créanciers<br>multilatéraux<br>Marché<br>financier 50,3%<br>international<br>43,2%<br>Créanciers<br>bilatéraux<br>6,5%<br><!-- End of picture text -->
+
+###### **Utilisation des emprunts extérieurs** 
+
+Au titre de l’année 2025, les mobilisations extérieures du Trésor destinées au financement des programmes et appuis aux réformes se sont établies à 25,5 milliards DH, dont : 
+
+- 9,7 milliards DH au titre des appuis à la résilience et la durabilité aux changements climatiques ; 
+
+- 7,9 milliards DH au titre de la protection sociale ; 
+
+- 1,3 milliard DH au profit du commerce arabe ; 
+
+- 1,2 milliard DH au titre des appuis à la compétitivité ; et 
+
+- 0,9 milliard DH au titre des appuis à l’enseignement et à l’éducation. 
+
+S’agissant des projets du Budget, ceux-ci ont bénéficié d’un montant de près de 2,0 milliards DH, dont principalement : 
+
+- 0,6 milliard DH destiné aux secteurs de l’eau et des barrages ; et 
+
+- 0,3 milliard DH pour le développement rural. 
+
+###### **Nouveaux engagements extérieurs** 
+
+Au titre de l’année 2025, et hors émission obligataire de 2,0 milliards d’euros réalisée sur le MFI, le Maroc a conclu plusieurs accords de prêt auprès de différents bailleurs de fonds, notamment la BIRD, l’Allemagne, la BAD, le Japon, l’AIIB, la BERD et l’OFID. 
+
+Ces accords, d’une enveloppe globale de près de 35,4 milliards DH, ont été destinés principalement au financement des appuis à la protection sociale, à la résilience et la durabilité aux changements climatiques, au secteur de l’eau et des barrages et au secteur des infrastructures de transport. 
+
+**26** 
+
+
+
+
+
+
+
+###### **EVOLUTION DU FINANCEMENT EXTERIEUR DU TRESOR** 
+
+Le financement extérieur du Trésor a enregistré une progression significative, s’établissant à un volume global de 48,4 milliards DH contre 40,4 milliards DH un an auparavant. Cette évolution prolonge la dynamique haussière enclenchée depuis 2021, année où les tirages se sont établis à 18,4 milliards DH après le pic exceptionnel de la crise sanitaire, et a pour objectif de diversifier les sources de financement du Trésor et de limiter la pression sur les ressources domestiques. Ces dernières sont en effet fortement sollicitées pour couvrir l’importance des besoins liés aux investissements et aux chantiers structurants engagés en faveur du développement de notre pays. 
+
+Dans cette perspective, et hors émissions réalisées sur le MFI, les mobilisations du Trésor traduisent l’engagement constant de nos créanciers officiels, auprès desquelles les tirages se sont établies à 27,5 milliards DH à fin 2025, à l’instar de la BIRD et de la BAD pour les créanciers multilatéraux, ainsi que de la France et de l’Allemagne pour les créanciers bilatéraux. Acteurs clés du financement des appuis aux réformes et des projets de budget aux côtés d’autres bailleurs, ces partenaires font bénéficier le Trésor de conditions de financement globalement avantageuses, soutenues par des volumes de tirages significatifs. 
+
+###### **<u>Evolution des tirages sur emprunts extérieurs du Trésor entre 2021 et 2025</u>** 
+
+**Créanciers bilatéraux Créanciers multilatéraux Marché Financier international (MFI)** 
+
+_En MM.DH_ 
+
+
+
+<!-- Start of picture text -->
+48,4<br>45,5<br>40,4<br>43%<br>29,7 57%<br>78%<br>18,4<br>72%<br>51%<br>65% 34%<br>35% 28% 9% 22% 6%<br>2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+**27** 
+
+
+
+
+
+### **STRUCTURE DE LA DETTE DU TRÉSOR A FIN 2025** 
+
+ **PROFIL DE LA DETTE DU TRÉSOR** 
+
+**Évolution de l’encours** 
+
+Au terme de l’année 2025, l’encours de la dette du Trésor s’est établi à 1 145,0 milliards DH, en hausse de 63,4 milliards DH ou 5,9% par rapport à fin 2024 (1 081,6 milliards DH), contre une hausse de 6,4% entre 2024 et 2023. 
+
+Malgré cette tendance haussière du stock de la dette du Trésor, son rythme de croissance a connu une décélération à partir 2022, passant de 7,5% à 6,4% en 2024 puis à 5,9% en 2025. 
+
+Par composante de dette, l’évolution de la structure de la dette du Trésor fait ressortir une hausse de la part de la dette extérieure, qui s’est établie à 26,2% à fin 2025, et une baisse de celle de la dette intérieure, qui a atteint 73,8%, ce qui demeure conforme aux objectifs retenus pour le portefeuille benchmark (70%-80% dette intérieure et 20%-30% dette extérieure). Ainsi, l’encours de la dette intérieure s’est établi à 845,2 milliards DH à fin 2025, en augmentation de 33,4 milliards DH ou 4,1% par rapport à 2024 et celui de la dette extérieure s’est élevé à 299,8 milliards DH, en hausse de 30,0 milliards DH ou 11,1% par rapport à l’année précédente. 
+
+Rapporté au PIB, l’encours de la dette du Trésor poursuit sa baisse pour s’établir à 66,6% à fin 2025 contre 67,0% à fin 2024, enregistrant ainsi une baisse de 0,4 point de PIB, après 1,4 point de PIB entre 2023 et 2024 et 3,0 points de PIB entre 2022 et 2023. Cette évolution est imputable principalement à la hausse plus importante de la croissance économique que celle de l’encours de la dette du Trésor. 
+
+Par type de dette, le ratio de la dette a atteint 49,2% au titre de la dette intérieure et 17,4% au titre de la dette extérieure contre respectivement 50,3% et 16,7% à fin 2024. 
+
+**Graphique 7 : Évolution de l’encours de la dette du Trésor** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###### **Structure par instrument** 
+
+La dette du Trésor est essentiellement négociable avec une part de près de 77,5% dont 68,8% au titre des BDT émis sur le marché des adjudications et 8,7% au titre des Eurobonds émis sur le MFI. 
+
+La dette non négociable représente 22,5% du portefeuille de la dette du Trésor et elle est constituée principalement d’emprunts extérieurs mobilisés auprès des créanciers officiels (18,0% du portefeuille de la dette du Trésor). 
+
+**28** 
+
+<mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+**Tableau 4 : Répartition de l’encours de la dette du Trésor par instrument - en millions DH –** 
+
+||202<br>|4<br>|~~20~~<br>|~~25~~<br>|Variation|
+|---|---|---|---|---|---|
+||Volume<br>|Part<br>|Volume<br>|Part<br>||
+|Dette négociable<br>|837 838<br>|77,5%<br>|887 240<br>|~~%SL~~<br>|~~49~~ ~~402~~<br>|
+|<br>Adjudications<br>|753 604|~~69~~,7~~%~~<br>|787 340<br>|68,8%<br>|33 736<br>|
+|Eurobonds|84 234|7,~~8%~~<br>|~~006~~ ~~66~~|~~8~~,7~~%~~<br>|~~15~~ ~~666~~<br>|
+|Dette non négociable|243 749|22,5%<br>|257 734|22,5%|13 985<br>|
+|<br>Emprunts intérieurs|51 553|~~4~~,~~8%~~<br>|51 249|4,5%<br>|- ~~304~~<br>|
+|Emprunts extérieurs<br>|192 196<br>|17,8%<br>|206 485|18,0%<br>|14 289<br>|
+|Total|1 081 586|100,0%|1144 974|100,0%|63 388|
+
+
+
+###### **Structure par maturité initiale** 
+
+L’encours de la dette du Trésor négociable est composé à hauteur de 85,8% de titres de maturités supérieures ou égales à 5 ans. L’encours des BDT à 5 ans et plus représente près de 75,6% du stock de la dette négociable du Trésor, tandis que celui des Eurobonds émis sur le MFI représente une part de 10,2%. Les encours des autres maturités se concentrent essentiellement sur les BDT à 2 ans et à 52 semaines avec des parts respectives de 11,3% et 1,5%. 
+
+Pour la dette non négociable, elle est constituée quasi exclusivement d’emprunts à MLT. La dette extérieure représente une part de 80,1% de l’encours global de cette dette, alors que celle de la dette intérieure se limite à 19,9%. 
+
+**Tableau 5 : Répartition de l’encours de la dette négociable par maturité initiale et en valeur nominale -en millions DH-** 
+
+||13 sem|26 sem.|52 sem.|2 ans|4 ans|5 ans|7 ans|10 ans|12 ans|15 ans|20 ans|30 ans|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|~~En~~cours des BDT|-|2 850|13 114|100 410||142 476|-|170 002|-|177 771|105 063|75 654|
+|E~~n~~cours des~~E~~urobonds|-|-|-|-|9 641|16 766|6 846|28 550|19 840|-|-|18 257|
+|To~~t~~al|**-**|**2 850**|**13 114**|**100 410**|**9 641**|**159 242**|**6 846**|**198 552**|**19 840**|**177 771**|**105 063**|<br>**93 911**|
+|Par~~t~~(%)|0,0%|0,3%|1,5%|11,3%|<sup>~~%LL~~ </sup>|%64L|0,8%|22,4%|2,2%|20,0%|11,8%|%LO%|
+
+
+
+**Structure par base d’investisseurs** 
+
+L’encours des BDT émis par adjudication à fin décembre 2025 est détenu principalement par les banques et les OPCVM avec des parts respectives de 40,1% et 32,6%, suivi des caisses de retraite et des compagnies d’assurance (12,5%). 
+
+L’analyse de la structure de la dette intérieure par catégorie de créanciers fait ressortir une progression de la part des banques, qui s’établit à 40,1 % en décembre 2025 contre 38,3 % une année auparavant. Cette évolution s’est accompagnée d’un léger recul de la part des OPCVM, de 33,3 % à 32,6 %, ainsi que d’une diminution plus marquée de celle des caisses de retraite et des compagnies d’assurance, de 13,7 % à 12,5 %. 
+
+La structure de la dette intérieure reste, par ailleurs, principalement portée par les banques et les OPCVM, qui représentent conjointement près des trois quarts du portefeuille à fin décembre 2025. 
+
+S’agissant de la dette extérieure du Trésor, la structure par type de créanciers demeure globalement inchangée. Les créanciers multilatéraux restent le premier groupement de créanciers du Trésor, avec une part de 55,6%, suivis du MFI, dont la part s’établit à 31,1%, et des créanciers bilatéraux, à hauteur de 13,3%. 
+
+**29** 
+
+
+
+
+
+
+
+<!-- Start of picture text -->
+Graphique 8  :  Répartition de la dette du Trésor par type de détenteurs et créanciers<br> 2025 : Anneau extérieur 2025 : Anneau extérieur<br>2024: Anneau intérieur 2024 : Anneau intérieur<br>Porteurs<br>Autres<br>d'obligations<br>14,8% Bilatéraux<br>31,1%<br>13,3%<br>Assurances  14,7%<br>et Caisses de  Banques 28,8% 14,6%<br>retraite 38,3% 40,1%<br>13,7%<br>12,5%<br>33,3%<br>56,6%<br>OPCVM<br>32,6% Multilatéraux<br>55,6%<br>Portefeuille de BDT Dette Extérieure<br><!-- End of picture text -->
+
+**Structure par type de taux d’intérêt** 
+
+A fin 2025, la part de l’encours de la dette du Trésor à taux fixe s’est établie à près de 90,2% de l’encours global, enregistrant une hausse de 0,7 de point de pourcentage par rapport à fin 2024. La prédominance de la dette assortie de taux fixe est due essentiellement au fait que la dette intérieure, qui représente 73,8% de l’encours de la dette du Trésor, est quasiexclusivement à taux fixe. Étant noté que l’encours de la dette intérieure à taux révisable représente 1,2% de l’encours de la dette intérieure en 2025, soit 10,4 milliards DH. 
+
+Concernant la structure de la dette extérieure du Trésor par type de taux d’intérêt, celle-ci s’est caractérisée par une légère diminution de la part de la dette à taux d’intérêt fixes, qui s’est établie à 65,8% à fin 2025, contre 66,1% à fin 2024. La part de la dette à taux variables s’est établie à 34,2% à fin 2025, contre 33,9% à fin 2024. Cette structure reste globalement proche de celle du portefeuille repère de la dette extérieure. 
+
+La répartition de la dette intérieure du Trésor, par intervalle de taux, montre une hausse de 9,6 points de pourcentage de la part de l’encours de la dette assortie de taux d’intérêt inférieur à 3%, qui atteint 30,5% en 2025. Cette évolution s’accompagne d’une baisse de même ampleur de la part de l’encours de la dette assortie de taux d’intérêt supérieur ou égal à 3%, laquelle s’établit à 69,5% en 2025 contre 79,0% en 2024. 
+
+Cette évolution s’explique essentiellement par la structure des mobilisations de 2025, concentrée à 51% sur les maturités de 2 ans et moins contre 29% en 2024, ainsi que par la baisse du taux nominal moyen des bons émis par adjudication, qui s’est établi à 3,65% en 2025 contre 3,82% en 2024. Cela s’est traduit par le remplacement des tombées assorties de taux élevés par de nouvelles mobilisations à des taux plus favorables et ce, dans le sillage de la tendance baissière des taux entamés en 2024. 
+
+**30** 
+
+
+
+
+
+
+
+
+
+<!-- Start of picture text -->
+Graphique 9 : Répartition de l’encours de la dette intérieure du Trésor par intervalle de taux<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+2024 2025<br>42,7%<br>37,5%<br>30,5%<br>23,6%<br>20,9% 20,7%<br>12,9%<br>11,4%<br>inf. ou égal à 3% ]3%-4%] ]4%-5%] ]5%-6%]<br><!-- End of picture text -->
+
+###### **Structure par devises** 
+
+Le portefeuille de la dette du Trésor à fin 2025 demeure dominé par la dette libellée en DH qui représente 73,2% de l’encours, en baisse de 0,6% par rapport à 2024 (73,8%). 
+
+La part de la dette extérieure du Trésor libellée en euro dans le total du stock de la dette libellée en devises a atteint 64,4%, à fin 2025, tandis que celle libellée en dollar US et devises liées s’est établie à 27,2% et celle des autres devises (yen japonais, dinar koweïtien et autres) à 8,4%. 
+
+Cette structure demeure proche de celle du panier actuel de cotation du DH (60% euro et 40% dollar US), et permet de limiter l’exposition du portefeuille de la dette extérieure du Trésor au risque de change. 
+
+**Tableau 6 : Structure de l’encours de la dette du Trésor par devises - en millions DH –** 
+
+||**202**|**4**|**20**|**25**|
+|---|---|---|---|---|
+||**Volume**|**Part**|**Volume**|**Part**|
+|**MAD**|**798 066**|**73,8%**|**838 588**|**73,2%**|
+|**EUR**|**160 842**|**14,9%**|**199 425**|**17,4%**|
+|**USD**|**93 448**|**8,6%**|**83 511**|**7,3%**|
+|**Autres devises**|**29 230**|**2,7%**|**23 450**|**2,1%**|
+|**Total**|**1 081 586**|**100%**|**1 144 974**|**100,0%**|
+
+
+
+- **SERVICE DE LA DETTE DU TRÉSOR** 
+
+Les charges de la dette du Trésor en amortissements, intérêts et commissions, réglées durant l’année 2025, ont atteint 197,4 milliards DH contre 198,3 milliards DH en 2024, soit une baisse de 0,9 milliard DH ou 0,5%. Cette évolution résulte de la baisse des charges en principal de 6,4 milliards DH, combinée à une hausse des charges en intérêts et commissions de 5,4 milliards DH. 
+
+Par type de dette, les charges de la dette intérieure ont augmenté de près de 10,0 milliards DH pour s’établir à 176,4 milliards DH contre 166,5 milliards DH à fin 2024. Cette évolution résulte essentiellement de la hausse des charges en intérêts qui ont augmenté de 6,4 MMDH. Concernant les charges de la dette extérieure, celles-ci ont diminué de 11,0 milliards DH pour s’établir à 20,9 milliards DH à fin 2025 contre 31,9 milliards DH un an auparavant. Cette baisse s’explique essentiellement par la diminution des charges en principal, de près de 10,0 milliards DH par rapport à 2024, notamment suite au remboursement effectué en 2024 au titre de l’Eurobond à 10 ans émis par le Trésor en 2014 sur le MFI. 
+
+**31** 
+
+
+
+
+
+**Les charges en intérêts et commissions** 
+
+Les charges en intérêts et commissions de la dette du Trésor se sont établies à 45,2 milliards DH, enregistrant une hausse de près de 5,4 milliards DH par rapport à 2024. Ces charges ont représenté 2,6% du PIB en 2025 contre 2,5% en 2024. En pourcentage des recettes ordinaires, ces charges ont atteint 10,7%, enregistrant un niveau identique à celui de 2024. 
+
+Les charges en intérêts et commissions au titre de la dette intérieure se sont élevées à 35,8 milliards DH en 2025 contre 29,3 milliards DH en 2024, soit une hausse de 6,4 milliards DH. 
+
+Outre la hausse du stock de la dette du Trésor par rapport à 2024, cette évolution s’explique également par la concentration des levées sur le segment moyen et long terme au titre de l’année 2024, lesquelles ont représenté près de 72 % du total levé. Cette orientation s’inscrivait notamment dans un contexte de baisse significative des taux d’intérêt, qui a favorisé le recours accru aux maturités moyen et long terme afin de tirer parti des conditions de financement alors plus favorables. 
+
+S’agissant des charges en intérêts nettes au titre de la dette intérieure, celles-ci se sont établies à 34,6 milliards DH en 2025 contre 27,3 milliards DH et ce, compte tenu d’un montant de 875,7 millions DH correspondant aux coupons courus versés par les souscripteurs pour les lignes assimilées et d’un montant de 315,7 millions DH correspondant aux intérêts perçus au titre des opérations de gestion active de la trésorerie publique. 
+
+**Tableau 7 : Charges nettes en intérêts au titre de la dette intérieure - en millions DH –** 
+
+||**2024**|**2025**|**Variation**|
+|---|---|---|---|
+|**Intérêts bruts de la dette intérieure (1)**|**29 329**|**35 767**|**6 438**|
+|**Coupons courus (2)**|**1 584**|**876**|**-708**|
+|**Intérêts de la gestion active de la trésorerie**<br>**publique(3)**|**478**|**316**|**-162**|
+|**Intérêts nets (1)-(2)-(3)**|**27 267**|**34 575**|**7 308**|
+
+
+
+Concernant les charges en intérêts et commissions de la dette extérieure du Trésor, celles-ci se sont établies à 9,5 milliards DH en 2025, soit une baisse de près de 1,0 milliard DH par rapport à 2024. Cette baisse s’explique principalement par la diminution des charges payées auprès des créanciers multilatéraux et privés, ainsi que par la détente des taux d’intérêt sur le MFI par rapport à 2024. 
+
+**Tableau 8 : Charges en intérêts et commissions par source de financement - en millions DH -** 
+
+||**202**|**4**|**202**|**5**|**Variation**|
+|---|---|---|---|---|---|
+||**Volume**|**Part**|**Volume**|**Part**||
+|**Dette intérieure**|**29 329**|**74%**|**35 767**|**79%**|**6 437**|
+|**Adjudications**|25 607|64%|31 680|70%|6 073|
+|**Autres**|3 722|9%|4 086|9%|364|
+|**Dette extérieure**|**10 494**|**26%**|**9 466**|**21%**|**-1 028**|
+|**Créanciers bilatéraux**|585|1%|642|1%|57|
+|**Créanciers multilatéraux**|6 256|16%|5 717|13%|-539|
+|**MFI**|3 653|9%|3 107|7%|-546|
+|**Total**|**39 823**|**100%**|**45 233**|**100%**|**5 409**|
+
+
+
+**32** 
+
+
+
+
+
+
+
+###### **Les charges en principal** 
+
+Les charges en principal de la dette du Trésor se sont établies, en 2025, à 152,1 milliards DH contre 158,5 milliards DH en 2024, soit une baisse de 6,4 milliards DH. 
+
+Au niveau de la dette intérieure, les charges en principal payées en 2025 ont totalisé près de 140,7 milliards DH contre 137,1 milliards DH en 2024, soit une hausse de 3,5 milliards DH. Cette évolution découle essentiellement de la structure des levées des années précédentes et notamment de la hausse des levées sur le CT en 2025 comparativement à 2024. 
+
+Au titre de la dette extérieure du Trésor, les charges en principal payées se sont établies à 11,5 milliards DH contre 21,4 milliards DH à fin 2024, enregistrant une baisse de 9,9 milliards DH. Cette baisse s’explique, principalement, par le remboursement, en 2024, de la tombée de 1 milliard d’euro au titre de l’Eurobond à 10 ans émis par le Trésor en 2014. 
+
+**Tableau 9 : Charges en principal par source de financement - en millions DH –** 
+
+||**20**|**24**|**202**|**5**|**Variation**|
+|---|---|---|---|---|---|
+||**Volume**|**Part**|**Volume**|**Part**||
+|**Dette intérieure**|**137 124**|**86%**|**140 650**|**92%**|**3 526**|
+|Adjudications|117 440|74%|128 500|84%|11 060|
+|Autres|19 684|12%|12 150|8%|-7 534|
+|**Dette extérieure**|**21 397**|**14%**|**11 477**|**8%**|**-9 920**|
+|Créanciers bilatéraux|2 472|2%|2 515|2%|43|
+|Créanciers multilatéraux|8 146|5%|8 857|6%|711|
+|MFI|10 779|7%|105|0%|-10 674|
+|**Total**|**158 521**|**100%**|**152 127**|**100%**|**-6 394**|
+
+
+
+###### **Flux nets de la dette du Trésor** 
+
+En 2025, les flux nets du Trésor se sont établis à près de 70,3 milliards DH contre 67,8 milliards DH en 2024, soit une hausse de 2,5 milliards DH. 
+
+###### **Flux nets de la dette intérieure** 
+
+Les flux nets de la dette intérieure se sont établis à près de 33,4 milliards DH en 2025, enregistrant une baisse de 16,8 milliards DH comparativement à 2024 et ce, sous l’effet combiné de la baisse des souscriptions de 13,1 milliards DH et la hausse des remboursements de 3,5 milliards DH au titre de l’année 2025. 
+
+Concernant les souscriptions nettes au titre des BDT émis par adjudication, elles se sont élevées à près de 33,7 milliards DH en 2025 contre 54,2 milliards DH en 2024, en baisse de 20,5 milliards DH. 
+
+Pour ce qui est du flux net des BDT à 5 ans et plus, il s’est établi à 22,0 milliards DH. 
+
+**Tableau 10: Souscriptions nettes au titre des BDT à 5 ans et plus - en millions DH -** 
+
+||**Souscriptions**|**Amortissements**|**Flux**|
+|---|---|---|---|
+|**5 ans**|**38 105**|**30 810**|**7 295**|
+|**10 ans**|**16 907**|**12 156**|**4 751**|
+|**15 ans**|**11 212**|**7 118**|**4 094**|
+|**20 ans**|**8 301**|**7 166**|**1 135**|
+|**30 ans**|**4 699**|**-**|**4 699**|
+|**Total**|**79 224**|**57 250**|**21 974**|
+
+
+
+**33** 
+
+
+
+
+
+###### **Flux nets de la dette extérieure** 
+
+Les flux nets sur les emprunts extérieurs du Trésor se sont élevés à 36,9 milliards DH en 2025 contre 19,0 milliards DH en 2024. Cette hausse s’explique principalement par l’émission du Trésor sur le MFI, en 2025, d’un montant de 2,0 milliards d’euros (20,9 milliards DH). 
+
+**Tableau 11 : Flux nets de la dette extérieure du Trésor par groupe de créanciers - en millions DH -** 
+
+||**2024**|**2025**|
+|---|---|---|
+|**Créanciers bilatéraux**|**6 608**|**623**|
+|**Créanciers multilatéraux**|**23 145**|**15 487**|
+|**Marché financier international**|**-10 779**|**20 838**|
+|**Total**|**18 974**|**36 948**|
+
+
+
+**34** 
+
+
+
+
+
+
+
+##### **INDICATEURS DE COÛT ET DE RISQUE** 
+
+**_Le pilotage de la gestion de la dette s’appuie sur le suivi d’indicateurs de coût et de risque qui renseignent sur le degré d’atteinte des objectifs fixés dans le cadre de la stratégie de financement poursuivie par la DTFE._** 
+
+######  **INDICATEURS DE COÛT** 
+
+###### **Le coût moyen de la dette du Trésor** 
+
+A fin 2025, le coût moyen de la dette du Trésor a enregistré une hausse de 22 pb par rapport à son niveau de 2024, s’établissant à 4,18% contre 3,96% à fin 2024. 
+
+Par type de dette, le coût moyen de la dette intérieure du Trésor s’est établi à 4,39% contre 3,89% en 2024, soit une hausse de 50 pb. Cette évolution s’explique principalement par la hausse des taux durant les années 2022 et 2023, avec une hausse moyenne de 88 pb dans le sillage de l’augmentation cumulée de 150 pb du taux directeur de BAM, ainsi que le paiement, en 2025, des premiers coupons afférents à certaines lignes émises en 2023. 
+
+Cette hausse a été contrebalancée par la baisse du coût moyen de la dette extérieure du Trésor de 63 pb, s’établissant à 3,51% en 2025 contre 4,14% en 2024 et qui s’explique, principalement, par la détente des taux d’intérêt sur le MFI par rapport à 2024. 
+
+
+
+<!-- Start of picture text -->
+Graphique 10 : Évolution du coût apparent de la dette du Trésor<br>Dette intérieure<br>4,5%<br>4,4%<br>4,1%<br>4,1% 4,2%<br>3,6% 4,0%<br>3,4% 3,9%<br>3,3% 3,5%<br>Dette du Trésor<br>3,2%<br>3,2%<br>2,6%<br>2,4%<br>Dette extérieure<br>2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+###### **Le taux moyen pondéré des émissions par adjudication** 
+
+Le TMP à l’émission a baissé de près de 102,8 pb par rapport à fin 2024, s’établissant à 2,62% à fin décembre 2025 contre 3,65% à fin décembre 2024. Cette évolution est le résultat de la baisse des taux retenus par le Trésor en 2025, consécutive à la baisse du taux directeur, couplée à l’augmentation des parts des levées au titre des BDT de 2 ans et moins (51,2%) comparée à l’année 2024 (28,7%). 
+
+**35** 
+
+
+
+
+
+
+
+<!-- Start of picture text -->
+Graphique 11 : Évolution du TMP à l’émission<br>3,92%<br>3,65%<br>2,98%<br>2,80% 2,77%<br>2,29%<br>2,62%<br>1,97% 2,23%<br>2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+###### **Charges en intérêts de la dette du Trésor par rapport aux recettes ordinaires** 
+
+A fin 2025, le ratio des charges en intérêts de la dette du Trésor (y compris les commissions) par rapport aux recettes ordinaires s’est établi à 10,7%, en stabilité par rapport à 2024. Cette évolution est imputable à la baisse de ce ratio pour la dette extérieure de 0,6% s’établissant à 2,2% en 2025 contre 2,8% en 2024, en raison essentiellement de la baisse constatée des charges en intérêts de cette dette, tandis que les charges en intérêts de la dette intérieure du Trésor par rapport aux recettes ordinaires ont enregistré une hausse de 0,5% par rapport à fin 2024, s’établissant à 8,4% en 2025 contre 7,9% en 2024 en raison essentiellement de la hausse constatée des charges en intérêts de cette dette. 
+
+**Graphique 12 : Évolution du ratio Charges en intérêts/Recettes ordinaires** 
+
+
+
+<!-- Start of picture text -->
+Dette du Trésor<br>12,1%<br>10,6% 10,7% 10,7%<br>9,8%<br>10,5%<br>Dette intérieure<br>8,2% 8,0% 7,9% 8,4%<br>Dette extérieure<br>2,6% 2,8%<br>2,2%<br>1,6% 1,6%<br>2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+ **INDICATEURS DE RISQUE** 
+
+###### **Risque de refinancement (roll-over)** 
+
+Ce risque correspond au scénario d’un renouvellement de la dette arrivant à échéance à un coût plus élevé. Il peut être appréhendé à l’aide des deux indicateurs, ci-après, dont les seuils fixés permettent de limiter la dette devant être renouvelée à court terme. 
+
+###### **Part du court terme** 
+
+La part de la dette du Trésor à court terme s’est établie à 10,2% à fin 2025 contre 11,7% à fin 2024, soit une baisse de 1,5%. 
+
+**36** 
+
+
+
+
+
+
+
+Par type de dette, la part de la dette intérieure à court terme a baissé de près de 2,6 points de pourcentage pour s’établir à 11,7% contre 14,3% l’année dernière. 
+
+S’agissant de la part du court terme dans le portefeuille de la dette extérieure, celle-ci s’est établie à 5,9% en 2025, contre 4,1% en 2024, soit une hausse de 1,8 point de pourcentage. 
+
+###### **Durée de vie moyenne de la dette du Trésor** 
+
+A fin 2025, la DVM de la dette du Trésor s’est établie à 8 ans et 1 mois en quasi-stabilité par rapport à 2024 (8 ans et 2 mois). 
+
+Cette évolution est essentiellement le résultat de la stabilisation de la DVM de la dette intérieure à 7 ans et 11 mois. Par ailleurs, la DVM de la dette extérieure a baissé de près de 7 mois, pour s’établir à 8 ans et 6 mois contre 9 ans et 1 mois en 2024, découle de la structure par maturité des nouvelles mobilisations, en particulier sur le MFI. Cette baisse n’a, toutefois, eu qu’un impact limité sur la DVM de la dette du Trésor, compte tenu de la part relativement faible de ladite dette, qui ne dépasse pas 26% du portefeuille de la dette du Trésor. 
+
+
+
+<!-- Start of picture text -->
+Graphique 13 : Évolution de la durée de vie moyenne - en années -<br>Dette extérieure<br>9,7<br>9,0 9,0<br>8,4 Dette du Trésor 8,5<br>8,2<br>8,1<br>7,3<br>6,9 6,7 7,9 7,9<br>6,4 6,6<br>Dette intérieure 5,7<br>2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+###### **Risque de financement ou de liquidité** 
+
+C’est le risque de ne pas pouvoir mobiliser les fonds nécessaires au moment voulu pour honorer les engagements financiers de l’Etat. Pour assurer le suivi de ce risque, l’indicateur utilisé est le taux de couverture des émissions qui correspond au montant soumissionné rapporté au montant souscrit. Le maintien d’une encaisse de précaution quotidienne au niveau du CCT ouvert à BAM est également un moyen utilisé pour minimiser ce risque. 
+
+###### **Taux de couverture mensuel des émissions sur le marché des adjudications** 
+
+Le taux de couverture des émissions de BDT par les soumissions a connu une hausse par rapport à la même période de l’année dernière, s’établissant à 2,3 fois à fin décembre 2025 contre 2,1 fois à fin décembre 2024. Cette évolution s’explique notamment par une légère hausse du volume de la demande des investisseurs lors des séances d’adjudication (+1,0%) conjuguée à la baisse du volume des levées du Trésor lors desdites séances (-5,5%). 
+
+**Tableau 12 : Évolution du taux de couverture des émissions par les soumissions** 
+
+||**2021**|**2022**|**2023**|**2024**|**2025**|
+|---|---|---|---|---|---|
+|Taux de couverture (en nombre de fois)|2,5|2,1|2,3|2,1|2,3|
+||||||**37**|
+
+
+
+PROJET DE LOI DE FINANCES POUR L’ANNÉE 2027 
+
+**Risque de taux d’intérêt** 
+
+Le risque de taux d’intérêt est apprécié à travers deux indicateurs, à savoir (i) la part de la dette nécessitant une refixation des taux et (ii) la part de la dette assortie de taux variables. 
+
+###### **_Part de la dette nécessitant un refixing_** 
+
+La dette du Trésor nécessitant une refixation de son taux d’intérêt en 2026 est constituée de : 
+
+- la dette à taux variables (extérieure et intérieure) ; et 
+
+- la dette à taux fixes à court terme (intérieure et extérieure) nécessitant un refinancement en 2026. 
+
+Au titre de l’année 2025, l’encours de cette dette a enregistré une baisse de 1,2 point de pourcentage par rapport à fin 2024, en s’établissant à près de 224,9 milliards DH, soit 19,6% de l’encours de la dette du Trésor. 
+
+Cette évolution s’explique d’une part, par la baisse de la part de la dette intérieure à refixer de 2,8 points de pourcentage, en raison de la baisse de l’encours des BDT à taux révisable, et d’autre part, par la hausse de la part de la dette extérieure à refixer de 2,2 points de pourcentage. 
+
+###### **_Part de la dette à taux variables_** 
+
+A fin 2025, la part de la dette à taux variables dans le portefeuille de la dette du Trésor s’est établie à 9,8% contre 10,5% enregistré un an auparavant, soit une baisse de près de 0,7 point de pourcentage. 
+
+Par type de dette, la part de la dette intérieure à taux variables a baissé de 0,7 point de pourcentage pour s’établir à 1,2% contre 1,9% à fin 2024 tandis que la part de la dette extérieure à taux variables a augmenté de près de 0,3 point de pourcentage pour atteindre 34,2% à fin 2025, contre 33,9% à fin 2024. 
+
+###### **Risque de change** 
+
+A fin 2025, la part de la dette libellée en devises ne représente que 26,8% du portefeuille de la dette du Trésor, ce qui permet de limiter le risque de change. 
+
+Pour sa part, la composition en devises du portefeuille de la dette extérieure du Trésor, avec 64,4% de dette libellée en euro et 27,2% de dette libellée en dollar US et devises liées, reste proche du panier actuel de cotation du Dirham (60% euro - 40% dollar US), ce qui contribue à atténuer l’exposition de ce portefeuille aux impacts de fluctuations des cours de changes des devises internationales par rapport au Dirham. 
+
+**38** 
+
+
+
+
+
+
+
+##### **DETTE EXTÉRIEURE PUBLIQUE** 
+
+ **PROFIL DE LA DETTE EXTÉRIEURE PUBLIQUE** 
+
+La dette extérieure publique est composée (i) de la dette extérieure du Trésor (ii) de la dette extérieure garantie et non garantie des EEPs, des CTs et des IFPs, ainsi que (iii) de la dette extérieure garantie par l’Etat des IUPs. 
+
+Cet encours s’est établi à 517,4 milliards DH à fin 2025, contre 468,2 milliards à fin 2024, en augmentation de 49,2 milliards DH ou 10,5%. Cette hausse est due, principalement, à la hausse de l’encours de la dette extérieure du Trésor de 11,1% et de celui de la dette extérieure des autres emprunteurs publics de 9,7%. Le ratio d’endettement extérieur public par rapport au PIB a atteint 30,1%, en hausse de 1,1 point du PIB par rapport à fin 2024. 
+
+A fin 2025, l’encours de la dette extérieure du Trésor s’est établi à 299,8 milliards DH, contre 269,8 milliards DH à fin 2024, soit une progression de 30,0 milliards DH. Quant au ratio d’endettement du Trésor, celui-ci s’est établi à 17,4% du PIB, en hausse de 0,7 point de PIB par rapport à son niveau à fin 2024. 
+
+Pour sa part, l’encours de la dette extérieure publique hors Trésor s’est établi à 217,6 milliards DH à fin 2025 contre 198,4 milliards DH un an auparavant, enregistrant ainsi une hausse de 19,2 milliards DH. Rapporté au PIB, cet encours a atteint 12,7%, soit une hausse de 0,4 point par rapport à fin 2024. 
+
+Selon le statut de garantie, l’encours de la dette extérieure garantie a atteint 117,4 milliards DH, soit 6,8% du PIB à fin 2025, représentant ainsi une part de près de 54,0% de la dette extérieure publique hors Trésor. Concernant l’encours de la dette extérieure non garantie, celui-ci a atteint 100,2 milliards DH, soit 5,8% du PIB, à fin 2025, enregistrant une hausse de 17,4 milliards DH par rapport à fin 2024. 
+
+Exprimé en dollar US, l’encours de la dette extérieure publique à fin 2025, s’est établi à 56,7 milliards de dollars US, contre 46,3 milliards de dollars US à fin 2024, soit une hausse de 10,4 milliards de dollars US. 
+
+**Graphique 14 : Évolution de l’encours de la dette extérieure publique** 
+
+
+
+<!-- Start of picture text -->
+Dette extérieure publique (En Milliards DH) En % du PIB<br>32,8%<br>29,0% 29,9% 31,8% 29,5% 29,0% 30,1%<br>27,4% 27,6%<br>517,4<br>468,2<br>381,4<br>333,6<br>2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**39** 
+
+PROJET DE LOI DE FINANCES POUR L'ANNÉE 2027 
+
+###### **Structure par créanciers** 
+
+Au titre de l’année 2025, la structure de la dette extérieure publique par type de créanciers demeure essentiellement dominée par les emprunts contractés auprès des créanciers officiels (bilatéraux et multilatéraux) avec une part représentant 70,5% de l’encours total. De leur côté, les créanciers privés détiennent 29,5% de l’encours total, en hausse de 2,2 points de pourcentage par rapport à fin 2024. Il convient de souligner qu’une part de 96,8% de cette dette correspond aux émissions du secteur public sur le marché financier international. 
+
+###### **_Les créanciers multilatéraux_** 
+
+L’encours de la dette extérieure publique contractée auprès des créanciers multilatéraux s’est établi, à fin 2025, à 261,8 milliards DH, soit une hausse de près de 14,8 milliards DH par rapport à fin 2024, représentant ainsi près de 50,6% de l’encours total de la dette extérieure publique. Cette dette est détenue principalement par la BIRD, la BAD et la BEI et ce, avec des encours respectifs de 114,2 milliards DH (soit 43,6% du total de la dette multilatérale), 53,0 milliards DH (20,2%) et 28,9 milliards DH (11,0%). 
+
+De son côté, la dette multilatérale à l’égard des organismes islamiques et arabes a atteint 23,9 milliards DH, représentant ainsi 9,1% du total de la dette multilatérale. Au sein de ce groupement de créanciers, le FADES demeure le premier créancier avec un encours de 12,5 milliards DH (soit 4,8% de la dette multilatérale), suivi de la BID dont l’encours s’est établi à 6,8 milliards DH (2,6%) puis du FMA avec 4,6 milliards DH (1,8%). 
+
+###### **_Les créanciers bilatéraux_** 
+
+L’encours de la dette extérieure publique à l’égard des créanciers bilatéraux s’est établi à 103,1 milliards DH à fin 2025, soit 19,9% de l’encours total de la dette extérieure publique, en augmentation de près de 9,9 milliards DH par rapport à fin 2024. Cette dette reste concentrée sur les pays de l’UE à hauteur de 79,7%, suivis du Japon avec une part de 11,2% et des pays arabes avec 5,0%. 
+
+La dette bilatérale demeure principalement détenue par quatre créanciers, qui détiennent une part de 84,0% de son encours total. La France se positionne en tête des créanciers bilatéraux du Maroc et ce, avec un encours de 39,8 milliards DH (soit 38,6% du total de la dette bilatérale), suivie de l’Allemagne avec 28,6 milliards DH (27,8%), du Japon qui détient 11,6 milliards DH (11,2%) et de l’Espagne avec 6,6 milliards DH (6,4%). 
+
+###### **_Le Marché Financier International et les créanciers privés_** 
+
+A fin 2025, l’encours de la dette extérieure à l’égard des créanciers privés a atteint 152,5 milliards DH, représentant une part de 29,5% de l’encours total de la dette extérieure publique, en hausse de 24,5 milliards DH par rapport à fin 2024. Cette hausse s’explique principalement par l’émission réalisée par le Trésor sur le MFI, d’un montant de 2,0 milliards d’euros (20,9 milliards DH), ainsi que par deux émissions réalisées par l’OCP sur le MFI, la première en février 2025, d’un montant de 300 millions de dollars US (2,9 milliards DH), et la deuxième en avril 2025, d’un montant de 1,75 milliard de dollars US (16,2 milliards DH). 
+
+Hors créanciers privés, sept créanciers détiennent un encours de 288,5 milliards DH ou 78,9% de l’encours de la dette extérieure publique, à savoir : 
+
+**40** 
+
+
+
+
+
+
+
+**Tableau 13 : Principaux créanciers** 
+
+|**Créanciers**|**Part (%)**|
+|---|---|
+|**BIRD**|**31,2%**|
+|**BAD**|**14,5%**|
+|**France**|**10,9%**|
+|**BEI**|**7,9%**|
+|**Allemagne**|**7,8%**|
+|**FADES**|**3,4%**|
+|**Japon**|**3,2%**|
+
+
+
+###### **Structure par emprunteurs** 
+
+A fin 2025, la dette extérieure du Trésor excède celle des autres emprunteurs publics (garantie et non garantie), tant en volume qu’en proportion du PIB, et ce pour la 6<sup>ème</sup> année consécutive, après avoir été inférieure à cette dernière entre 2015 et 2019. 
+
+Ainsi, l’encours de la dette extérieure du Trésor s’est élevé à 299,8 milliards DH, soit une part de 57,9% de l’encours total de la dette extérieure publique. Quant à la dette extérieure des autres emprunteurs publics, son encours a atteint 217,6 milliards DH, soit une part de 42,1% de l’encours total de la dette extérieure publique. 
+
+**Tableau 14 : Dette extérieure publique par groupements d’emprunteurs** 
+
+
+
+Par groupement d’emprunteurs, la dette extérieure hors Trésor, demeure dominée par les EEPs avec un encours de 206,7 milliards DH. La dette extérieure hors Trésor est détenue à hauteur de 79,7% par cinq principaux emprunteurs, à savoir, l’OCP (37,0%), l’ONEE (18,2%), l’ONCF (11,5%), ADM (6,7%) et MASEN (6,3%). 
+
+###### **Structure par devises** 
+
+Au titre de l’année 2025, la structure par devises de la dette extérieure publique montre une prépondérance de la dette libellée en euro, qui représente une part de 61,4%, suivie de celle libellée en dollar US et devises liées (30,3%), alors que la part du Dinar koweïtien a atteint 2,7%. 
+
+Cette structure reste proche de celle du panier de cotation du dirham, contribuant ainsi à limiter l’impact du risque de change sur l’encours et le service de la dette extérieure publique. 
+
+**41** 
+
+
+
+
+
+
+
+<!-- Start of picture text -->
+Graphique 15 : Structure par devises<br>$US et<br>devises liées<br>30,3%<br>€ 61,4%<br>Dinar<br>koweïtien<br>2,7%<br>Autres 5,6%<br>€ 60,0% $US 40,0%<br><!-- End of picture text -->
+
+###### **Structure par taux d’intérêt** 
+
+Le coût moyen de la dette extérieure publique s’est établi à 3,6% au titre de l’année 2025, pour une durée de remboursement restante moyenne de l’ordre de 8,8 ans. Par rapport à fin 2024, ce coût a diminué de 30 pb suite à la baisse du coût moyen de la dette extérieure du Trésor de 60 pb et de la hausse de celui de la dette extérieure publique hors Trésor de 10 pb. 
+
+
+
+<!-- Start of picture text -->
+Graphique 16 : Évolution du coût apparent de la dette extérieure publique<br>Coût apparent de la dette extérieure du Trésor<br>Coût apparent de la dette extérieure publique<br>4,1%<br>3,6%<br>3,6%<br>2,8% 3,9%<br>2,6% 2,6% 2,5% 2,4% 2,5% 3,5%<br>3,2%<br>2,6% 2,4% 2,6% 2,5% 2,4% 2,4%<br>2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+La structure de la dette extérieure publique par type de taux d’intérêt montre une prédominance de la part de la dette assortie de taux d’intérêt fixes qui a atteint 71,3% contre 28,7% pour la dette à taux d’intérêt flottants. 
+
+A noter que la dette assortie de taux d’intérêt flottants est principalement indexée sur l’euro à hauteur de 78,4%, ce qui contribue ainsi à faire baisser le service y afférent. 
+
+S’agissant de la structure par type et intervalle de taux d’intérêt, à fin 2025, la part de la dette extérieure publique assortie de taux d’intérêt fixes inférieurs à 2,5% s’est établie à 29,3%, tandis que celle assortie de taux d’intérêt fixes compris entre 2,5% et 3,5% a atteint 12,5%. Pour sa part, la part de la dette extérieure publique assortie de taux d’intérêt fixes compris entre 3,5% et 4,5% a atteint 11,0%, tandis que celle assortie de taux d’intérêt supérieurs à 4,5% s’est établie à 18,5%. 
+
+**42** 
+
+<mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+En outre, la part de la dette à taux flottants en euro s’est élevée à 22,6%, tandis que celle libellée en dollar US s’est établie à 3,5%. 
+
+
+
+<!-- Start of picture text -->
+Graphique 17 : Structure de la dette extérieure publique par taux d’intérêt<br>Autres taux flottants<br>2,6%<br>Taux flottant en<br>Taux inf.à 2,5%<br>dollar US<br>29,3%<br>3,5%<br>Taux flottant en<br>Taux entre<br>euro<br>2,5% et<br>22,6%<br>3,5%<br>12,5%<br>Taux entre 3,5%<br>Taux sup. à 4,5% et 4,5% ;<br>18,5% 11,0%<br><!-- End of picture text -->
+
+**Structure de la dette par maturités** 
+
+Selon la durée initiale des emprunts, le portefeuille de la dette extérieure publique est principalement à long terme. En effet, la durée moyenne pondérée des emprunts extérieurs publics vivants s’est établie, à fin 2025, à 20 ans. 
+
+Compte tenu de la durée initiale, la structure du stock de ces emprunts, est caractérisée par la prédominance des emprunts extérieurs ayant une durée initiale supérieure ou égale à 10 ans avec une part de près de 87,5%. 
+
+La vulnérabilité de ce portefeuille au risque de refinancement reste faible, étant donné que les remboursements exigibles à moins d’un an ne représentent que 6,8% de l’encours de cette dette à fin 2025. 
+
+Par ailleurs, la durée de vie moyenne de la dette extérieure publique ressort à 8,7 ans et ce, compte tenu de la prédominance du caractère amortissable des emprunts extérieurs contractés auprès des bailleurs de fonds officiels. Cette durée s’établit à 8,5 ans pour le Trésor et à 8,9 ans pour celle des autres emprunteurs publics. 
+
+
+
+<!-- Start of picture text -->
+Graphique 18 : Structure par durée initiale  Graphique 19 : Structure par durée résiduelle<br>moyenne de remboursement<br>Plus de 30 ans 12,4% Plus de 30 ans 0,3%<br>[20 ans ; 30 ans[ 7,8%<br>[20 ans ; 30 ans[ 36,8%<br>[10 ans ; 20 ans[ 24,2%<br>[10 ans ; 20 ans[ 38,3%<br>[5 ans ; 10 ans[ 32,8%<br>[5 ans ; 10 ans[ 10,0%<br>[1 an ; 5 ans[ 28,1%<br>[1 an ; 5 ans[ 2,5% CT 6,8%<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+_<br><!-- End of picture text -->
+
+**43** 
+
+
+
+
+
+######  **TIRAGES SUR EMPRUNTS EXTÉRIEURS** 
+
+Les mobilisations extérieures du secteur public ont totalisé 93,0 milliards DH durant l’année 2025 contre 81,2 milliards DH au cours de l’année 2024, soit une hausse de 11,8 milliards DH. 
+
+Les ressources mobilisées au titre des emprunts extérieurs par le Trésor ont atteint un montant de 48,4 milliards DH alors que celles mobilisées par les autres emprunteurs publics se sont élevées à près de 44,6 milliards DH. 
+
+###### **Tirages par emprunteurs** 
+
+Au titre de l’année 2025, les tirages effectués par le Trésor se sont élevés à 48,4 milliards DH contre 40,4 milliards DH en 2024, en hausse de 8,0 milliards DH. 
+
+En revanche, les tirages réalisés par les autres emprunteurs publics ont augmenté de 3,8 milliards DH par rapport à l’année 2024, pour s’établir à 44,6 milliards DH à fin 2025. Près de 90% (ou 40,3 milliards DH) de ces tirages a été mobilisées par cinq EEPs ; à savoir : l’OCP (25,3 milliards DH), l’ONCF (6,8 milliards DH), l’ONEE (5,0 milliard DH), le FEC (1,9 milliard DH) et l’ADM (1,3 milliard DH). 
+
+**Graphique 20 : Évolution des tirages sur emprunts extérieurs publics - en milliards DH -** 
+
+
+
+<!-- Start of picture text -->
+Tirages du Trésor Tirages des autres emprunteurs publics<br>93,0<br>81,2<br>77,4<br>14,4 44,6<br>56,8<br>40,8<br>47,3<br>40,5 41,6 11,3<br>36,3<br>17,6<br>19,5 19,2 15,0 63,0 23,2 45,5 40,4 48,4<br>13,0 25,5 29,7<br>16,8 18,4<br>6,2<br>2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+###### **Tirages par créanciers** 
+
+Les ressources mobilisées par le secteur public au titre des emprunts extérieurs, durant l’année 2025, ont été principalement mobilisées auprès des créanciers multilatéraux pour un montant de 34,3 milliards DH, tandis que les tirages réalisés auprès des créanciers bilatéraux ont totalisé 18,7 milliards DH. Par ailleurs, un montant de 40,0 milliards DH a été mobilisé auprès des créanciers privés, notamment suite à l’émission obligataire réalisée par le Trésor sur le MFI, d’un montant de 2,0 milliards d’euros (20,9 milliards DH), ainsi qu’aux deux émissions réalisées par l’OCP sur ce même marché. La première, effectuée en février 2025 sous la forme d’un « Tap Issue », a porté sur un montant de 300 millions de dollars US, tandis que la deuxième, réalisée en avril 2025, a porté sur un montant de 1,75 milliards de dollar US. 
+
+Les tirages réalisés par le Trésor ont été mobilisés auprès des créanciers multilatéraux, pour un montant de 24,3 milliards DH, des créanciers privés, pour 20,9 milliards DH, et des créanciers bilatéraux, pour 3,2 milliards DH. 
+
+S’agissant des mobilisations des autres emprunteurs publics, celles-ci ont été réalisées auprès des créanciers officiels, pour un montant de 25,5 milliards DH, dont 15,5 milliards DH auprès des bilatéraux et 10,0 milliards DH auprès des multilatéraux, et un montant de 19,1 milliards DH à travers les deux opérations réalisées sur le MFI par l’OCP. 
+
+**44** 
+
+<mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+Hors créanciers privés, la répartition de ces tirages par principaux créanciers se présente comme suit : 
+
+
+
+<!-- Start of picture text -->
+Graphique 21 : Répartition des tirages par principaux créanciers<br>Autres Autres<br>bilatéraux multilatéraux<br>19,3% 28,7%<br>France BIRD<br>12,2% 23,8%<br>Allemagne BAD<br>3,8% 12,2%<br><!-- End of picture text -->
+
+**Tirages par devises et par types de taux d’intérêt** 
+
+###### **_Par devises_** 
+
+Au titre de l’année 2025, les financements extérieurs du secteur public, ont été mobilisés principalement en euro et en dollar US, avec une part de 92,5% du total des tirages, et des parts respectives de 67,6% et 24,9%. 
+
+Les tirages sur emprunts extérieurs du Trésor ont été mobilisés en euro avec une part de 85,0%, suivi du DTS (9,9%), du dollar (4,4%), du yen japonais (0,5%) et des autres devises (0,2%). 
+
+Pour les autres emprunteurs publics, les tirages ont été principalement réalisés en euro (48,7%), suivi du dollar avec une part de 47,2%, du dinar koweïtien (2,6%) et des autres devises (1,5%). 
+
+###### **_Par types de taux d’intérêt_** 
+
+La structure des tirages sur emprunts extérieurs du secteur public, par type de taux d’intérêt, demeure dominée par les tirages assortis de taux fixes. Ces tirages se sont établis à 66,6 milliards DH, représentant 71,6% du total des tirages. En revanche, les tirages assortis de taux flottants ont atteint près de 26,4 milliards DH, soit 28,4% du total des tirages. 
+
+S’agissant des tirages mobilisés par le Trésor, ceux à taux fixes ont représenté 66,3% du total des tirages, contre une part de 33,7% pour les tirages assortis de taux flottants. 
+
+Concernant les tirages des autres emprunteurs publics, ils ont été principalement réalisés à taux fixes avec une part de 77,4% du total des tirages, alors que ceux assortis de taux flottants représentent une part de 22,6% des tirages. 
+
+###### **Tirages par secteurs** 
+
+Les emprunts extérieurs du secteur public sont généralement destinés : 
+
+- aux appuis aux réformes ; 
+
+- aux projets inscrits dans le budget général ; et 
+
+- au soutien de l’effort d’investissement des autres emprunteurs publics. 
+
+**45** 
+
+PROJET DE LOI DE FINANCES POUR L’ANNÉE 2027 
+
+
+
+<!-- Start of picture text -->
+Graphique 22 : Répartition sectorielle des tirages sur emprunts extérieurs publics<br>Autres Emission du Trésor<br>2,4% Appuis aux réformes sur le marché<br>Secteur financier financier<br>27,4%<br>3,1% international<br>22,5%<br>Secteur portuaire<br>1,3%<br>Infrastructures<br>routières<br>1,4% Projets du<br>Secteur des mines<br>Budget<br>27,2% 2,1%<br>Eau-Electricité<br>5,3%<br>Secteur ferroviaire<br>7,3%<br><!-- End of picture text -->
+
+Hors MFI, les tirages sur emprunts extérieurs du Trésor au titre de l’année 2025 se répartissent, par utilisation, comme suit : 
+
+- Appuis aux réformes avec un montant de 25,5 milliards DH, mobilisés principalement auprès de la BIRD, la BAD, le FMI, le FMA et l’Allemagne. 
+
+- Projets du budget avec un montant de 2,0 milliards DH, financés principalement par la France, la BID et la BIRD. 
+
+Concernant les tirages réalisés par les autres emprunteurs publics au titre de l’année 2025, ceux-ci ont été destinés principalement au secteur des mines (56,7% du volume global des tirages), au secteur ferroviaire (15,2%), aux secteurs de l’eau et de l’électricité (11,1%), au secteur financier (6,4%), aux infrastructures routières (2,9%), au secteur portuaire (2,8%) et 4,9% pour les autres secteurs. 
+
+Ces tirages ont été mobilisés essentiellement auprès des créanciers privés. Par ailleurs, les créanciers officiels ont contribué au financement des projets d’investissements de ces emprunteurs, notamment la BERD, la BEI et BAD pour les créanciers multilatéraux et la France, l’Italie et l’Espagne pour les bilatéraux. 
+
+- **SERVICE DE LA DETTE EXTÉRIEURE PUBLIQUE** 
+
+Durant l’année 2025, le service de la dette extérieure publique s’est établi à 47,4 milliards DH contre 62,1 milliards DH à fin 2024, en baisse de 14,7 milliards DH. Cette évolution s’explique principalement par la baisse du service de la dette à l’égard des créanciers privés à hauteur de 14,4 milliards DH. 
+
+Par ailleurs, le service de la dette extérieure publique rapporté aux recettes courantes de la balance des paiements est passé de 7,5% en 2024 à 5,4% en 2025, enregistrant une baisse de 2,1 points de pourcentage. 
+
+**46** 
+
+
+
+
+
+
+
+
+
+<!-- Start of picture text -->
+Graphique 23 : Évolution du service de la dette extérieure publique<br>Service en milliards DH Service en % des RCBP<br>9,2%<br>7,6% 7,5%<br>6,8% 5,8% 5,7% 6,4% 4,9% 5,4%<br>62,1<br>47,4<br>41,5<br>32,1<br>2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+
+###### **Amortissements** 
+
+Au titre de l’année 2025, les amortissements de la dette extérieure publique se sont établis à 30,7 milliards DH, en baisse de 14,5 milliards DH ou 32,0% par rapport à l’année 2024. Cette baisse s’explique principalement par les remboursements effectués en 2024 au titre de l’Eurobond à 10 ans émis par le Trésor en 2014 (1,0 milliard d’euros) et du reliquat de l’Eurobond à 10 ans émis par l’OCP en 2014 (1,25 milliard de dollars US). 
+
+L’évolution entre 2024 et 2025, par groupements d’emprunteurs et de créanciers, des amortissements de la dette extérieure publique est présentée comme suit : 
+
+**Tableau 15 : Amortissement de la dette extérieure publique par débiteurs - en millions DH -** 
+
+||**2024**|**2025**|**Variation en volume**|
+|---|---|---|---|
+|Dette extérieure du Trésor|21 397|11 477|-9 920|
+|Dette extérieure hors Trésor|23 790|19 254|-4 536|
+|**Total**|**45 187**|**30 731**|**-14 456**|
+
+
+
+**Tableau 16 : Amortissement de la dette extérieure publique par groupement de créanciers -en millions DH-** 
+
+||**2024**|**2025**|**Variation en volume**|
+|---|---|---|---|
+|Créanciers bilatéraux|8 365|8 165|-200|
+|Créanciers multilatéraux|16 046|16 551|505|
+|Banques commerciales et MFI|20 776|6 015|-14 761|
+|**Total**|**45 187**|**30 731**|**-14 456**|
+
+
+
+###### **Charges en intérêts et commissions** 
+
+Les charges en intérêts et commissions de la dette extérieure publique, durant l’année 2025, ont enregistré une baisse de 0,2 milliards DH pour atteindre 16,7 milliards DH. 
+
+Ladite baisse s’explique principalement par la diminution des charges payées auprès des créanciers multilatéraux, notamment en raison de la détente des taux d’intérêts variables sur le MFI. 
+
+**47** 
+
+
+
+
+
+L’évolution entre 2024 et 2025, par groupement de créanciers, des charges en intérêts et commissions de la dette extérieure publique se présente comme suit : 
+
+**Tableau 17 : Intérêts et commissions de la dette extérieure publique par groupement de créanciers - en millions DH –** 
+
+||**2024**|**2025**|**Variation en**<br>**volume**|
+|---|---|---|---|
+|Créanciers bilatéraux|1 607|1 753|146|
+|Créanciers multilatéraux|9 336|8 584|-752|
+|Banques commerciales et MFI|5 991|6 319|328|
+|**Total**|**16 934**|**16 656**|**-278**|
+
+
+
+- **PROJECTIONS SUR 10 ANS DU SERVICE DE LA DETTE EXTÉRIEURE PUBLIQUE** 
+
+Les projections du service de la dette extérieure publique, établies sur la base de l’encours constaté à fin 2025, font ressortir, au cours des dix prochaines années, des tombées annuelles de remboursement au titre des émissions sur le MFI. Pour le Trésor, ces tombées interviendront chaque année entre 2026 et 2035, tandis que celles de l’OCP sont prévues en 2030, 2031 et 2034. 
+
+Hors Eurobonds, l’échéancier des emprunts extérieurs reste lissé et ce, en raison du caractère amortissable et à long terme des emprunts contractés auprès des créanciers officiels, ce qui permet de limiter le risque de refinancement. 
+
+Les projections, sur les 10 prochaines années, du service de la dette extérieure publique hors Eurobonds font ressortir une baisse moyenne annuelle de 5,6%. Le service de cette dette devrait s’établir en moyenne, à près de 36,8 milliards DH sur la période 2026-2030, pour baisser ensuite à près de 27,4 milliards DH, en moyenne, sur la période 2031-2035. 
+
+**Graphique 24 : Projections sur 10 ans du service de la dette extérieure publique - en milliards DH -** 
+
+
+
+<!-- Start of picture text -->
+Hors Eurobonds  Eurobonds<br>53,5 51,5 54,5 52,7 51,9 54,7<br>12,9 14,3 18,4 16,2 18,3 23,2 43,5 43,4 41,6 39,2<br>14,4 16,4<br>16,0<br>15,2<br>40,6<br>37,2 36,1 36,5 33,6 31,5 29,1 27,0 25,6 24,0<br>2026 2027 2028 2029 2030 2031 2032 2033 2034 2035<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+48<br><!-- End of picture text -->
+
+
+
+
+
+
+
+##### **DETTE INTERIEURE GARANTIE** 
+
+À fin décembre 2025, l’encours de la dette intérieure garantie a atteint 57,0 milliards DH dont 29,2 milliards DH bénéficiant de la garantie directe de l’État et 27,8 milliards DH garantis par la Société Nationale de Garantie et du Financement de l’Entreprise (SNGFE). Ainsi, l’encours global de la dette intérieure garantie représente 3,3% du PIB et celui bénéficiant de la garantie directe de l’État se limite à 1,7% du PIB. 
+
+En comparaison avec l’année précédente, l’encours de la dette intérieure garantie a enregistré une hausse de 1,1 milliard DH en 2025. Cette hausse résulte de l’émission de cinq nouveaux emprunts et d’une émission obligataire garantis par la SNGFE pour un montant de 2,7 milliard DH, atténuée partiellement par les remboursements en principal qui se sont élevés à près de 1,6 milliard DH. 
+
+Pour rappel, la garantie accordée par l’État aux emprunts obligataires ou bancaires émis par certains établissements et organismes bancaires publics a connu, depuis 2020, un changement avec la création du Fonds de Garantie des Établissements et Entreprises Publics (FGEEP) initialement géré par la Caisse Centrale de Garantie (CCG) pour le compte de l’État avant la transformation de la CCG en société anonyme, en l’occurrence la SNGFE. Ce changement consiste notamment en la prise en charge du risque directement par la SNGFE ; l’État n’intervenant qu’en dernier recours. 
+
+######  
+
+
+
+L’ADM reste le principal établissement bénéficiant de la garantie pour la mobilisation d’emprunts intérieurs avec une part de 35,6% de l’encours total de la dette intérieure garantie, suivie de l’ONCF (29,7%) et de l’ONEE (22,9%). Le reste, soit 11,8% de l’encours, est détenu par TMED à hauteur de 2,6%, TMPA (1,5%), l’ONDA (1,4%), la RAM (1,2%), la RADEEF (1,2%), MASEN (1,1%), l’ANP (0,9%), REDAL (0,6%), RADEETA (0,3%), LYDEC (0,3%), RAK (0,3%), AMENDIS (0,2%), RADEES (0,1%), la SGPTV (0,1%) et RADEM (0,1%). 
+
+######  **EMISSIONS DE L’ANNEE 2025** 
+
+L’année 2025 a été marquée par la conclusion de 5 nouveaux emprunts bancaires et la réalisation d’une émission obligataire, tous bénéficiant de la garantie de la SNGFE : 
+
+- En janvier 2025, deux emprunts bancaires et une émission obligataire ont été contractés : 
+
+   - ONEE a contracté un emprunt bancaire d’un montant total de 425,8 millions DH assorti d’un taux de 4,50% ; 
+
+   - RADEEL a contracté un emprunt bancaire d’un montant total de 77,4 millions DH assorti d’un taux de 4,50% ; 
+
+   - ONCF a réalisé une émission obligataire de 2,0 milliards DH répartis sur deux tranches : la première à taux variable et la deuxième assortie d’un taux fixe (4,47%). 
+
+- Le mois de février 2025, a connu le recours à deux emprunts bancaires : 
+
+   - RAK avec un montant total de 161,1 millions DH assorti d’un taux de 4,50% ; 
+
+   - RADEET avec un montant total de 5,1 millions DH assorti d’un taux de 4,50% ; 
+
+- En mai 2025, l’ONEE a contracté un emprunt bancaire de 53,2 millions DH assorti d’un taux de 4,50%. 
+
+**49** 
+
+PROJET DE LOI DE FINANCES POUR L'ANNÉE 2027 
+
+ SERVICE DE LA DETTE INTERIEURE GARANTIE 
+
+Le service de la dette intérieure garantie s’est établi à 4,2 milliards DH réparti comme suit : 
+
+- 2 609,5 millions DH au titre des intérêts, en hausse de 9,2 millions DH par rapport à 2024; et 
+
+- 1 615,3 millions DH au titre du principal, en baisse de 154,4 millions DH par rapport à 2024. 
+
+######  INDICATEURS DE LA DETTE INTERIEURE GARANTIE 
+
+Les principaux indicateurs de la dette intérieure garantie se présentent comme suit : 
+
+- la durée de vie moyenne s’est établie à 10 ans et 4 mois à fin décembre 2025, en baisse de 5 mois par rapport  à fin 2024. Cette diminution s’explique principalement par une évolution de la structure des levées, davantage concentrée sur des maturités à moyen et long termes comparée aux années précédentes au cours desquelles les levées étaient plus portées sur le très long terme, soit le 20 ans et le 30 ans. 
+
+- le coût moyen de la dette garantie a atteint 4,7% à fin 2025, en hausse 10 pb comparativement à 2024. 
+
+Au total, l’encours de la dette intérieure du Trésor augmenté de la dette intérieure garantie a atteint 902,2 milliards DH à fin 2025 contre 867,7 milliards DH à fin 2024 marquant, ainsi, une hausse de près de 3,8%. L’encours de la dette intérieure garantie ne représente que près de 6,3% de l’encours global de la dette intérieure du Trésor et la dette intérieure garantie. 
+
+**50** 
+
+
+
+
+
+
+
+##### **GESTION ACTIVE DE LA DETTE** 
+
+######  **DETTE INTÉRIEURE** 
+
+La gestion active de la dette intérieure mise en place par la DTFE vise essentiellement la réduction du risque de refinancement inhérent au portefeuille de la dette du Trésor à travers le lissage de l’échéancier de la dette du Trésor et partant, la maîtrise des besoins de financement de l’État. 
+
+Cette gestion active s’opère à travers le recours à des opérations de rachat et/ou à des opérations d’échange de titres, ayant des maturités résiduelles inférieures à 18 mois, qui correspondent à la substitution d’anciens titres par des nouveaux. 
+
+L’objectif principal recherché à travers la réalisation de ces opérations n’est pas de générer des gains financiers immédiats, mais plutôt de réduire le risque de refinancement, ce qui pourrait avoir un impact positif sur le coût de financement du Trésor. 
+
+###### **Bilan 2025** 
+
+En 2025, la DTFE a réalisé dix opérations de GADI pour un montant total racheté de près de 31,7 milliards DH au titre des tombées des mois d’avril à novembre 2025 et des mois de janvier à juillet, de septembre et octobre 2026. 
+
+Par type d’opération, huit opérations d’échange de BDT ont été réalisées pour un montant total racheté de 17,6 milliards DH contre un montant émis de 17,4 milliards DH et deux opérations de rachat de BDT ont été effectuées pour un montant racheté de 14,1 milliards DH. 
+
+Par année d’échéance, le montant racheté en 2025 est réparti comme suit : 
+
+- 11,3 milliards DH au titre du rachat des tombées de 2025 ; et 
+
+- 20,4 milliards DH au titre du rachat des échéances de 2026. 
+
+**Tableau 18 : Maturités et montants émis au titre des opérations d’échange - en millions DH -** 
+
+||**Montant de remplacement**|**Part**|
+|---|---|---|
+|**BDT 5 ans**|9 495|54,6%|
+|**BDT 10 ans**|1 692|9,7%|
+|**BDT 15 ans**|506|2,9%|
+|**BDT 20 ans**|3 391|19,5%|
+|**BDT 30 ans**|2 321|13,3%|
+|**Total**|**17 404**|**100,0%**|
+
+
+
+En termes d’impact des opérations de GADI, il en ressort ce qui suit : 
+
+
+
+
+
+
+
+- L’atténuation du risque de refinancement à travers la réduction des tombées des mois rachetés de 2025 de près de 1,4 milliards DH en moyenne et de ceux de 2026 de près de 2,3 milliards DH en moyenne. 
+
+- La réduction du ratio d’endettement de l’année 2025 de près de 0,8 point du PIB grâce à la réalisation de deux opérations de rachat pour un montant de près de 14,1 milliards DH en fin d’année. 
+
+- Une augmentation limitée des charges en intérêts de la dette intérieure payées au titre de l’année 2025 de près de 218,8 millions DH. Cette situation provient d’une économie réalisée au titre des intérêts découlant du rachat des tombées de 2025 avant les dates de paiement des coupons des lignes rachetées de près de 72,8 millions DH et un surplus en intérêt découlant du rachat des tombées de l’année 2026 de près de 291,6 millions DH. 
+
+**51** 
+
+PROJET DE LOI DE FINANCES POUR L’ANNÉE 2027 
+
+Il est à souligner qu’une diminution/augmentation des charges en intérêts dans le cadre des opérations d’échange dépend de la date de rachat par rapport à la date de paiement du coupon de chaque ligne. Ainsi, une ligne rachetée avant/après la date de paiement de coupon produira une baisse/hausse des charges en intérêts. 
+
+**Tableau 19 : Charges en intérêts au titre de l’année 2025 avec et sans rachat - en millions DH -** 
+
+|**Maturité**|**Sans rachat**|**Avec rachat**<br>**Écart**|
+|---|---|---|
+|**Rachat des tombées de 2025**|||
+|2 ans|291,7|246,8<br>-44,9|
+|5 ans|63,1|41,1<br>-22,0|
+|10 ans|47,6|41,7<br>-5,9|
+|**Rachat des tombées de 2026**|||
+|52 semaines|58,1|110,4<br>52,3|
+|2 ans|232,6|367,5<br>134,9|
+|5 ans|193,7|261,7<br>68,0|
+|10 ans|71,9|108,4<br>36,4|
+|**Économie en intérêts découlant du**|**rachat des tombées**|**de 2025**<br>**-72,8**|
+|**Surplus en intérêts découlant du ra**|**chat des tombées d**|**e 2026**<br>**+291,6**|
+|**Impact global des opérations de ge**|**stion active sur les i**|**ntérêts payés en 2025**<br>**+218,8**|
+
+
+
+En plus de ces résultats quantitatifs, les opérations de gestion active de la dette intérieure ont également eu un impact qualitatif sur la gestion de la dette en permettant au Trésor de lisser ses besoins de trésorerie sur toute l’année et de mieux gérer sa politique d’émission. 
+
+###### **Graphique 25 : Profil de remboursements de la dette du Trésor (Intérêts et Principal) - en milliards DH -** 
+
+
+
+<!-- Start of picture text -->
+Dette du Trésor hors GADI Dette du Trésor avec GADI<br>23,1 22,7 22,0<br>20,4 21,9<br>20,9<br>19,8<br>15,1 18,117,117,616,0 16,8 16,2 16,115,1 16,9 16,5<br>14,6 13,0 14,713,211,1 14,713,5 15,6 14,813,3 11,9 14,9 14,5 11,3 12,7 11,6 11,3<br>9,0<br>3,4<br>3,2 2,6<br>2025 2026<br>Janv. Fév. Mars Avr. Mai Juin Juil. Août Sept. Oct. Nov. Déc. Janv. Fév. Mars Avr. Mai Juin Juil. Août Sept. Oct. Nov. Déc.<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+52<br><!-- End of picture text -->
+
+
+
+
+
+
+
+######  **DETTE EXTERIEURE** 
+
+Les projets financés dans le cadre des Accords de conversion de dettes en investissements publics conclus avec l’Espagne et l’Italie ont permis de convertir, au titre de l’année 2025, un montant de **38,8 millions DH** . Ce montant est réparti comme suit : 
+
+- **34,3 millions DH** convertis dans le cadre du Programme de conversion de dettes conclu avec l’Espagne à travers le financement du projet de l’éclairage public de la ville de Fès ; 
+
+- **4,5 millions DH** convertis dans le cadre du Programme de conversion de dettes conclu avec l’Italie à travers le financement du projet de préservation du patrimoine archéologique. 
+
+Pour ce qui est du cumul des montants traités depuis 1996, ce dernier a atteint environ 90 milliards DH et se répartit comme suit : 
+
+**Graphique 26 : Répartition des Opérations de gestion active de la dette extérieure par type d'opération** 
+
+
+
+<!-- Start of picture text -->
+-En milliards DH-<br>Renégociation de taux<br>d'intérêt<br>1,6<br>Conversion de dette en<br>investissements privés<br>8,9<br>Conversion de dette en investissements<br>publics Swap de taux d'intérêt et<br>11,3 Swap de devises<br>46,9<br>Refinancement de la dette onéreuse<br>20,9<br><!-- End of picture text -->
+
+**53** 
+
+
+
+
+
+### **MARCHÉ SECONDAIRE DES BDT** 
+
+######  **ACTIVITÉS SUR LE MARCHÉ SECONDAIRE DES BDT** 
+
+L’activité sur le marché secondaire a été marquée par la hausse du volume total des échanges fermes qui a connu une progression de 21% par rapport à 2024. 
+
+La liquidité du marché secondaire s’est inscrite dans un trend haussier comme en témoigne le taux de rotation qui s’est établi à 1,59 en 2025 contre 1,37 en 2024. De même, le volume quotidien moyen et la taille moyenne des opérations ont progressé de 22% et de 7% pour atteindre 5,7 milliards DH et 77 millions DH respectivement. 
+
+###### **Échanges fermes** 
+
+Le volume total des échanges fermes a augmenté par rapport à 2024, passant de 1 140,0 milliards DH à 1 379,5 milliards DH. 
+
+La tendance observée durant les cinq dernières années s’est poursuivie avec des échanges fermes qui restent concentrés sur les maturités moyennes et longues et une dynamique plus importante des échanges sur le long terme enregistrée en 2025. 
+
+Ainsi, la structure des échanges en 2025 s’est caractérisée par une progression des transactions réalisées sur les titres à moyen terme dont la part est passée de 25% à fin 2024 à 29% à fin 2025. La part des transactions réalisées sur le long terme, quant à elle, a légèrement régressé en passant de 57% en 2024 à 53% en 2025. 
+
+###### **Graphique 27 : Répartition par terme résiduel des transactions fermes** 
+
+
+
+<!-- Start of picture text -->
+2025 : Anneau extérieur<br>2024 : Anneau intérieur CT MT LT<br>18%<br>18%<br>53%<br>57%<br>25%<br>29%<br><!-- End of picture text -->
+
+###### **Lignes échangées** 
+
+Le nombre de lignes qui a été échangé en 2025 a atteint 122 contre 112 en 2024, toute maturité confondue, tandis que, le nombre de transactions sur ces lignes s’est inscrit dans une tendance haussière en passant de 15 766 transactions en 2024 à 17 918 transactions à fin décembre 2025. 
+
+Les lignes à long terme qui ont des gisements relativement importants ont été les plus attractives pour les opérateurs et, par conséquent, les plus liquides avec des taux de rotation largement supérieurs au taux de rotation moyen du portefeuille global de la dette. 
+
+
+
+<!-- Start of picture text -->
+54<br><!-- End of picture text -->
+
+
+
+
+
+
+
+###### **Marché de la pension livrée (repo)** 
+
+En 2025, le volume des échanges sur le marché de la pension livrée sur les BDT a enregistré une hausse de 14% en comparaison avec 2024, pour atteindre 18 342,1 milliards DH (cessions et acquisitions). 
+
+Concernant les titres qui ont servi de garantie pour ces transactions, les BDT à long terme ont été les plus utilisés dans les échanges par les opérateurs. Ainsi, ces titres ont représenté près de 47% du volume global échangé, tandis que les parts des BDT à court et à moyen termes ont atteint 18% et 34% respectivement à fin 2025. 
+
+
+
+<!-- Start of picture text -->
+Graphique 28 : Répartition par terme résiduel des transactions repo<br>CT MT LT<br>18%<br>14%<br>40%<br>47%<br>46%<br>35%<br><!-- End of picture text -->
+
+######  **ÉVOLUTION DES TAUX D’INTÉRÊT** 
+
+A l’exception du dernier trimestre marqué par une légère correction à la hausse des taux MLT sous l’effet d'arbitrages des investisseurs institutionnels vers des actifs plus rémunérateurs, l’évolution des taux est demeurée globalement baissière sur l'année 2025. 
+
+En effet, l’année 2025 a été marquée par une baisse significative des taux secondaires sur tous les segments, qui a atteint en moyenne près de 29 pb par rapport à fin décembre 2024. Cette tendance a été soutenue par le reflux des tensions inflationnistes et par la maîtrise des besoins de financements sur le marché des adjudications. 
+
+En outre, l’orientation accommodante de la politique monétaire de BAM amorcée en juin 2024 a nettement favorisé le repli des taux obligataires en 2025. Ce mouvement a été conforté, d’une part, par l’allègement des exigences de rentabilité des investisseurs dans un contexte d'inflation maîtrisée et, d’autre part, par des émissions du Trésor contenues qui ont bénéficié d'une dynamique très positive des recettes fiscales, en plus d’une orientation vers les financements extérieurs avec une levée sur le MFI. 
+
+**55** 
+
+
+
+
+
+
+
+<!-- Start of picture text -->
+Graphique 29: Évolution de la courbe des taux<br>Fin déc. 24<br>Fin déc. 25<br>4,33%<br>3,77%<br>3,46%<br>3,20% 3,87%<br>2,83%<br>2,52% 2,54% 2,57% 2,66% 3,26% 3,44%<br>2,96%<br>2,64%<br>2,45%<br>2,20% 2,23% 2,25%<br>13 sem. 26 sem. 52 sem. 2 ans 5 ans 10 ans 15 ans 20 ans 30 ans<br><!-- End of picture text -->
+
+######  **LIQUIDITÉ DU MARCHE SECONDAIRE DES BDT** 
+
+En 2025, la liquidité du marché secondaire a connu une progression comme en témoignent les trois principaux indicateurs à savoir : le taux de rotation, la taille moyenne des opérations et le volume moyen quotidien. 
+
+###### **Taux de rotation** 
+
+Il est à rappeler que ce taux est le rapport entre le volume des titres négociés sur le marché secondaire, au cours d’une période donnée, et l’encours de ces titres. Calculé sur la base des transactions fermes, ce taux s’est établi à 1,59 à fin 2025 contre 1,37 en 2024, ce qui signifie que l’encours de la dette émise par adjudication a été échangé plus d’une fois sur le marché secondaire. 
+
+###### **Taille moyenne des opérations fermes** 
+
+La taille moyenne des opérations fermes est le rapport entre le volume global des transactions fermes effectuées au cours d’une période donnée et le nombre des opérations de la même période. Elle permet de mesurer la capacité des investisseurs à exécuter des transactions avec des montants relativement élevés. En 2025, la taille moyenne des opérations fermes a atteint 77,0 millions DH contre 72,0 millions DH en 2024, soit une progression de 7% après une augmentation de 4% en 2024. 
+
+###### **Volume quotidien moyen des opérations fermes** 
+
+Quant au volume quotidien moyen des opérations fermes, il est passé de 4,7 milliards DH en 2024 à 5,7 milliards DH en 2025 enregistrant, ainsi, une hausse de 22%. 
+
+ **ÉVOLUTION DE L’ACTIVITÉ SUR LE MARCHE ÉLECTRONIQUE** 
+
+L’année 2025 a connu une progression au niveau de l’activité du marché électronique des BDT en termes des volumes négociés. 
+
+Ainsi et au niveau du compartiment B2B réservé aux teneurs de marché, en l’occurrence les banques IVT qui ont l’obligation de coter des prix fermes à l’achat et à la vente pour un panel de lignes présélectionné, 883 transactions ont été réalisées pour un volume négocié de 23,0 milliards DH, soit une baisse de 7,4% par rapport au volume réalisé en 2024. Quant au compartiment B2C, au niveau duquel les teneurs de marché cotent des prix fermes au profit de demandeurs de cotations que sont les sociétés de gestion et les autres banques non IVT, 53 transactions ont été réalisées pour un volume de 5,6 milliards DH, soit une hausse de 110,3% par rapport au volume réalisé en 2024. 
+
+**56** 
+
+
+
+
+
+
+
+### **GESTION ACTIVE DE LA TRÉSORERIE PUBLIQUE** 
+
+Au cours de l’année 2025, le recours de la DTFE aux opérations de gestion active de la trésorerie publique s’est fait dans un contexte caractérisé par : 
+
+- Une quasi-stabilité du niveau du déficit de liquidité bancaire qui s’est établi à 123,3 milliards DH en moyenne hebdomadaire en 2025, contre 123,7 milliards en 2024 ; 
+
+- Une baisse des disponibilités du CCT qui ont atteint près de 21,6 milliards DH en moyenne quotidienne en 2025 contre 25,1 milliards DH enregistrés l’année précédente. 
+
+- **OPÉRATIONS RÉALISÉES EN 2025** 
+
+Durant l’année 2025, la DTFE a réalisé 427 opérations de gestion active de la trésorerie publique contre 496 opérations en 2024. Aucune opération d’emprunt interbancaire n’a été réalisée en 2025 contre une seule opération réalisée en 2024. 
+
+**Tableau 20 : Opérations de gestion active de la trésorerie publique réalisées en 2025** 
+
+||**Opérations**|**de placement**|**Opérations d’emprunt**|
+|---|---|---|---|
+||**En blanc**|**Prise en pension**|**interbancaire**|
+|**Nombre**|98|329|-|
+|**Répartition**|23,0%|77,0%|-|
+
+
+
+- **VOLUME PLACÉ ET RÉMUNÉRATION** 
+
+###### **Volume placé** 
+
+Le volume global placé sur le marché monétaire a enregistré une légère baisse de près de 3,4% pour atteindre 1 401,9 milliards DH en 2025 contre 1 451,9 milliards DH en 2024. Cette baisse est principalement due à la réduction des disponibilités du CCT de près de 14,0%. 
+
+Par instrument, les opérations de prise en pension ont porté sur 94,6% du volume global placé contre une part de 5,4% pour les opérations de dépôt en blanc. 
+
+L’encours moyen quotidien de ces opérations a atteint 15,6 milliards DH contre 18,2 milliards DH enregistré l’année précédente. Par type d’opération, l’encours quotidien moyen des opérations de prises en pension s’est établi à 15,4 milliards DH contre 17,7 milliards DH en 2024 tandis que l’encours moyen des opérations de dépôts en blanc a atteint 0,8 milliard DH contre 0,9 milliard DH en 2024. 
+
+###### **Taux des placements du Trésor** 
+
+En 2025, la rémunération moyenne obtenue par le Trésor au titre des opérations de placement a connu une baisse pour s’établir à 2,16% contre 2,92% en 2024, soit une baisse de près de 75,7 pb et ce, suite à la baisse cumulée du taux directeur de BAM entre juin 2024 et mars 2025 de près 75 pb. 
+
+Pour les opérations de prise en pension, cette rémunération a été de 2,157%. Comparé à l’indice MONIA publié par BAM (2,277%), ce taux a enregistré un écart négatif de près de 12,1 pb. 
+
+Concernant les opérations de dépôts en blanc, leur taux moyen a atteint 2,361%, enregistrant ainsi une surperformance de près de 7,0 pb par rapport au taux de référence interbancaire publié par BAM (2,291%). 
+
+**57** 
+
+
+
+
+
+###### **Durées des opérations de placement** 
+
+Conformément aux règles de gestion des risques liés aux opérations de placement des excédents de trésorerie, les dépôts en blanc sont réalisés sur une durée d’une journée alors que les opérations de prise en pension ont une durée allant de 1 à 7 jours ouvrables. 
+
+Ainsi, pour les opérations de prise en pension, le nombre d’opérations réalisées sur une durée de 1 jour reste prépondérant avec une part de 49,9%, contre 44,9% enregistrée en 2024. La part des opérations réalisées sur une durée supérieure à 3 jours s’est établie à 43,9% contre 30,7% l’année dernière avec une prépondérance des opérations d’une durée de 7 jours (15,1%). 
+
+###### **Réalisations en 2025** 
+
+###### **_Optimisation du solde du CCT_** 
+
+Grâce au recours quotidien aux opérations de placement sur le marché monétaire, la DTFE a pu réduire le niveau du solde du CCT de près de 15,6 milliards DH en moyenne par jour en 2025, s’établissant à 6,0 milliards DH en moyenne quotidienne contre 21,6 milliards DH hors opérations de trésorerie. 
+
+
+
+<!-- Start of picture text -->
+Graphique 30 : Évolution du solde du CCT en 2025 - en milliards DH –<br>SCCT réalisé en fin de journée sans interventions du Trésor SCCT réalisé en fin de journée après interventions du Trésor<br>Moyenne du SCCT avec interventions du Trésor Moyenne du SCCT sans interventions du Trésor<br>janv.-25 févr.-25 mars-25 avr.-25 mai-25 juin-25 juil.-25 août-25 sept.-25 oct.-25 nov.-25 déc.-25<br><!-- End of picture text -->
+
+###### **_Intérêts perçus par le Trésor_** 
+
+La gestion active de la trésorerie publique a permis de dégager un produit net de 315,7 millions DH en 2025 contre 477,9 millions DH enregistré en 2024. Cette baisse est expliquée essentiellement par l’effet conjuguée de la baisse du volume placé par le Trésor et des taux sur le marché monétaire. A cet effet, ces recettes sont réparties comme suit : 
+
+- 276,7 millions DH (87,7% des recettes totales) au titre du produit des opérations de placement contre 425,3 millions DH à fin décembre 2024 ; et 
+
+- 38,9 millions DH au titre de la rémunération du solde du CCT. 
+
+Depuis le début des opérations en 2010, le montant total des recettes de la gestion active de la trésorerie s’est établi à près de 3,3 milliards DH réparti comme suit : 
+
+- 2,7 milliards DH (ou 80,2% des recettes totales) au titre du produit des opérations de placement ; et 
+
+- 653,2 millions DH issus de la rémunération du solde du CCT. 
+
+**58** 
+
+<mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+### **ACTIONS ET MESURES DE RÉFORMES EN 2025** 
+
+Dans le cadre du processus continu d’amélioration de l’efficacité de la gestion de la dette et de diversification des sources de financement de l’Etat, les actions entreprises en 2025 s’articulent autour des axes suivants : 
+
+###### **1- Lancement des travaux préparatoires pour la mise en place du programme d’émission des Certificats de Sukuk souverains sur le marché domestique** . 
+
+Cette initiative s’inscrit dans la continuité des efforts engagés par la Direction du Trésor et des Finances Extérieures en vue d’accompagner le développement de l’écosystème de la finance participative au Maroc. Elle intervient également dans un contexte marqué par l’évolution du cadre réglementaire relatif aux Certificats de Sukuk et l’élargissement des catégories desdits Certificats offrant, ainsi, de nouvelles perspectives pour le développement de ce segment du marché domestique. 
+
+A travers ce programme, la Direction du Trésor et des Finances Extérieures vise également à répondre aux besoins croissants d’investissement des différents acteurs du secteur participatif en mettant à leur disposition des instruments financiers conformes à la Charia, à élargir et diversifier sa base d’investisseurs ainsi qu’à fournir une référence en termes de structure et de taux pour le marché des certificats de Sukuk aussi bien pour les émetteurs privés que pour les émetteurs publics. 
+
+A cet effet, les travaux engagés, au cours de l’année 2025, ont porté essentiellement sur la préparation de la première émission dans le cadre de ce programme dont la réalisation est prévue en 2026. 
+
+###### 2- **Renforcement du dispositif de contrôle interne et de maitrise des risques.** 
+
+La Direction du Trésor et des Finances Extérieures assure une fonction stratégique pour l’Etat qui est la gestion de la dette publique. Cette fonction est directement liée à la capacité de l’Etat à faire face à ses engagements financiers vis-à-vis de ses créanciers et à maitriser les différents risques auxquels il s’expose (budgétaires, financiers et opérationnels, de sécurité, de continuité d’activité, etc.). 
+
+Dans ce cadre, la Direction du Trésor et des Finances Extérieures s’est engagée depuis plusieurs années dans une démarche progressive de renforcement du dispositif de contrôle interne et de la maitrise des risques associés à la gestion de la dette et de la trésorerie publique. Elle a ainsi mis en place un service d’audit interne en 2016, puis créé, en 2021, une Division du contrôle permanent et de la maîtrise des risques de la dette, chargée d’assurer la fonction de deuxième ligne de maîtrise des risques, conformément aux principes du référentiel COSO et aux préconisations de l’Institut des auditeurs interne (IIA). 
+
+Cette démarche a abouti à la mise en place d’outils de travail adéquats afin de structurer et de sécuriser les processus de gestion de la dette et de la trésorerie publique et des risques qui y sont associés avec la mise en place notamment : 
+
+- des documents normatifs du dispositif de contrôle interne et de maitrise de risques. Cette documentation est composée de la Charte de contrôle interne et de maîtrise des risques, de la Charte des responsabilités, de la politique générale de gestion des risques et du dispositif d’élaboration, de mise en à jour et de pilotage de la cartographie des risques ; 
+
+**59** 
+
+PROJET DE LOI DE FINANCES POUR L'ANNÉE 2027 
+
+- des manuels de procédures qui décrivent l’ensemble des procédures opérationnelles de la gestion de la dette et de la trésorerie publique (règles de gestion, cadre règlementaire, logigrammes, détails du mode opératoire…) ; 
+
+- d’une cartographie des risques opérationnels qui fait l’inventaire des risques opérationnels associés à chaque procédure; 
+
+- d’un code de déontologie qui définit les attentes en matière d’éthique envers les collaborateurs dans leurs prises de décision au quotidien et dans leurs relations avec les autres parties prenantes. 
+
+A travers l’ensemble des mesures mises en place, le dispositif de contrôle interne et de maîtrise des risques de la dette est désormais organisé en trois lignes de défense comme suit : 
+
+- La première ligne constituée des collaborateurs opérationnels et leurs responsables hiérarchiques qui contribuent à ce dispositif à travers notamment la réalisation des contrôles opérationnels et les validations hiérarchiques du 1<sup>er</sup> niveau dans le cadre des procédures opérationnelles et du plan de contrôle. 
+
+- La deuxième ligne représentée par la Division du contrôle permanent et de la maîtrise des risques de la dette qui a pour mission de veiller à la cohérence, à l’efficacité et à l’exhaustivité du dispositif du contrôle permanent. Elle assure un support fonctionnel et méthodologique pour les différents métiers dans la mise en place d’un dispositif de contrôle permanent performant, tout en exerçant une surveillance indépendante des risques encourus et un contrôle de 2<sup>ème</sup> niveau à travers la supervision des activités de contrôle de 1<sup>er</sup> niveau réalisées par les divisions métier. 
+
+- La troisième ligne constituée par le Service de l’Audit interne qui a pour rôle principal d’apporter à la Direction du Trésor et des Finances Extérieures une assurance objective que les principaux risques sont bien gérés, que les dispositifs et processus de gestion des risques et de contrôle interne sont adaptés et fonctionnent bien et que les activités opérationnelles de toute nature sont réalisées conformément aux dispositions réglementaires et aux règles internes. 
+
+**60** 
+
+
+
+
+
+
+
+##### **ÉVOLUTION DE LA DETTE DU TRÉSOR À FIN JUIN 2026** 
+
+ **FINANCEMENT DU TRÉSOR AU COURS DU 1ER SEMESTRE 2026** 
+
+###### **Financement intérieur** 
+
+Dans un contexte mitigé marqué, d’une part, par une évolution maîtrisée des besoins de financement du Trésor et la stabilité du taux directeur de Bank Al-Maghrib, et d’autre part, par un environnement géopolitique incertain limitant la visibilité sur la trajectoire future de l’inflation et de la politique monétaire, la demande des investisseurs sur le marché des adjudications des valeurs du Trésor s’est orientée, au cours du 1<sup>er</sup> semestre 2026, vers les maturités à 2 ans et moins. Cette évolution s’est accompagnée d’un léger resserrement des taux de rendement des BDT demandés. 
+
+Ainsi, le financement du Trésor sur ce marché s’est caractérisé essentiellement par : 
+
+- une hausse du volume de la demande des investisseurs de 11,0% par rapport à fin juin 2025, atteignant 195,0 milliards DH contre 175,7 milliards DH un an auparavant avec une concentration sur les maturités à 2 ans et moins qui ont enregistré une part de 67,1% contre 54,2% un an auparavant ; 
+
+- une baisse du volume global des émissions du Trésor de 10,6% s’établissant à 66,4 milliards DH (dont 7,9 milliards DH au titre des opérations de gestion active de la dette intérieure) contre 74,2 milliards DH (dont 10,6 milliards DH au titre des opérations de gestion active de la dette intérieure) à fin juin 2025. Ces levées sont réparties à hauteur de 60,8% au titre des BDT à 2 ans et moins et de 39,2% pour ceux à 5 ans et plus contre 44,9% et 55,1% respectivement à fin juin 2025 ; et 
+
+- une évolution mitigée des taux demandés avec une baisse des taux demandés au titre des maturités de 2 ans et moins de 22,6 pb et une hausse de ceux des BDT de maturités 5 ans et plus de 23,5 pb par rapport à fin 2025. 
+
+- une hausse contenue des taux retenus par le Trésor qui a atteint 6,5 pb en moyenne par rapport à ceux enregistrés à fin décembre 2025. 
+
+- des levées nettes qui ont atteint 16,3 milliards DH à fin juin 2026 contre 22,5 milliards DH enregistré à fin juin 2025, soit une baisse de près de 6,2 milliards DH ou 27,6% 
+
+###### **Financement extérieur** 
+
+Au cours du premier semestre de l’année 2026, les tirages sur emprunts extérieurs du Trésor ont enregistré une baisse de 4,7 milliards DH, pour s’établir à 35,2 milliards DH contre 39,9 milliards DH durant la même période de l’année 2025. 
+
+Hors l’émission réalisée sur le MFI, les tirages mobilisés par le Trésor auprès des créanciers officiels ont atteint 11,5 milliards DH, dont 8,8 milliards DH auprès des multilatéraux et 2,7 milliards DH auprès des bilatéraux. Ils se répartissent par utilisation comme suit : 
+
+- Les appuis aux réformes ont bénéficié d’un montant de 10,0 milliards DH, mobilisés principalement auprès de la BIRD, l’Allemagne, l’OPEC et la BAD. 
+
+- Les projets du Budget ont bénéficié, quant à eux, d’un montant global de 1,5 milliard DH mobilisé principalement auprès de la BIRD, l’AIIB, la BERD et la BID. 
+
+**61** 
+
+
+
+
+
+ **ÉVOLUTION DE LA DETTE DU TRÉSOR A FIN JUIN 2026** 
+
+A fin juin 2026, les montants mobilisés se sont élevés à près de 107,6 milliards DH, dont près de 72,5 milliards DH sur le marché intérieur et 35,2 milliards DH au titre des tirages extérieurs. 
+
+Sur cette base, l’encours de la dette du Trésor s’est établi à 1 190,4 milliards DH contre 1 145,0 milliards DH à fin décembre 2025, soit une progression de 45,4 milliards DH ou 4,0%. 
+
+L’encours de la dette intérieure a atteint 862,4 milliards DH contre 845,2 milliards DH à fin décembre 2025, soit une progression de 17,1 milliards DH ou près de 2,0% tandis que celui de la dette extérieure s’est élevé à 328,0 milliards DH à fin juin 2026, en augmentation de 28,3 milliards DH ou près de 9,4% par rapport à fin 2025. 
+
+Les charges en intérêts et commissions de la dette du Trésor se sont établies à près de 25,0 milliards DH à fin juin 2026 contre 24,4 milliards DH à fin juin 2025. Cette évolution s’explique essentiellement par une légère hausse des charges en intérêts et commissions de la dette extérieure. 
+
+Quant aux charges en principal de la dette du Trésor, elles se sont établies à fin juin 2026 à 65,7 milliards DH contre 67,2 milliards DH à fin juin 2025, soit une baisse de 1,5 milliard DH résultant de l’effet combiné d’une baisse de près de 8,2 milliards DH au titre des charges en principal de la dette intérieure et d’une hausse de près de 6,7 milliards DH des charges en principal de la dette extérieure, en raison du remboursement effectué en premier semestre de l’année 2026 de l’Eurobond à 5,5 ans émis par le Trésor en septembre 2020, d’un montant de 500 millions d’euros. 
+
+Pour ce qui est des remboursements en principal de la dette intérieure, ils ont totalisé à fin juin 2026, près de 53,4 milliards DH contre 61,6 milliards DH à fin juin 2025, soit une baisse de 8,2 milliards DH.  Cette baisse découle essentiellement de la structure des levées des années précédentes, sachant que la dette intérieure a globalement une structure de remboursement in fine. 
+
+Concernant les remboursements en principal de la dette extérieure, ils se sont élevés, à fin juin 2026, à 12,3 milliards DH, contre 5,6 milliards DH à fin juin 2025, enregistrant une hausse de 6,7 milliards DH. 
+
+S’agissant des flux nets de la dette intérieure, ils ont enregistré une hausse de l’ordre de 0,3 milliard DH en passant de 16,8 milliards DH à fin juin 2025 à près de 17,1 milliards DH au terme du 1<sup>er</sup> semestre de l’année 2026. Cette hausse s’explique essentiellement par l’effet combiné de la baisse des souscriptions de 13,9 milliards DH et des remboursements de 11,6 milliards DH entre les deux périodes. 
+
+Pour les flux nets sur emprunts extérieurs du Trésor, ils se sont élevés à 22,9 milliards DH à fin juin 2026, contre 34,3 milliards DH à fin juin 2025, soit une baisse de 11,4 milliards DH, cette évolution s’explique par l’effet combiné de la baisse des tirages de 4,7 milliards DH, et la hausse des remboursements en principal de 6,7 milliards DH. 
+
+**62** 
+
+<mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+######  **ÉVOLUTION DES INDICATEURS DE COÛT ET DE RISQUE** 
+
+###### **TMP à l’émission** 
+
+A fin juin 2026, le TMP à l’émission des BDT a connu une légère baisse de 0,7 pb pour s’établir à 2,613% contre 2,621% enregistré fin décembre 2025. 
+
+###### **Durée de vie moyenne** 
+
+La durée de vie moyenne de la dette du Trésor s’est établie à 7 ans et 10 mois à fin juin 2026, enregistrant une baisse de 3 mois par rapport à fin 2025. 
+
+La durée de vie moyenne de la dette intérieure du Trésor a atteint 7 ans et 7 mois à fin juin 2026, en baisse de 4 mois par rapport à fin 2025. Tandis que la DVM de la dette extérieure du Trésor s’est établie à 8 ans et 6 mois à fin juin 2026 en stabilité par rapport à fin 2025. La baisse de la DVM de la dette intérieure s’explique essentiellement par la concentration des levées du Trésor sur les maturités de 2 ans et moins qui ont atteint une part de 60,8% du volume global levé contre 55,1% à fin juin 2025. Cette évolution s’inscrit dans le sillage de la réorientation de la demande des investisseurs vers ces maturités dont la part s’est établie à 67,1% contre 54,2% enregistré pendant la même période de l’année précédente. 
+
+###### **Part du court terme** 
+
+La part du court terme dans le portefeuille de la dette du Trésor a baissé par rapport à son niveau de fin 2025, s’établissant à 9,6% en juin 2026 contre 10,2% à fin 2025. 
+
+Cet indicateur a atteint 11,7% pour la dette intérieure du Trésor, soit le même niveau enregistré à fin 2025. Concernant la part du court terme dans le portefeuille de la dette extérieure, elle s’est établie à 4,0% contre 5,9% à fin 2025. 
+
+###### **Part de la dette à taux variables** 
+
+La part de la dette à taux variable dans le portefeuille de la dette du Trésor s’est établie à 10,0% contre 9,8% à fin 2025, soit une légère hausse de près de 0,2 point de pourcentage par rapport à fin 2025. 
+
+Par type de dette, la part de la dette intérieure à taux variable s’est stabilisée à un niveau de 1,2% de l’encours de la dette intérieure, tandis que la part de la dette extérieure à taux variable a diminué pour s’établir à 33,0% de l’encours de la dette extérieure contre 34,2% à fin 2025. 
+
+######  **GESTION ACTIVE DE LA DETTE** 
+
+###### **Dette intérieure** 
+
+Au terme du premier semestre de 2026, la DTFE a réalisé six opérations d’échange de BDT pour un montant total racheté de près de 7,7 milliards DH au titre des tombées des mois de février à juin 2026 et du mois d’octobre 2026 et des mois de février, mars et mai 2027. Le montant émis au titre desdites opérations a atteint 7,9 milliards DH. 
+
+Les opérations de gestion active de la dette intérieure réalisées durant le 1<sup>er</sup> semestre 2026 ont permis d’atténuer le risque de refinancement relatif à la dette intérieure et ce, à travers la réduction des tombées de la dette du Trésor des mois concernés par lesdites opérations de près de 1,1 milliard DH en moyenne par mois en 2026 et de près de 0,3 milliard DH en moyenne par mois en 2027. 
+
+En termes d’impact de ces opérations sur les charges en intérêts de la dette intérieure payées au titre de l’année 2026, lesdites opérations se sont traduites par une baisse de ces charges de près de 20,2 millions DH. Cette baisse provient d’une économie réalisée au titre des intérêts découlant du rachat des tombées de 2026 et 2027 avant les dates de paiement des coupons des lignes rachetées totalisant un volume de 20,7 millions DH et d’un surplus de près de 0,5 million DH provenant du rachat des tombées de l’année 2027. 
+
+**63** 
+
+PROJET DE LOI DE FINANCES POUR L'ANNÉE 2027 
+
+- **MARCHE SECONDAIRE DES BDT** 
+
+Au terme des six premiers mois de l’année 2026, le volume des transactions fermes a atteint 912,5 milliards DH contre 674,1 milliards DH à la même période de l’année précédente, soit une importante progression de 35,4%. 
+
+Pour ce qui est de la liquidité du marché secondaire, le taux de rotation s’est établi à 1,08 à fin juin 2026. De même, le volume moyen quotidien des opérations a atteint 7 604,1 millions DH alors que la taille moyenne des opérations s’est établie à 86,3 millions DH. 
+
+Les taux d’intérêt sur le marché secondaire ont enregistré un mouvement haussier qui a concerné tous les segments de la courbe et a atteint en moyenne 17 pbs par rapport aux niveaux enregistrés à fin décembre 2025. 
+
+Quant à l’évolution de l’activité sur le marché de la pension livrée sur les BDT, le volume traité a porté sur un montant de 9 096 milliards DH à fin juin 2026 contre 8 737 milliards DH à fin juin 2025, en hausse de 4,1%. 
+
+- **GESTION ACTIVE DE LA TRÉSORERIE PUBLIQUE A FIN JUIN 2026** 
+
+Les principaux faits marquants relatifs aux interventions de la Direction du Trésor sur le marché monétaire se présentent comme suit : 
+
+- Le nombre des opérations de placement des excédents du CCT s’est établi à 203 opérations avec un volume placé de près de 681,1 milliards DH à fin juin 2026. Par rapport à la même période de l’année dernière, ces opérations ont connu une baisse de 2,9% en termes de nombre et une légère baisse de 0,3% en termes de volume placé. Cette évolution s’explique essentiellement par la baisse des disponibilités du CCT de près de 16,9% par rapport à la même période de l’année dernière (soit 20,1 milliard DH à fin juin 2026 contre 24,2 milliards DH à fin juin 2025). 
+
+- Le solde quotidien moyen du CCT réalisé en fin de journée, tenant compte des opérations de placement, s’est établi à 6,7 milliards DH contre 20,1 milliards DH hors opérations, soit une réduction de près de 13,4 milliards DH en moyenne par jour. 
+
+- Le taux quotidien moyen des placements de la Direction du Trésor (tous types de placements confondus) s’est établi à 2,18% contre 2,16% enregistré à fin juin 2025, en légère hausse de près de 2,0 pb. 
+
+- Les recettes perçues dans le cadre des opérations de gestion active de la trésorerie ont atteint près de 130,5 millions DH dont 111,8 millions DH (85,7%) au titre du produit des opérations de placement. Etant rappelé que l’objectif de ces opérations n’est pas de maximiser ces recettes mais d’optimiser la gestion des disponibilités du CCT ainsi que la gestion de la dette. 
+
+**64** 
+
+
+
+
+
+
+
+### **ANNEXES STATISTIQUES** 
+
+###### **DETTE DU TRÉSOR** 
+
+||**2017**|**2018**|**2019**|**2020**|**2021**|**2022**|**2023**|**(En milli**<br>**2024**|**ons DH sauf**<br>**2025**|**indiqué)**<br>**S1-2026**|
+|---|---|---|---|---|---|---|---|---|---|---|
+|**ENCOURS**|||||||||||
+|<br>**Dette du Trésor**|**692 332**|**722 620**|**747 255**|**832 602**|**885 306**|**951 780**|**1 016 664**|**1 081 586**|**1 144 974**|**1 190 381**|
+|**Variation en%**|5,3%|4,4%|3,4%|11,4%|6,3%|7,5%|6,8%|6,4%|5,9%|4,0%|
+|**En% du PIB**<br>|60,3%|60,5%|60,3%|72,2%|69,4%|71,4%|68,4%|67,0%|66,6%|-|
+|**Dette intérieure**|**539 135**|**574 637**|**585 687**|**632 899**|**681 527**|**722 916**|**763 046**|**811 802**|**845 212**|**862 342**|
+|Variation en%|4,8%|6,6%|1,9%|8,1%|7,7%|6,1%|5,6%|6,4%|4,1%|2,0%|
+|En% du PIB|46,9%|48,1%|47,2%|54,9%|53,4%|54,2%|51,3%|50,3%|49,2%|-|
+|**Dette extérieure**|**153 197**|**147 983**|**161 568**|**199 703**|**203 779**|**228 864**|**253 618**|**269 784**|**299 762**|**328 039**|
+|Variation en%|7,3%|-3,4%|9,2%|23,6%|2,0%|12,3%|10,8%|6,4%|11,1%|9,4%|
+|En% du PIB|13,4%|12,4%|13,0%|17,3%|16,0%|17,2%|17,1%|16,7%|17,4%|-|
+|**CHARGES EN INTERETS**|||||||||||
+|**Dette du Trésor**|**27 887**|**28 018**|**30 414**|**29 684**|**29 645**|**29 743**|**34 259**|**39 823**|**45 233**|**25 049**|
+|**Variation en%**|0,5%|0,5%|8,6%|-2,4%|-0,1%|0,3%|15,2%|16,2%|13,6%|-|
+|**en% du PIB**|2,4%|2,3%|2,5%|2,6%|2,3%|2,2%|2,3%|2,5%|2,6%|-|
+|**En% des ROs**|12,1%|12,0%|12,0%|13,0%|11,6%|9,8%|10,6%|10,7%|10,7%|-|
+|**Dette intérieure**|**24 114**|**24 285**|**26 573**|**25 573**|**24 948**|**24 762**|**25 968**|**29 329**|**35 767**|**19 426**|
+|Variation en%|0,6%|0,7%|9,4%|-3,8%|-2,4%|-0,7%|4,9%|12,9%|22,0%|-|
+|En% du PIB|2,1%|2,0%|2,2%|2,2%|1,9%|1,8%|1,8%|1,8%|2,1%|-|
+|En% des ROs|10,5%|10,4%|10,5%|11,2%|9,7%|8,2%|8,0%|7,9%|8,4%|-|
+|**Dette extérieure**|**3 773**|**3 733**|**3 841**|**4 111**|**4 697**|**4 981**|**8 291**|**10 494**|**9 466**|**5 623**|
+|Variation en%|-0,2%|-1,0%|2,9%|7,0%|14,2%|6,0%|66,5%|26,6%|-9,8%|-|
+|En% du PIB|0,3%|0,3%|0,3%|0,4%|0,4%|0,4%|0,6%|0,7%|0,6%|-|
+|En% des ROs|1,6%|1,6%|1,5%|1,8%|1,9%|1,6%|2,6%|2,8%|2,2%|-|
+|**INDICATEURS DE COUT ET**|**DE RISQUE**||||||||||
+|**Coût apparent (En%)**|||||||||||
+|**Dette du Trésor**|**4,1%**|**3,9%**|**3,9%**|**3,6%**|**3,4%**|**3,2%**|**3,3%**|**4,0%**|**4,2%**|**-**|
+|Intérieure|4,5%|4,3%|4,2%|3,9%|3,7%|3,4%|3,2%|3,9%|4,4%|-|
+|Extérieure|2,6%|2,4%|2,6%|2,5%|2,4%|2,4%|3,6%|4,1%|3,5%|-|
+|**Durée de vie moyenne (En**|**années)**||||||||||
+|**Dette du Trésor**|**6 A 10 M**|**6 A 5 M**|**6 A 11 M**|**7 A 4 M**|**7 A 2 M**|**6 A 8 M**|**7 A 3 M**|**8 A 2 M**|**8 A 1 M**|**7 A 10 M**|
+|Intérieure|6 A 5 M|6 A|6 A 7 M|6 A 7 M|6 A 5 M|5 A 9 M|6 A 8 M|7 A 11 M|7 A 11 M|7 A 7 M|
+|Extérieure|8 A 5 M|7 A 10 M|8 A 2 M|9 A 9 M|9 A 7 M|9 A 9 M|9 A|9 A 1 M|8 A 6 M|8 A 6 M|
+|**STRUCTURE DE LA DETTE D**|**U TRÉSOR**||||||||||
+|**Structure par source de fina**|**ncement (e**|**n%)**|||||||||
+|Dette Intérieure|77,9%|79,5%|78,4%|76,0%|77,0%|76,0%|75,1%|75,1%|73,8%|72,4%|
+|Dette Extérieure|22,1%|20,5%|21,6%|24,0%|23,0%|24,0%|24,9%|24,9%|26,2%|27,6%|
+|**Structure par maturité rési**|**duelle (en%)**||||||||||
+|Court terme|12,4%|11,4%|13,2%|11,5%|12,7%|17,2%|11,8%|11,7%|10,2%|9,6%|
+|Moyen terme|40,0%|44,6%|38,9%|39,6%|38,2%|35,5%|37,7%|31,2%|33,0%|34,1%|
+|long terme|47,6%|44,0%|47,9%|48,9%|49,1%|47,3%|50,5%|57,1%|56,8%|56,3%|
+|**Structure par devises**|||||||||||
+|Dirham marocain|77,8%|79,3%|78,1%|75,4%|76,1%|73,1%|72,3%|73,8%|73,2%|72,0%|
+|Euro|14,6%|13,1%|14,7%|15,0%|15,1%|16,0%|15,5%|14,9%|17,4%|18,9%|
+|Dollar US et devises liées|6,3%|6,0%|5,8%|8,3%|7,7%|7,6%|9,0%|8,7%|7,3%|7,1%|
+|Dinar Koweitien|0,3%|0,3%|0,3%|0,3%|0,3%|0,3%|0,3%|0,3%|0,3%|0,3%|
+|Yen Japonais|0,6%|0,6%|0,5%|0,5%|0,4%|0,4%|0,4%|0,5%|0,4%|0,4%|
+|Autres|0,4%|0,7%|0,6%|0,6%|0,4%|2,5%|2,4%|1,8%|1,4%|1,3%|
+|**Structure par types de taux**|**d’intérêt (e**|**n%)**|||||||||
+|Taux fixe|91,0%|92,4%|92,3%|92,5%|93,5%|89,3%|88,6%|89,5%|90,2%|90,0%|
+|Taux variable|9,0%|7,6%|7,7%|7,5%|6,5%|10,7%|11,4%|10,5%|9,8%|10,0%|
+
+
+
+**65** 
+
+
+
+
+
+###### **DETTE INTÉRIEURE DU TRÉSOR** 
+
+|||||||||**(En mi**|**llions DH s**|**auf indiqué)**|
+|---|---|---|---|---|---|---|---|---|---|---|
+||**2017**|**2018**|**2019**|**2020**|**2021**|**2022**|**2023**|**2024**|**2025**|**S1 2026**|
+|**ENCOURS**|||||||||||
+|**Dette intérieure**|**539 135**|**574 637**|**585 687**|**632 899**|**681 527**|**722 916**|**763 046**|**811 802**|**845 212**|**862 342**|
+|% PIB|46,9%|48,1%|47,2%|54,9%|53,4%|54,2%|51,4%|50,3%|49,2%|-|
+|**RÉPARTITION PAR PRODUIT**|||||||||||
+|Adjudications|516 706|546 205|557 161|600 741|646 633|665 764|699 382|753 604|787 340|803 625|
+|Bons à 6 mois|50|50|50|50|50|50|-|-|-|-|
+|Autres|22 378|28 382|28 476|32 108|34 844|57 102|63 664|58 198|57 872|58 717|
+|**RÉPARTITION PAR TERME R**|**ESIDUEL**||||||||||
+|**Dette du Trésor**|||||||||||
+|Court terme|77 239|73 792|79 768|85 256|91 948|152 901|106 430|115 951|97 807|99 597|
+|Moyen terme|220 008|265 102|235 507|275 540|293 153|281 972|303 832|267 108|297 552|322 501|
+|Long terme|241 888|235 743|270 412|272 103|296 426|288 042|352 784|428 743|449 854|440 244|
+|**CHARGES DE LA DETTE INTÉ**|**RIEURE**||||||||||
+|**Charges en principal**|**86 734**|**88 624**|**97 219**|**120 156**|**102 754**|**113 848**|**232 631**|**137 124**|**140 650**|**53 418**|
+|Adjudications|84 002|85 554|93 437|109 067|98 580|109 663|221 631|117 440|128 500|50 076|
+|Autres|2 732|3 070|3 781|11 089|4 175|4 186|11 000|19 684|12 150|3 343|
+|**Charges en intérêts**|**24 114**|**24 285**|**26 573**|**25 573**|**24 948**|**24 762**|**25 968**|**29 329**|**35 767**|**19 426**|
+|Adjudications|21 602|21 722|23 751|22 764|22 506|22 499|23 279|25 607|31 680|17 468|
+|Autres|2 512|2 563|2 822|2 809|2 442|2 263|2 689|3 722|4 086|1 958|
+|**INDICATEUIRS DE COUT ET**|**DE RISQUES**||||||||||
+|Durée de vie moyenne|6 A 5 M|6A|6 A 7 M|6 A 7 M|6 A 5 M|5 A 9 M|6 A 8 M|7 A 11 M|7 A 11 M|7 A 7M|
+|Coût moyen apparent|4,5%|4,3%|4,2%|3,9%|3,7%|3,4%|3,2%|3,9%|4,4%|-|
+|TMP à l’émission|2,8%|2,8%|3,0%|2,3%|2,0%|2,2%|3,9%|3,6%|2,6%|2,6%|
+|Part du court terme|14,4%|12,9%|13,7%|13,5%|13,5%|21,2%|13,9%|14,3%|11,7%|11,7%|
+|**INDICATEURS DU MARCHE S**|**ECONDAIRE**||||||||||
+|Opérations fermes|247|281|421|372|578|824|978|1 140|1 380|913|
+|Opérations repos|12 062|13 868|13 604|11 221|10 552|12 913|16 303|16 032|18 342|9 096|
+|Taux de rotation BDT (%)|43|46|70|55|82|109|114|137|159|108|
+|Taille moyenne des<br>opérations|67|75|78|76|90|103|69|72|77|86|
+
+
+
+_Les statistiques du marché secondaire depuis 2023 ont été calculées sur la base des données brutes des transactions fermes non-rectifiées contrairement aux statistiques des années antérieures qui ont été calculées sur la base des données des transactions rectifiées. Ce changement intervient suite à la modification de l’algorithme de calcul de la courbe de taux de référence._ 
+
+|**ENCOURS DES LIGNES**|**ÉMISES PAR ADJU**|**DICATION**|||||||||
+|---|---|---|---|---|---|---|---|---|---|---|
+|**Encours**|**516 706**|**546 205**|**557 161**|**600 741**|**646 633**|**665 764**|**699 382**|**753 604**|**787 340**|**803 625**|
+|TCT||||||10 000|||||
+|13 semaines|418||500|2 284|600|12 178|407|400|||
+|26 semaines|1 165||132|7 479|1 100|6 526|2 079|904|2 850|1 750|
+|52 semaines|24 692|20 097|9 939|23 062|23 970|18 771|30 609|7 984|13 114|15 639|
+|2 ans|51 012|62 391|47 669|56 937|78 192|72 201|94 804|95 323|100 410|113 578|
+|5 ans|140 581|145 466|145 432|159 383|170 633|173 764|130 793|135 181|142 476|155 378|
+|10 ans|98 240|116 125|129 367|121 781|133 929|133 851|152 832|165 251|170 002|165 472|
+|15 ans|123 664|125 087|135 322|125 336|123 076|122 719|154 900|173 678|177 771|177 771|
+|20 ans|56 976|57 081|66 223|72 384|78 384|78 384|89 422|103 928|105 063|98 383|
+|30 ans|19 958|19 958|22 577|32 095|36 749|37 371|43 537|70 955|75 654|75 654|
+
+
+
+
+
+<!-- Start of picture text -->
+66<br><!-- End of picture text -->
+
+
+
+
+
+
+
+|||||||||**(En milli**|**ons DH sau**|**f indiqué)**|
+|---|---|---|---|---|---|---|---|---|---|---|
+||**2017**|**2018**|**2019**|**2020**|**2021**|**2022**|**2023**|**2024**|**2025**|**S1 2026**|
+|**SOUSCRIPTIONS SUR LE**|**MARCHÉ DES A**|**DJUDICATI**|**ONS***||||||||
+|**Total des levées**|**110 680**|**115 053**|**104 393**|**152 647**|**144 471**|**128 794**|**255 249**|**171 661**|**162 236**|**66 360**|
+|TCT||||||18 630|||||
+|13 semaines|3 535|811|950|8 492|4 153|20 942|28 721|5 253|3 070||
+|26 semaines|2 081|100|131|12 405|4 428|10 805|16 994|1 704|4 300|1 750|
+|52 semaines|19 734|17 316|8 345|26 389|15 997|14 081|37 317|6 155|12 754|10 804|
+|2 ans|26 401|42 923|15 317|41 336|45 310|23 427|67 041|36 139|62 889|27 821|
+|5 ans|35 346|31 060|24 479|33 333|38 186|28 608|17 346|29 743|38 105|23 304|
+|10 ans|8 872|17 885|16 707|4 143|21 306|9 586|38 174|27 044|16 907|2 681|
+|15 ans|12 959|4 853|26 703|10 846|4 437|2 093|32 453|18 778|11 212||
+|20 ans|739|105|9 141|6 185|6 000||11 038|19 427|8 301||
+|30 ans|1 013||2 620|9 518|4 654|622|6 166|27 418|4 699||
+|_* Y compris les émissions de B_|_DT au titre des opér_|_ations deges_|_tion active de_|_la dette inté_|_rieure_.||||||
+|**TAUX MOYENS PONDÉR**|**ÉS DES BONS ÉM**|**IS PAR AD**|**JUDICATIO**|**N**|||||||
+|**TMP annuel**|**2,80%**|**2,77%**|**2,98%**|**2,29%**|**1,97%**|**2,23%**|**3,92%**|**3,65%**|**2,62%**|**2,61%**|
+|13 semaines|2,15%|2,17%|2,18%|1,62%|1,36%|2,20%|3,15%|2,74%|1,83%||
+|26 semaines|2,22%|2,19%|2,23%|1,63%|1,42%|1,89%|3,19%|2,74%|2,15%|2,19%|
+|52 semaines|2,36%|2,41%|2,31%|1,96%|1,54%|1,81%|3,37%|2,73%|2,34%|2,32%|
+|2 ans|2,48%|2,56%|2,42%|2,16%|1,72%|1,95%|3,74%|3,07%|2,39%|2,55%|
+|5 ans|2,83%|2,81%|2,65%|2,31%|2,00%|2,16%|3,97%|3,25%|2,57%|2,82%|
+|10 ans|3,27%|3,32%|3,03%|2,59%|2,34%|2,44%|4,38%|3,66%|2,98%|2,96%|
+|15 ans|3,80%|3,70%|3,45%|2,94%|2,65%|2,70%|4,82%|3,90%|3,15%||
+|20 ans|4,02%|3,98%|3,63%|3,20%|2,89%||4,96%|4,14%|3,41%||
+|30 ans|4,43%||4,20%|3,73%|3,30%|3,28%|5,35%|4,75%|3,93%||
+||**2017**|**2018**|**2019**|**2020**|**2021**|**2022**|**2023**|**2024**|**2025**|**S1 2026**|
+|**DETTE INTERIEURE GAR**|**ANTIE**||||||||||
+|Encours|27 397|28 496|35 207|38 667|44 763|48 434|56 777|55 879|56 987|58 211|
+|% PIB|2,4%|2,4%|2,8%|3,4%|3,5%|3,6%|3,9%|3,6%|3,3%|-|
+
+
+
+**67** 
+
+###### PROJET DE LOI DE FINANCES POUR L’ANNÉE 2027 
+
+###### **DETTE EXTÉRIEURE DU TRÉSOR** 
+
+||2017|2018|2019|2020|2021|2022|2023|(En mill<br>2024|ions DH sa<br>2025|uf indiqué)<br>S1 2026<br>(d)|
+|---|---|---|---|---|---|---|---|---|---|---|
+|ENCOURS|||||||||||
+|En Dirham marocain|153 197 <br>|147 983 <br>|161 568 <br>|199 703|203 779|228 864|253 618|269784<br>|299762<br>|328 039<br>|
+|En Euros<br>|13 694<br>|13 511<br>|15 009<br>|18 263<br>|19 377<br>|20 509<br>|23 173<br>|25 647<br>|27984 <br>|30 618<br>|
+|En Dollar US<br>|16 421<br>|15 471<br>|16 842<br>|22 426<br>|21 958<br>|21 906<br>|25 636<br>|26 681<br>|32 839<br>|34 913|
+|En% du PIB|13,4%|12,4%|13,0%|17,3%|16,0%|17,2%|17,1%|16,7%|17,4%||
+|STRUCTURE DE LA DETTE<br>Structurepar maturité orig <br>|(%)<br>inale et créa<br>|nciers<br>|||||||||
+|Moyenetlong terme|100,0%|100,0%|100,0%|100,0%|100,0%|100,0%|100,0%|100,0%|100,0%|100,0%|
+|Créanciers bilatéraux<br>|17,4%|16,1%|13,3%|11,6%<br>|1~~3~~,~~0%~~|14,9%<br>|13,5%|14,6%|13,3%<br>|12,5%<br>|
+|Paysdel'UE<br>|9,0%|8,0%<br>|6,5%|~~6~~,~~9%~~|8,0%<br>|10,2%|%8'6|11,0%|10,6%|10'1%<br>|
+|Pays arabes<br>|4,0%<br>|~~4~~,1~~%~~<br>|3,6%<br>|2,5%<br>|2,1%<br>|1,7%<br>|1,2%<br>|0,8%<br>|0,4%<br>|~~0~~,~~3%~~<br>|
+|Autres pays<br>|~~4~~,~~4%~~<br>|~~4~~,~~0%~~<br>|~~3~~,~~2%~~<br>|~~2~~,~~2%~~<br>|~~2~~,~~9%~~<br>|~~3~~,~~0%~~<br>|~~2~~,~~5%~~<br>|~~2~~,~~8%~~<br>|~~2~~,~~3%~~<br>|~~2~~,~~1%~~<br>|
+|Créanciers multilatéraux<br>|52,9%<br>|55,2%<br>|55,7%<br>|51,7%<br>|52,0%<br>|~~56~~,~~2%~~<br>|52,4%<br>|~~56~~,~~6%~~<br>|~~55~~,~~6%~~<br>|~~52~~,~~2%~~<br>|
+|MFI|297%|28,7%|310%|36,7%|35,0%|289%|341%|288%|31,1%|353%|
+|Court terme<br>Stt  di|,<br>0,0%|0,0%|,<br>0,0%|0,0%|0,0%|,<br>0,0%|,<br>0,0%|,<br>0,0%|0,0%|,<br>0,0%|
+|rucure par evses<br>Euro|65,6%|63,2%|~~66~~,7~~%~~|60,6%|63,1%|~~63~~,~~8%~~|59,2%|58,1%|64,4%|66,7%|
+|Dollar US et devises liées<br>|~~28~~,4~~%~~<br>|~~29~~,~~0%~~<br>|~~26~~,~~8%~~<br>|~~33~~,~~8%~~<br>|32,1%<br>|31,7%<br>|36,1%<br>|33,7%<br>|~~2~~7,~~2%~~<br>|25,2%<br>|
+|Dinar Koweitien<br>|1,~~6%~~<br>|1,~~4%~~<br>|1,~~3%~~<br>|~~1~~,~~2%~~<br>|1,3%<br>|1,4%<br>|1,3%<br>|1,~~3%~~<br>|1,~~0%~~<br>|1,~~2%~~<br>|
+|Yen Japonais<br>|~~2~~,~~8%~~<br>|2,9%<br>|2,5%<br>|1,9%<br>|1,6%<br>|1,8%<br>|1,5%<br>|1,9%<br>|1,6%<br>|1,5%<br>|
+|Autres<br>S   d|~~1~~,~~6%~~<br>d’iéê|3,5%|~~2~~,~~7%~~|~~2~~,~~5%~~|~~1~~,~~9%~~|~~1~~,~~3%~~|~~1~~,~~9%~~|~~5~~,~~0%~~|~~5~~,~~8%~~|~~5~~,~~4%~~|
+|tructure par types e tau<br>Taux Fixe|ntrt<br>59,4%|63,0%|64,3%|68,7%|72,2%|68,3%|70'1%|66,1%|65,8%|67,0%|
+|Taux variable|40,6%|37,0%|35,7%|31,3%|27,8%|31,7%|29,9%|33,9%|34,2%|33,0%|
+|SERVICE DE LA DETTE|||||||||||
+|<br>Charges totales|17 016|11818|12 067|24 032|14 937|28 574|18 831|31 891|20 943|1791|
+|<br>En% des Ros<br>|7,4~~%~~|~~5,0%~~|4,~~8%~~|1~~0~~,5~~%~~|5,~~8%~~|~~9,4%~~|5,8%|~~8,6%~~|4,~~9%~~||
+|~~C~~ontre-va~~l~~eur en m~~illi~~ons<br>$US|1743|1256|1255|2 529|1661|2 808|1 858|3 208|2 242|1940|
+|Charges enprincipal|13243|8 085|8 226|19 921|10 240|23 593|10 540|21 397|11 477|12 288|
+|Créanciers bilatéraux|3 387|3 350|3 041|2 695|~~2540~~|2 582|2 668|2 472|2 515|1478|
+|Paysdel'UE|2 113|2 145|1826|1527|1447|1423<br>|1555<br>|1403<br>|1598|1022|
+|Pays arabes<br>|~~262~~<br>|~~247~~<br>|~~256~~<br>|~~555~~<br>|818<br>|~~896~~<br>|~~865~~<br>|~~826~~<br>|~~759~~<br>|~~369~~<br>|
+|Autres pays|~~1012~~|~~958~~|9596|613|275|~~263~~|~~248~~|~~243~~|158|~~87~~|
+|<br>Créanciers multilatéraux|4~~399~~|4 735|5 070|6 167|~~7700~~|~~7~~ ~~329~~|~~7~~ ~~623~~|8 146|8 857|~~5174~~|
+|MFI|5~~4~~57|<br>~~0~~|115|<br>11 059|~~0~~|13 682|~~249~~|<br>10 779|<br>105|<br>5 636|
+|Charges en intérêts|~~3~~ ~~773~~|3 733|3 841|4 111|4 697|~~4~~ ~~981~~|~~8~~ ~~291~~|10 494|9466|~~5 623~~|
+|Créanciers bilatéraux<br>|561|601|502|435<br>|478|~~450~~|524<br>|585|~~642~~<br>|341<br>|
+|Paysdel'UE<br>|339<br>|288<br>|~~22~~5<br>|~~207~~<br>|~~28~~1<br>|243<br>|~~266~~<br>|328<br>|~~423~~<br>|~~239~~<br>|
+|Pays arabes|~~52~~|1~~8~~5|1~~8~~1|~~172~~|1~~44~~|1~~38~~|1~~09~~|~~82~~|~~54~~|~~18~~|
+|<br>Autres pays|170|128|~~96~~|~~56~~|~~53~~|~~69~~|149|175|165|~~84~~|
+|<br>Créanciers multilatéraux|1121|1344|1502|1661|1842|1858|4 799|6 256|5 717|~~2~~ ~~764~~|
+|MFI|2091|1788|1837|2 015|2377|2 673|2 968|<br>3 653|~~3~~ ~~107~~|2 518|
+|TIRAGES DE LA DETTE|||||||||||
+|Total des tirages|16 799|6 247|25 516|62 979|18 441|29 707|45 503|40 371|48 425|35 163|
+|Créanciers bilatéraux|5 757|395|726|4 754|6 425|~~8~~365|~~3 964~~|9~~080~~|3 138|2 659|
+|Pays de l'UE|351|348|690|4 5~~99~~<br>|4 624|7 387|3 638|7 283|2 879|2 652|
+|<br>Pays arabes<br>|4 695<br>|~~0~~<br>|~~19~~<br>|~~135~~<br>|~~0~~<br>|~~0~~<br>|~~0~~<br>|~~0~~<br>|~~0~~<br>|~~0~~<br>|
+|<br>Autrespays<br>|~~711~~<br>|~~47~~<br>|~~17~~<br>|~~20~~<br>|1801<br>|876<br>|326<br>|1797<br>|~~259~~<br>|~~7~~<br>|
+|Créanciers multilatéraux|11 042|~~5852~~|14 203|~~20750~~|12 016|~~21342~~|15454|31 291|24 344|~~8771~~|
+|<br>MFI|<br>~~0~~|<br>~~0~~|<br>10 587|<br>37 475|<br>~~0~~|<br>~~0~~|<br>26 085|<br>~~0~~|<br>20 943|<br> 23 733|
+
+
+
+**68** 
+
+###### <mark>RAPPORT SUR LA DETTE PUBLIQUE - 2025</mark> 
+
+###### **DETTE EXTERIEURE PUBLIQUE** 
+
+|ENCOURS|2017|2018|2019|2020|2021|2022|2023|(En millio<br>2024|ns DH sa<br>2025|uf indiqué)<br> <sup>~~S1 2026~~</sup><br>(d)|
+|---|---|---|---|---|---|---|---|---|---|---|
+|En Dirham marocain<br>En Euros<br>|333 571 <br>29 818 <br>|327 731 <br> ~~29 923~~ <br>|342 130 <br> 31 7~~8~~3 <br>|378 353 <br> 34 600 <br>|381 413 <br> 36 268 <br>|423 894<br> 37 986 <br>|438 958<br> 40 108<br>|468 239<br>44 514<br>|517 400<br>48 301<br>|562 977<br>  ~~52~~ ~~545~~<br>|
+|~~E~~n~~D~~o~~ll~~ar~~US~~<br>En% du PIB|35 754 <br>~~29~~,~~0%~~|34 262 <br>~~2~~7,4~~%~~|35 664 <br>~~27~~,~~6%~~|42 489<br>~~32~~,~~8%~~|41 099<br>~~29~~,~~9%~~|40 573<br>~~3~~1,~~8%~~|44 371 <br>~~29~~,5~~%~~|46 308 <br>~~29~~,~~0%~~|56 681 <br>~~30~~,1~~%~~|59 917|
+|STRUCTURE DE LA DETTE|||||||||||
+|Structure par maturité originale et|créanciers||||||||||
+|<br>Moyen et long terme|<br>100,0% <br>|100,0%|100,0%|100,0%|100,0%|100,0%|100,0% <br>|100,0% <br>|100,0%<br>|100,0%<br>|
+|<br>Créanciers bilatéraux|~~29~~,~~6%~~|28,6%|25,8%|23,3%|22,5%|22,8%|~~20~~,~~9%~~|~~199%~~|1~~9~~,~~9%~~|~~18~~,~~8%~~|
+|Pays de l'UE<br>|20,1%<br>|19,0%<br>|17,2%<br>|16,3%<br>|15,6%<br>|16,5%<br>|15,7%<br>|15,2%<br>|15,9%<br>|15,0%<br>|
+|Pays arabes<br>|~~3~~,~~9%~~<br>|~~4~~,~~0%~~<br>|~~3~~,~~6%~~<br>|~~2~~,~~8%~~<br>|~~2~~,~~6%~~<br>|~~2~~,~~3%~~<br>|~~1~~,~~8%~~<br>|~~1~~,~~5%~~<br>|~~1~~,~~0%~~<br>|~~0~~,~~8%~~<br>|
+|<br>Autres pays<br>|~~5~~,~~6%~~<br>|~~5~~,~~6%~~<br>|~~5~~,~~0%~~<br>|~~4~~,~~2%~~<br>|~~4~~,~~3%~~<br>|~~4~~,~~0%~~<br>|~~3~~,~~4%~~<br>|~~3~~,~~2%~~<br>|~~3~~,~~0%~~<br>|~~3,0%~~<br>|
+|Créanciers multilatéraux<br>|47,1%|48,7%|49,4%|48,9%<br>|49,2%|52,4%|~~51~~,~~2%~~|52,8%|50,6%|47,4%|
+|MFI et Banques commerciales|23,3%<br>|22,7%<br>|24,8%<br>|~~27~~,~~8%~~<br>|28,3%<br>|24,8%<br>|27,9%<br>|~~27~~,~~3%~~<br>|29,5%<br>|33,8%<br>|
+|<br>Court terme<br>Strctre ar emrnters|~~0~~,~~0%~~|~~0,0%~~|~~0,0%~~|~~0~~,~~0%~~|~~0~~,~~0%~~|~~0~~,~~0%~~|~~0,0%~~|~~0,0%~~|~~0,0%~~|~~0~~,~~0%~~|
+|uu p puu<br>Dette du Trésor|~~45~~,~~9%~~|45,2%|47,2%|~~52~~,~~8%~~|53,4%|54,0%|57,8%|57,6%|57,9%|58,3%|
+|Dette du reste du secteur public<br>|~~54,2%~~<br>|~~54~~,~~8%~~<br>|~~52~~,~~8%~~<br>|~~47~~,~~2%~~<br>|~~46~~,~~6%~~<br>|~~46~~,~~0%~~<br>|~~42~~,~~2%~~<br>|~~42~~,~~4%~~<br>|~~42~~,~~1%~~<br>|~~41~~,~~7%~~<br>|
+|<br>EEPs|536%|541%|516%|459%|45~~0~~%|441%|4~~0~~2%|4~~0~~5%|4~~00~~%|39~~8~~%|
+|Institutions Financières Publiques|,<br>~~0~~,~~4%~~|,<br>~~0~~,~~3%~~|,<br>~~0~~,~~6%~~|,<br>~~0~~,~~6%~~|,<br>~~0~~,~~8%~~|,<br>~~1~~,~~1%~~|,<br>1,1%|,<br>1,1%|,<br>~~1~~,~~3%~~|,<br>~~1~~,~~1%~~|
+|<br>~~CTs~~|%1'%|~~03%~~|~~05%~~|~~05%~~|06%|06%|~~07%~~|~~06%~~|~~06%~~|~~06%~~|
+|~~IUP~~s<br>Stt  di|~~0~~,~~1%~~|,<br>~~0~~,~~1%~~|,<br>~~0~~,~~1%~~|,<br>~~0~~,~~2%~~|,<br>~~0~~,~~2%~~|,<br>~~0~~,~~2%~~|,<br>~~0~~,~~2%~~|,<br>~~0~~,~~2%~~|,<br>~~0~~,~~2%~~|,<br>~~0~~,~~2%~~|
+|rucure par evses<br>Euro|~~61~~,~~2%~~|~~59~~,~~7%~~|~~62~~,~~1%~~|~~60~~,~~9%~~|~~60~~,~~8%~~|~~61~~,~~8%~~|~~60~~,~~1%~~|~~57~~,~~3%~~|~~61~~,~~4%~~|~~61~~,~~8%~~|
+|Dollar US et devises liées<br>Dinar Koweitien|~~29~~,~~0%~~<br>45%|~~29~~,5~~%~~<br>~~47%~~|~~28~~,~~0%~~<br>~~45%~~|~~30~~,4~~%~~<br>~~39%~~|31,1%<br>~~41%~~|~~30~~,~~8%~~<br>40%|~~33~~,~~0%~~<br>35%|~~33~~,~~8%~~<br>33%|~~30~~,~~3%~~<br>27%|~~30~~,~~8%~~<br>23%|
+|<br>Yen Japonais|,<br>~~3~~,~~6%~~<br>|,<br>~~3~~,~~8%~~<br>|,<br>~~3~~,~~5%~~<br>|,<br>~~3~~,~~0%~~<br>|,<br>~~2~~,~~6%~~<br>|,<br>~~2~~,~~5%~~<br>|,<br>~~2~~,~~1%~~<br>|,<br>~~2~~,~~1%~~<br>|,<br>~~1~~,~~6%~~<br>|,<br>~~1~~,~~4%~~<br>|
+|<br>Autres<br>S   d  d’ié|~~1~~,~~7%~~<br>ê|~~2,3%~~|~~1~~,~~9%~~|~~1~~,~~8%~~|~~1~~,~~4%~~|~~0,9%~~|~~1~~,~~3%~~|~~3,5%~~|~~4,0%~~|~~3,7%~~|
+|tructure par types e tauxnt<br>Taux F~~i~~xe<br>|rt<br>74,1%<br>|~~75~~,~~3%~~<br>|~~75~~,~~1%~~<br>|74,8%<br>|76,2%<br>|~~74~~,~~1%~~<br>|74,5%<br>|~~71~~,~~8%~~<br>|~~71~~,~~3%~~<br>|~~72~~,~~7%~~<br>|
+|Taux variable|~~25~~,~~9%~~|~~24~~,~~7%~~|~~24~~,~~9%~~|~~25~~,~~2%~~|23,8%|~~25~~,~~9%~~|~~25~~,~~5%~~|~~28~~,~~2%~~|~~28~~,~~7%~~|~~27~~,~~3%~~|
+|SERVICE DE LA DETTE|||||||||||
+|Charges totales|32 060|28 470|29 147|41 432|41 527|47 434|38 224|62 121|47 387|36 716|
+|En% des RCBP<br>|6,~~8~~%<br>|5,8%<br>|5,7%<br>|9,2%<br>|7,6%<br>|6,4%<br>|4,9%<br>|7,5%<br>|5,4%<br>|=<br>|
+|Contre-valeur en millions$US|3 284|3 025|3 030|4 360|4 618|4 662|3 771|6 248|5 072|3 975|
+|Charges enprincipal|23 389|19 853|20 586|32 943|32 580|37 721|24 531|45 187|30731|27 219|
+|Créanciers bilatéraux|~~8~~ ~~293~~|9 424|9 531|9 528|9 837|~~9~~ ~~106~~|8 736|8 365|8165|4 157|
+|Pays de l'UE<br>|5 820<br>|6 982<br>|6 955<br>|6 773<br>|7 313<br>|6474<br>|6 198<br>|5 945<br>|5 848<br>|3 041<br>|
+|Pays arabes|758|722|815|1150|1324|1448|1402|1356|1240|603|
+|<br>Autres pays|1715|1720|1761|1605|1200|1184|1136|1064|1077|513|
+|<br>Créanciers multilatéraux|~~8744~~|9 673|10 071|11 469|13 261|14 040|14 708|16 046|16 551|12 308|
+|MFI et Banques commerciales|6 352|756|~~984~~|11 946|9 482|14 575|1087|20 776|6 015|10 754|
+|~~Ch~~arges en~~i~~nt~~é~~r~~ê~~ts|~~8 671~~|~~8 617~~|~~8 561~~|~~8 489~~|~~8 947~~|~~9 713~~|~~13 693 ~~|~~16 934~~|~~16 656~~|~~9 497~~|
+|<br>Créanciers bilatéraux<br>|~~2043~~|2 131|1876|1719|1618|~~1581~~|1581|1607|1753|984|
+|Paysdel'UE<br>|1388<br>|1378<br>|1157<br>|1080<br>|1058<br>|1018<br>|1006<br>|1073<br>|1253<br>|739<br>|
+|Pays arabes<br>|~~263~~<br>|398<br>|~~397~~<br>|368<br>|321<br>|324<br>|277<br>|231<br>|178<br>|~~74~~<br>|
+|Autres pays|~~392~~|~~355~~|~~322~~|271|~~240~~|~~239~~|~~298~~|~~303~~|~~322~~|~~171~~|
+|<br>Créanciers multilatéraux|2 934|3 132|3 240|3 190|3 284|3 593|7 362|9 336|8 584|4 087|
+|MFI et Banques commerciales|3 694|3 354|3 445|3 5~~80~~|4 045|4 539|4 750|596691|~~6~~ ~~319~~|4 426|
+|TIRAGES DE LA DETTE<br>|||||||||||
+|~~Total des tirages~~<br>|~~36 334 ~~<br>|~~19~~ ~~281~~<br>|~~40 513 ~~<br>|~~77 426 ~~<br>|~~41 595~~<br>|~~47 274 ~~<br>|~~56 838~~<br>|~~81~~ ~~192 ~~<br>|~~93 056~~<br>|~~64 921~~<br>|
+|Créanciers bilatéraux|15 437|4 834|4740|9 630|10 133|14 146|7 193|12 988|18 689|6 625|
+|P d l'UE|7978|3607|4 414|8 816|7 672|12 837|6563|11071|15 130|5 557|
+|ays e<br>Pays arabes<br>|<br>5 743<br>|<br>~~467~~<br>|<br>~~75~~<br>|<br>~~338~~<br>|<br>325<br>|<br>~~86~~<br>|<br>~~59~~<br>|<br>~~48~~<br>|<br>102<br>|<br>~~16~~<br>|
+|Autres pays|1716|~~760~~|251|~~476~~|2 136|1223|571|1869|3 457|1052|
+|<br>Créanciers multilatéraux|20 897|12 834|21 177|30 321|<br> 18 120|33 128|23 560|44 042|<br>  34 318|15 782|
+|MFl et Banques commerciales|~~0~~|1613|14 596|37 475|13 342|~~0~~|26 085|24 162|40 049|42 514|
+
+
+
+**69** 
+
+Le Ministère de l’Economie, des Finances 
+
+et de la Performance publique met à votre disposition plusieurs canaux de communication et d’information 
+
+###### **Le Portail Internet** 
+
+www.finances.gov.ma 
+
+###### **La page Facebook** 
+
+www.facebook.com/financesmaroc 
+
+**Le compte X** 
+
+www.x.com/financesmaroc 
+
+**Le site LOF** 
+
+http://lof.finances.gov.ma 
+

@@ -1,251 +1,339 @@
-"""PDF ingestion: /Docs -> Markdown in /Ingestion/MID_ingest.
+"""Convert PDFs in Docs/ to Markdown in Ingestion/MID_ingest/.
 
-Latin-script pages are processed with PyMuPDF4LLM + RapidOCR. Pages that
-contain Arabic are routed to Tesseract using the ara language pack.
+Conversion is decided page by page:
+- pages with a real text layer are extracted with PyMuPDF4LLM;
+- text-less pages are OCR'd with RapidOCR after preprocessing;
+- digital Arabic PDFs are extracted with arabicpdf (Qalam).
+
+OCR uses RapidOCR with a Latin or Arabic recognition model. Arabic pages can
+also be recognized with Tesseract (Arabic and French) using the bundled
+tessdata directory. Scanned pages are preprocessed with grayscale, cropping,
+denoising, and contrast normalization before recognition.
 """
 
 from __future__ import annotations
 
 import argparse
-import os
 import re
 import shutil
 import sys
-import urllib.error
-import urllib.request
 from pathlib import Path
 
+import cv2
+import numpy as np
 import pymupdf
+import pymupdf4llm
+import pytesseract
+from arabicpdf import to_text as arabic_to_text
+from rapidocr import LangDet, LangRec, ModelType, OCRVersion, RapidOCR
 
 INGESTION_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = INGESTION_DIR.parent
 DEFAULT_DOCS_DIR = PROJECT_ROOT / "Docs"
 DEFAULT_OUTPUT_DIR = INGESTION_DIR / "MID_ingest"
-TESSDATA_DIR = INGESTION_DIR / "tessdata"
-
-TESSDATA_LANGS = ("eng", "fra", "ara")
-TESSERACT_LANG = "ara+fra+eng"
-TESSDATA_URL = (
-    "https://github.com/tesseract-ocr/tessdata_fast/raw/main/{lang}.traineddata"
-)
 
 ARABIC_RE = re.compile(
     r"[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]"
 )
+LATIN_RE = re.compile(r"[A-Za-z\u00C0-\u024F]")
+
+MIN_PAGE_TEXT_CHARS = 20
+MIN_TEXT_FOR_LANG = 200
+ARABIC_RATIO = 0.05
+OCR_DPI = 450
+
+# The larger tessdata_best model improves Arabic recognition on CPU at the
+# cost of slower OCR. It contains the bundled Arabic model used below.
+TESSDATA_DIR = INGESTION_DIR / "tessdata_best"
+TESSERACT_LANGS = {"arabic": "ara+fra", "latin": "fra"}
+OCR_ENGINE_CHOICES = ("auto", "rapidocr", "tesseract")
+DEFAULT_OCR_ENGINE = "auto"
+
+_OCR_ENGINES: dict[str, RapidOCR] = {}
 
 
-def _system_tessdata_dirs() -> list[Path]:
-    candidates: list[Path] = []
-    env_dir = os.environ.get("TESSDATA_PREFIX")
-    if env_dir:
-        candidates.append(Path(env_dir))
-    candidates.append(Path("/usr/share/tesseract/tessdata"))
-    candidates.append(Path("/usr/share/tessdata"))
-    for base in (Path("/usr/share/tesseract"), Path("/usr/share/tesseract-ocr")):
-        if base.is_dir():
-            candidates.extend(sorted(base.glob("*/tessdata")))
-    return candidates
-
-
-def _download_traineddata(lang: str, target: Path) -> None:
-    url = TESSDATA_URL.format(lang=lang)
-    partial = target.with_suffix(target.suffix + ".part")
-    try:
-        urllib.request.urlretrieve(url, partial)
-        partial.replace(target)
-    finally:
-        partial.unlink(missing_ok=True)
-
-
-def ensure_tessdata() -> list[str]:
-    TESSDATA_DIR.mkdir(parents=True, exist_ok=True)
-    system_dirs = _system_tessdata_dirs()
-    missing: list[str] = []
-
-    for lang in TESSDATA_LANGS:
-        target = TESSDATA_DIR / f"{lang}.traineddata"
-        if target.is_file() and target.stat().st_size > 0:
-            continue
-
-        source = next(
-            (directory / target.name for directory in system_dirs if (directory / target.name).is_file()),
-            None,
-        )
-        if source is not None:
-            shutil.copy2(source, target)
-            continue
-
-        try:
-            _download_traineddata(lang, target)
-        except (urllib.error.URLError, OSError, ValueError) as exc:
-            missing.append(lang)
-            print(
-                f"[warning] Could not obtain {lang}.traineddata: {exc}",
-                file=sys.stderr,
-            )
-
-    os.environ["TESSDATA_PREFIX"] = str(TESSDATA_DIR)
-    return missing
-
-
-def _tessdata_available(lang: str) -> bool:
-    target = TESSDATA_DIR / f"{lang}.traineddata"
-    return target.is_file() and target.stat().st_size > 0
-
-
-def _page_text(page: pymupdf.Page) -> str:
-    try:
-        return page.get_text("text")
-    except Exception:
-        return ""
-
-
-def _page_has_arabic(page: pymupdf.Page) -> bool:
-    return bool(ARABIC_RE.search(_page_text(page)))
-
-
-def _arabic_stats(text: str) -> tuple[int, float]:
-    arabic = len(ARABIC_RE.findall(text))
-    visible = len(re.sub(r"\s+", "", text))
-    ratio = arabic / visible if visible else 0.0
-    return arabic, ratio
-
-
-def _document_has_arabic_text(doc: pymupdf.Document) -> bool:
-    total = 0
+def _doc_text_stats(doc: pymupdf.Document) -> tuple[int, int]:
+    arabic = 0
+    visible = 0
     for page in doc:
-        total += len(ARABIC_RE.findall(_page_text(page)))
-        if total >= 5:
-            return True
-    return False
+        text = page.get_text("text")
+        arabic += len(ARABIC_RE.findall(text))
+        visible += len(re.sub(r"\s+", "", text))
+    return arabic, visible
 
 
-def _looks_scanned(
-    doc: pymupdf.Document, sample_pages: int, min_chars_per_page: int = 40
-) -> bool:
-    pages = min(doc.page_count, sample_pages)
-    if pages <= 0:
+def _page_is_blank(page: pymupdf.Page) -> bool:
+    if page.get_text("text").strip():
         return False
-    total = sum(len(_page_text(doc[index]).strip()) for index in range(pages))
-    return total < min_chars_per_page * pages
+    if page.get_images(full=True):
+        return False
+    try:
+        return not page.get_drawings()
+    except Exception:
+        return True
 
 
-def _sample_ocr_text(
-    doc: pymupdf.Document, sample_pages: int, dpi: int, language: str
-) -> str:
-    parts: list[str] = []
-    tessdata = pymupdf.get_tessdata()
-    for index in range(min(doc.page_count, sample_pages)):
-        pixmap = doc[index].get_pixmap(dpi=dpi)
-        data = pixmap.pdfocr_tobytes(language=language, tessdata=tessdata)
-        sample_doc = pymupdf.open("pdf", data)
+def _get_ocr_engine(language: str) -> RapidOCR:
+    if language not in _OCR_ENGINES:
+        rec_lang = LangRec.ARABIC if language == "arabic" else LangRec.LATIN
+        _OCR_ENGINES[language] = RapidOCR(
+            params={
+                "Det.lang_type": LangDet.MULTI,
+                "Det.model_type": ModelType.MOBILE,
+                "Det.ocr_version": OCRVersion.PPOCRV5,
+                "Rec.lang_type": rec_lang,
+                "Rec.model_type": ModelType.MOBILE,
+                "Rec.ocr_version": OCRVersion.PPOCRV5,
+            }
+        )
+    return _OCR_ENGINES[language]
+
+
+def _tesseract_available() -> bool:
+    cmd = pytesseract.pytesseract.tesseract_cmd
+    return bool(cmd) and shutil.which(cmd) is not None
+
+
+def _ocr_tesseract(image: np.ndarray, language: str) -> str:
+    if not _tesseract_available():
+        raise RuntimeError(
+            "Tesseract executable not found. Install it (e.g. 'tesseract-ocr') "
+            "or set pytesseract.pytesseract.tesseract_cmd."
+        )
+
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    config = f'--tessdata-dir "{TESSDATA_DIR}" --psm 3'
+    if language == "arabic":
+        config += " -c preserve_interword_spaces=1"
+    data = pytesseract.image_to_data(
+        gray,
+        lang=TESSERACT_LANGS.get(language, "eng"),
+        config=config,
+        output_type=pytesseract.Output.DICT,
+    )
+    lines: dict[tuple[int, int, int], list[str]] = {}
+    confidences: list[float] = []
+    for index, value in enumerate(data["text"]):
+        word = value.strip()
+        if not word:
+            continue
         try:
-            parts.append(sample_doc[0].get_text())
-        finally:
-            sample_doc.close()
-    return "\n".join(parts)
+            confidence = float(data["conf"][index])
+        except (TypeError, ValueError):
+            confidence = -1
+        if confidence >= 0:
+            confidences.append(confidence)
+        key = (
+            int(data["block_num"][index]),
+            int(data["par_num"][index]),
+            int(data["line_num"][index]),
+        )
+        lines.setdefault(key, []).append(word)
 
-
-def _detect_ocr_mode(
-    doc: pymupdf.Document, sample_pages: int, sample_dpi: int
-) -> str:
-    if _document_has_arabic_text(doc):
-        return "mixed"
-
-    if not _looks_scanned(doc, sample_pages):
-        return "default"
-
-    if not _tessdata_available("ara"):
+    if confidences and sum(confidences) / len(confidences) < 40:
         print(
-            "[warning] ara.traineddata is unavailable; scanned Arabic pages will use RapidOCR.",
+            "[warning] Low average Tesseract confidence: "
+            f"{sum(confidences) / len(confidences):.1f}",
             file=sys.stderr,
         )
-        return "default"
 
-    sample_text = _sample_ocr_text(doc, sample_pages, sample_dpi, TESSERACT_LANG)
-    arabic_count, arabic_ratio = _arabic_stats(sample_text)
-    if arabic_count >= 10 and arabic_ratio >= 0.02:
-        return "scanned"
-
-    return "default"
+    return "\n".join(" ".join(words) for words in lines.values()).strip()
 
 
-def _make_ocr_function(
-    mode: str, force_tesseract: bool, force_rapidocr: bool
-):
-    from pymupdf4llm.ocr import rapidocr_api, tesseract_api
-
-    def hybrid_ocr(
-        page: pymupdf.Page,
-        dpi: int = 150,
-        pixmap: pymupdf.Pixmap | None = None,
-        language: str = "eng",
-        keep_ocr_text: bool = False,
-    ):
-        if force_tesseract:
-            use_tesseract = True
-        elif force_rapidocr:
-            use_tesseract = False
-        elif mode == "scanned":
-            use_tesseract = True
-        elif mode == "mixed":
-            use_tesseract = _page_has_arabic(page)
-        else:
-            use_tesseract = False
-
-        if use_tesseract:
-            if not _tessdata_available("ara"):
-                raise RuntimeError(
-                    "Arabic OCR requested but ara.traineddata is missing. "
-                    "Install tesseract-langpack-ara or allow the loader to download it."
-                )
-            return tesseract_api.exec_ocr(
-                page,
-                dpi=dpi,
-                pixmap=pixmap,
-                language=TESSERACT_LANG,
-                keep_ocr_text=keep_ocr_text,
-            )
-
-        return rapidocr_api.exec_ocr(
-            page,
-            dpi=dpi,
-            pixmap=pixmap,
-            language=language,
-            keep_ocr_text=keep_ocr_text,
-        )
-
-    return hybrid_ocr
+def _resolve_ocr_engine(engine: str, language: str) -> str:
+    if engine != "auto":
+        return engine
+    if language == "arabic" and _tesseract_available():
+        return "tesseract"
+    return "rapidocr"
 
 
-def _convert_pdf(
-    pdf_path: Path,
-    output_dir: Path,
-    ocr_function,
-    ocr_dpi: int,
-    force_ocr: bool,
-    show_progress: bool,
-) -> tuple[Path, int]:
-    import pymupdf4llm
-
-    markdown = pymupdf4llm.to_markdown(
-        str(pdf_path),
-        ocr_function=ocr_function,
-        use_ocr=True,
-        force_ocr=force_ocr,
-        ocr_dpi=ocr_dpi,
-        write_images=False,
-        embed_images=False,
-        show_progress=show_progress,
+def _render_gray(page: pymupdf.Page, dpi: int) -> np.ndarray:
+    pixmap = page.get_pixmap(dpi=dpi, alpha=False, colorspace=pymupdf.csRGB)
+    image = np.frombuffer(pixmap.samples, dtype=np.uint8).reshape(
+        pixmap.height, pixmap.width, 3
     )
-    output_path = output_dir / f"{pdf_path.stem}.md"
-    output_path.write_text(markdown, encoding="utf-8")
-    return output_path, len(markdown)
+    return cv2.cvtColor(image, cv2.COLOR_RGB2GRAY)
+
+
+def _crop_borders(
+    gray: np.ndarray, pad_ratio: float = 0.01, min_keep: float = 0.25
+) -> np.ndarray:
+    _, mask = cv2.threshold(
+        gray, 0, 255, cv2.THRESH_BINARY_INV | cv2.THRESH_OTSU
+    )
+    kernel = np.ones((3, 3), np.uint8)
+    mask = cv2.morphologyEx(mask, cv2.MORPH_OPEN, kernel)
+    coords = cv2.findNonZero(mask)
+    if coords is None:
+        return gray
+
+    x, y, w, h = cv2.boundingRect(coords)
+    height, width = gray.shape
+    if w < min_keep * width or h < min_keep * height:
+        return gray
+
+    pad = int(pad_ratio * max(height, width))
+    x0 = max(0, x - pad)
+    y0 = max(0, y - pad)
+    x1 = min(width, x + w + pad)
+    y1 = min(height, y + h + pad)
+    return gray[y0:y1, x0:x1]
+
+
+def _quadrant_means(gray: np.ndarray) -> list[float]:
+    height, width = gray.shape
+    quadrants = [
+        gray[: height // 2, : width // 2],
+        gray[: height // 2, width // 2 :],
+        gray[height // 2 :, : width // 2],
+        gray[height // 2 :, width // 2 :],
+    ]
+    return [float(q.mean()) for q in quadrants if q.size]
+
+
+def _illumination_uneven(gray: np.ndarray) -> bool:
+    means = _quadrant_means(gray)
+    return bool(means) and (max(means) - min(means) > 40)
+
+
+def _denoise(gray: np.ndarray) -> np.ndarray:
+    median = cv2.medianBlur(gray, 3)
+    diff = cv2.absdiff(gray, median)
+    background = median > 200
+    count = int(np.count_nonzero(background))
+    if count == 0:
+        return gray
+    noise_ratio = np.count_nonzero((diff > 40) & background) / count
+    return median if noise_ratio > 0.002 else gray
+
+
+def _normalize_contrast(gray: np.ndarray) -> np.ndarray:
+    if not _illumination_uneven(gray):
+        return gray
+    clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
+    return clahe.apply(gray)
+
+
+def _preprocess_page(page: pymupdf.Page, dpi: int) -> np.ndarray:
+    gray = _render_gray(page, dpi)
+    gray = _crop_borders(gray)
+    gray = _denoise(gray)
+    gray = _normalize_contrast(gray)
+    return cv2.cvtColor(gray, cv2.COLOR_GRAY2BGR)
+
+
+def _ocr_image(
+    image: np.ndarray, language: str, engine: str = DEFAULT_OCR_ENGINE
+) -> str:
+    if _resolve_ocr_engine(engine, language) == "tesseract":
+        return _ocr_tesseract(image, language)
+
+    result = _get_ocr_engine(language)(image, use_cls=True)
+    texts = getattr(result, "txts", None) or []
+    return "\n".join(texts).strip()
+
+
+def _detect_scanned_language(
+    doc: pymupdf.Document,
+    dpi: int,
+    engine: str = DEFAULT_OCR_ENGINE,
+    max_pages: int = 3,
+) -> str:
+    probe = "rapidocr" if engine == "auto" else engine
+    latin_total = 0
+    arabic_total = 0
+    sampled = 0
+    for page in doc:
+        if _page_is_blank(page):
+            continue
+        image = _preprocess_page(page, dpi)
+        latin_total += len(LATIN_RE.findall(_ocr_image(image, "latin", probe)))
+        arabic_total += len(ARABIC_RE.findall(_ocr_image(image, "arabic", probe)))
+        sampled += 1
+        if sampled >= max_pages or latin_total + arabic_total >= 200:
+            break
+    return "arabic" if arabic_total > latin_total else "latin"
+
+
+def _resolve_language(
+    doc: pymupdf.Document,
+    arabic: int,
+    visible: int,
+    dpi: int,
+    engine: str = DEFAULT_OCR_ENGINE,
+) -> str:
+    if visible >= MIN_TEXT_FOR_LANG:
+        return "arabic" if arabic / visible >= ARABIC_RATIO else "latin"
+    return _detect_scanned_language(doc, dpi, engine)
+
+
+def _convert_pages(
+    doc: pymupdf.Document,
+    pdf_path: Path,
+    language: str,
+    dpi: int,
+    engine: str = DEFAULT_OCR_ENGINE,
+) -> str:
+    text_pages: list[int] = []
+    ocr_pages: list[int] = []
+    for index, page in enumerate(doc):
+        text = page.get_text("text").strip()
+        if len(text) >= MIN_PAGE_TEXT_CHARS:
+            text_pages.append(index)
+        elif _page_is_blank(page):
+            continue
+        else:
+            ocr_pages.append(index)
+
+    chunks: dict[int, str] = {}
+
+    if text_pages:
+        page_chunks = pymupdf4llm.to_markdown(
+            str(pdf_path),
+            pages=text_pages,
+            page_chunks=True,
+            write_images=False,
+            embed_images=False,
+        )
+        for chunk in page_chunks:
+            page_number = int(chunk["metadata"]["page_number"]) - 1
+            text = chunk.get("text", "").strip()
+            if text:
+                chunks[page_number] = text
+
+    for index in ocr_pages:
+        image = _preprocess_page(doc[index], dpi)
+        text = _ocr_image(image, language, engine)
+        if text:
+            chunks[index] = text
+
+    return "\n\n".join(
+        f"## Page {index + 1}\n\n{chunks.get(index, '')}".rstrip()
+        for index in range(doc.page_count)
+    ).strip()
+
+
+def convert_pdf(
+    pdf_path: Path,
+    ocr_dpi: int = OCR_DPI,
+    ocr_engine: str = DEFAULT_OCR_ENGINE,
+) -> str:
+    with pymupdf.open(pdf_path) as doc:
+        if doc.page_count == 0:
+            return ""
+
+        arabic, visible = _doc_text_stats(doc)
+        if visible >= MIN_TEXT_FOR_LANG and arabic / visible >= ARABIC_RATIO:
+            return arabic_to_text(pdf_path)
+
+        language = _resolve_language(doc, arabic, visible, ocr_dpi, ocr_engine)
+        return _convert_pages(doc, pdf_path, language, ocr_dpi, ocr_engine)
 
 
 def _parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Convert PDFs from /Docs to Markdown using RapidOCR and Tesseract."
+        description="Convert PDFs from Docs/ to Markdown (Arabic-aware)."
     )
     parser.add_argument(
         "--docs",
@@ -273,35 +361,17 @@ def _parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument(
         "--ocr-dpi",
         type=int,
-        default=200,
-        help="DPI used for OCR rendering (default: 200)",
+        default=OCR_DPI,
+        help=f"DPI used to render OCR pages (default: {OCR_DPI})",
     )
     parser.add_argument(
-        "--sample-pages",
-        type=int,
-        default=2,
-        help="Number of pages used to detect scanned Arabic (default: 2)",
-    )
-    parser.add_argument(
-        "--sample-dpi",
-        type=int,
-        default=120,
-        help="DPI used for scanned-language detection (default: 120)",
-    )
-    parser.add_argument(
-        "--force-ocr",
-        action="store_true",
-        help="Force OCR on every page, including pages with extractable text",
-    )
-    parser.add_argument(
-        "--force-tesseract",
-        action="store_true",
-        help="Always use Tesseract (ara+fra+eng) when OCR runs",
-    )
-    parser.add_argument(
-        "--force-rapidocr",
-        action="store_true",
-        help="Always use RapidOCR when OCR runs",
+        "--ocr-engine",
+        choices=OCR_ENGINE_CHOICES,
+        default=DEFAULT_OCR_ENGINE,
+        help=(
+            "OCR backend: 'auto' uses Tesseract for Arabic when available "
+            "and RapidOCR otherwise (default: auto)"
+        ),
     )
     parser.add_argument(
         "--skip-existing",
@@ -309,33 +379,15 @@ def _parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="Skip documents whose Markdown output already exists",
     )
     parser.add_argument(
-        "--progress",
-        action="store_true",
-        help="Show PyMuPDF4LLM progress output",
-    )
-    parser.add_argument(
         "--fail-fast",
         action="store_true",
         help="Stop at the first conversion error",
     )
-    args = parser.parse_args(argv)
-
-    if args.force_tesseract and args.force_rapidocr:
-        parser.error("--force-tesseract and --force-rapidocr are mutually exclusive")
-
-    return args
+    return parser.parse_args(argv)
 
 
 def main(argv: list[str] | None = None) -> int:
     args = _parse_args(argv)
-
-    missing = ensure_tessdata()
-    if "ara" in missing:
-        print(
-            "[warning] Tesseract Arabic support is unavailable. "
-            "Arabic OCR will fail if requested.",
-            file=sys.stderr,
-        )
 
     docs_dir = args.docs.expanduser().resolve()
     output_dir = args.out.expanduser().resolve()
@@ -367,23 +419,11 @@ def main(argv: list[str] | None = None) -> int:
             continue
 
         try:
-            with pymupdf.open(pdf_path) as doc:
-                mode = _detect_ocr_mode(doc, args.sample_pages, args.sample_dpi)
-
-            ocr_function = _make_ocr_function(
-                mode, args.force_tesseract, args.force_rapidocr
-            )
-            written_path, length = _convert_pdf(
-                pdf_path=pdf_path,
-                output_dir=output_dir,
-                ocr_function=ocr_function,
-                ocr_dpi=args.ocr_dpi,
-                force_ocr=args.force_ocr,
-                show_progress=args.progress,
-            )
+            markdown = convert_pdf(pdf_path, args.ocr_dpi, args.ocr_engine)
+            output_path.write_text(markdown, encoding="utf-8")
             print(
                 f"[{index}/{len(pdf_paths)}] {pdf_path.name} -> "
-                f"{written_path.name} ({length} chars, ocr={mode})"
+                f"{output_path.name} ({len(markdown)} chars)"
             )
         except Exception as exc:
             failures += 1

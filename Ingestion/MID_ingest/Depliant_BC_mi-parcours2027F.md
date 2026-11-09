@@ -93,7 +93,7 @@ Prévisions intiales 2026
 
 03 
 
-04 
+04
 
 **Budget Général - Dépenses** 
 
@@ -222,5 +222,4 @@ Source : Prévisions arrêtées en mois de juillet 2026.
 
 07 
 
-08 
-
+08

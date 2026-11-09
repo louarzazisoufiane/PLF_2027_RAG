@@ -1,16 +1,18 @@
-Royaume du Maroc 
+Royaume du Maroc
+Ministère de l’Economie, des Finances
+et de la Performance Publique
+Projet de Loi de Finances
+pour l’année budgétaire
+2027
+NOTE SUR LES DEPENSES
+RELATIVES AUX CHARGES
+COMMUNES
 
-Ministère de l’Economie, des Finances et de la Performance Publique 
-
-Projet de Loi de Finances pour l’année budgétaire 2027 
-
-# NOTE SUR LES DEPENSES RELATIVES AUX CHARGES COMMUNES 
-
-NOTE SUR LES DEPENSES RELATIVES AUX CHARGES COMMUNES 
+NOTE SUR LES DEPENSES RELATIVES AUX CHARGES COMMUNES
 
 **NOTE SUR LES DEPENSES RELATIVES AUX CHARGES COMMUNES** 
 
-## Sommaire 
+# Sommaire 
 
 |**INTRODUCTION .......................................................................................................................................................... 1**<br>**CHAPITRE I : LE BUDGET DE FONCTIONNEMENT DES CHARGES COMMUNES : INSTRUMENT**|
 |---|
@@ -39,11 +41,11 @@ NOTE SUR LES DEPENSES RELATIVES AUX CHARGES COMMUNES
 
 
 
-1 
+1
 
 **NOTE SUR LES DEPENSES RELATIVES AUX CHARGES COMMUNES** 
 
-### INTRODUCTION 
+## INTRODUCTION 
 
 Le budget des Charges Communes, faisant partie intégrante du budget général, englobe les dépenses qui ne peuvent être imputées sur les budgets des départements ministériels ou institutions. 
 
@@ -59,7 +61,7 @@ Par ailleurs, les crédits de fonctionnement et d’investissement prévus au ti
 
 (*) Millions de Dirhams. 
 
-1 
+1
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
 
@@ -69,7 +71,7 @@ Les crédits du chapitre de fonctionnement des Charges Communes sont consacrés,
 
 I.1. PREVISIONS ET REALISATIONS DU CHAPITRE DE FONCTIONNEMENT DES CHARGES COMMUNES AU TITRE DES ANNEES 2025 ET 2026 
 
-###### _I.1.1. Réalisations au titre de l’année 2025_ 
+##### _I.1.1. Réalisations au titre de l’année 2025_ 
 
 Le montant des crédits ouverts au titre du chapitre de fonctionnement des Charges Communes pour l’année 2025, s’élève à 50.871,67 MDH, compte tenu des crédits supplémentaires. 
 
@@ -92,11 +94,11 @@ La répartition des versements effectués au titre de l’année 2025, dans le c
 
 
 
-2 
+2
 
 **NOTE SUR LES DEPENSES RELATIVES AUX CHARGES COMMUNES** 
 
-###### _I.1.2. Crédits alloués et réalisations au titre de la période allant du 1_<sup>_er_</sup> _janvier au 1_<sup>_er_</sup> _septembre 2026_ 
+##### _I.1.2. Crédits alloués et réalisations au titre de la période allant du 1_<sup>_er_</sup> _janvier au 1_<sup>_er_</sup> _septembre 2026_ 
 
 Le montant des crédits inscrits au chapitre de fonctionnement des Charges Communes pour l’année 2026, s’élève à 54.052 MDH, y compris les crédits supplémentaires. 
 
@@ -120,13 +122,13 @@ Les versements effectués jusqu’à cette date, dans le cadre dudit chapitre, s
 
 
 
-#### I.2. REPARTITION DES CREDITS DE FONCTIONNEMENT AU TITRE DE L’ANNEE 2025 
+### I.2. REPARTITION DES CREDITS DE FONCTIONNEMENT AU TITRE DE L’ANNEE 2025 
 
-###### _I.2.1. Charge de compensation_ 
+##### _I.2.1. Charge de compensation_ 
 
 Les crédits du chapitre de fonctionnement des Charges Communes affectés à la couverture de la charge de compensation et à la prise en charge de l'impact des mesures d'accompagnement au cours de l’année 2025, compte tenu des crédits supplémentaires, sont présentés dans le tableau ci-après : 
 
-3 
+3
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
 
@@ -149,7 +151,7 @@ _PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_
 
 
 
-###### _I.2.2. Dépenses liées aux régimes de retraite gérés par la CMR_ 
+##### _I.2.2. Dépenses liées aux régimes de retraite gérés par la CMR_ 
 
 Le budget de fonctionnement des Charges Communes supporte, également, certaines dépenses liées aux régimes de retraite gérés par la CMR, telles que le déficit du régime des pensions militaires, les allocations familiales des pensionnés, l’impact du relèvement de la pension minimale ainsi que les dépenses des régimes non contributifs. 
 
@@ -171,7 +173,7 @@ Le tableau ci-après fait ressortir les principaux versements effectués au titr
 
 
 
-4 
+4
 
 **NOTE SUR LES DEPENSES RELATIVES AUX CHARGES COMMUNES** 
 
@@ -183,7 +185,7 @@ Le tableau ci-après fait ressortir les principaux versements effectués au titr
 
 
 
-###### _I.2.3. Dépenses et charges diverses_ 
+##### _I.2.3. Dépenses et charges diverses_ 
 
 Ces dépenses portent, essentiellement, sur : 
 
@@ -195,7 +197,7 @@ Ces dépenses portent, essentiellement, sur :
 
 - Les charges afférentes aux pensions et allocations diverses (353,41 MDH). 
 
-5 
+5
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
 
@@ -226,7 +228,7 @@ Les principaux versements effectués au titre de l’année 2025, dans le cadre 
 
 
 
-6 
+6
 
 **NOTE SUR LES DEPENSES RELATIVES AUX CHARGES COMMUNES** 
 
@@ -253,7 +255,7 @@ Les principaux versements effectués au titre de l’année 2025, dans le cadre 
 
 
 
-7 
+7
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
 
@@ -301,7 +303,7 @@ Les principaux versements effectués à ladite date, au titre dudit chapitre, so
 
 
 
-#### II.2. REPARTITION DES CREDITS D’INVESTISSEMENT AU TITRE DE L’ANNEE 2025 
+### II.2. REPARTITION DES CREDITS D’INVESTISSEMENT AU TITRE DE L’ANNEE 2025 
 
 Les crédits d’investissement du budget des Charges Communes se décomposent en trois grands postes de dépenses : 
 
@@ -311,7 +313,7 @@ Les crédits d’investissement du budget des Charges Communes se décomposent e
 
 - Autres transferts. 
 
-###### _II.2.1. Transferts aux comptes spéciaux du Trésor_ 
+##### _II.2.1. Transferts aux comptes spéciaux du Trésor_ 
 
 Le chapitre d’investissement des Charges Communes supporte les transferts aux comptes spéciaux du Trésor destinés, notamment, à la mise en œuvre des stratégies et des politiques publiques, ainsi qu’à la couverture des dépenses nécessitant l’intervention du Ministère de l’Economie et des Finances pour la liquidation et la programmation des montants y afférents sur la base des données prévisionnelles des recettes, ou liés à l’existence d’engagements à moyen terme pris par ledit ministère. 
 
@@ -331,7 +333,7 @@ Le tableau suivant met en évidence les versements effectués à partir dudit ch
 
 
 
-9 
+9
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
 
@@ -348,7 +350,7 @@ _PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_
 
 
 
-###### _II.2.2. Transferts aux établissements et entreprises publics_ 
+##### _II.2.2. Transferts aux établissements et entreprises publics_ 
 
 Il s’agit d’opérations afférentes à des apports en capital et à des avances en compte courant d'associés, de fonds de dotation ainsi que de dépenses liées à la participation du Ministère de l’Economie et des Finances au financement de certains projets structurants, à l’appui, dans un cadre conventionnel, à la mise en œuvre de plusieurs stratégies sectorielles, à la restructuration de certains établissements publics et à l’apurement de leurs dettes. 
 
@@ -371,7 +373,7 @@ Les principaux transferts aux établissements et entreprises publics, effectués
 
 
 
-10 
+10
 
 **NOTE SUR LES DEPENSES RELATIVES AUX CHARGES COMMUNES** 
 
@@ -392,7 +394,7 @@ Les principaux transferts aux établissements et entreprises publics, effectués
 
 
 
-###### _II.2.3. Autres transferts_ 
+##### _II.2.3. Autres transferts_ 
 
 Les principaux versements effectués à ce titre, portent sur les opérations suivantes : 
 
@@ -400,17 +402,17 @@ Les principaux versements effectués à ce titre, portent sur les opérations su
 
 - Ristournes d’intérêts sur les prêts à la construction et autres ristournes (137,59 MDH). 
 
-11 
+11
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE 2027_ 
 
 <u>CHAPITRE III : PRESENTATION DU PROJET DE BUDGET</u> DES CHARGES COMMUNES AU TITRE DE L'ANNEE 2027 
 
-#### III.1. VOLUME GLOBAL 
+### III.1. VOLUME GLOBAL 
 
 Les crédits prévus par le projet de loi de finances pour l’année 2027 au titre des chapitres de fonctionnement et d’investissement du budget des Charges Communes, s’élèvent, respectivement, à 63.957 MDH et 48.997 MDH. 
 
-#### III.2. CREDITS DE FONCTIONNEMENT 
+### III.2. CREDITS DE FONCTIONNEMENT 
 
 Le montant des crédits programmés au chapitre de fonctionnement des Charges Communes pour l’année 2027, affiche une augmentation de 18.504 MDH, soit environ 41%, par rapport aux crédits ouverts par la loi de finances pour l’année 2026. 
 
@@ -442,7 +444,7 @@ Ce montant est ventilé comme suit :
 
 
 
-#### III.3. CREDITS D’INVESTISSEMENT 
+### III.3. CREDITS D’INVESTISSEMENT 
 
 Le montant des crédits prévus au titre du chapitre d’investissement des Charges Communes pour l’année 2027, s’élève à 48.997 MDH, en hausse de 4.915 MDH ou d’environ 11% par rapport à l’année 2026. 
 
@@ -458,7 +460,7 @@ Les principales composantes du chapitre d’investissement des Charges Communes 
 
    - Fonds de développement territorial intégré : 4.300 MDH ; 
 
-12 
+12
 
 **NOTE SUR LES DEPENSES RELATIVES AUX CHARGES COMMUNES** 
 
@@ -500,17 +502,17 @@ Cette rubrique comprend, essentiellement, les transferts pour le financement des
 
 - Prise en charge par l’Etat du crédit TVA détenu par l’ADM (341,65 MDH), l’ONEE (333 MDH) et l’ONCF (285,49 MDH). 
 
-13 
+13
 
 Le Ministère de l’Economie, des Finances 
 
 et de la Performance publique met à votre disposition plusieurs canaux de communication et d’information 
 
-##### **Le Portail Internet** 
+#### **Le Portail Internet** 
 
 www.finances.gov.ma 
 
-##### **La page Facebook** 
+#### **La page Facebook** 
 
 www.facebook.com/financesmaroc 
 
@@ -520,5 +522,4 @@ www.x.com/financesmaroc
 
 **Le site LOF** 
 
-http://lof.finances.gov.ma 
-
+http://lof.finances.gov.ma

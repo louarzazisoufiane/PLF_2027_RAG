@@ -1,16 +1,18 @@
-Royaume du Maroc 
+Royaume du Maroc
+Ministère de l’Economie, des Finances
+et de la Performance Publique
+Projet de Loi de Finances
+pour l'année budgétaire
+2027
+RAPPORT SUR
+LES COMPTES SPECIAUX
+DU TRÉSOR
 
-Ministère de l’Economie, des Finances et de la Performance Publique 
-
-Projet de Loi de Finances pour l’année budgétaire 2027 
-
-# RAPPORT SUR LES COMPTES SPECIAUX DU TRÉSOR 
-
-RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR 
+RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
-## Sommaire 
+# Sommaire 
 
 |**INTRODUCTION .................................................................................................................................................................. 1**|
 |---|
@@ -57,7 +59,7 @@ RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR
 
 
 
-1 
+1
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -98,11 +100,11 @@ _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_
 
 2 
 
-2 
+2
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
-##### **INTRODUCTION** 
+#### **INTRODUCTION** 
 
 Les Comptes Spéciaux du Trésor (CST) constituent un instrument important pour le financement des politiques publiques et stratégies sectorielles en leur assurant des recettes affectées et une souplesse dans la gestion desdites recettes. Ils permettent, également, aux pouvoirs publics d’agir rapidement et de mobiliser les financements nécessaires en cas d’urgence et de nécessité impérieuse et imprévue. 
 
@@ -122,7 +124,7 @@ Les CST, et en particulier les Comptes d’Affectation Spéciale (CAS), constitu
 
 Dans la même perspective, d’autres CAS, tels que le « Fonds spécial routier », le « Fonds d’accompagnement des réformes du transport routier urbain et interurbain » et le « Fonds de développement agricole », contribuent au renforcement des infrastructures, à la modernisation des transports et au développement agricole. 
 
-1 
+1
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -158,15 +160,15 @@ Le présent rapport se propose de mettre en évidence l’importance des CST dan
 
 (*) : Milliards de Dirhams. 
 
-2 
+2
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
-##### **CHAPITRE I - LES COMPTES SPECIAUX DU TRESOR : QUEL BILAN ?** 
+#### **CHAPITRE I - LES COMPTES SPECIAUX DU TRESOR : QUEL BILAN ?** 
 
 Le présent chapitre retrace, dans un premier temps, l’évolution du nombre des CST depuis 2007 et fait ressortir, ensuite, les tendances d’évolution des recettes et des dépenses des différentes catégories des CST au cours de la période 2023-2025. en parallèle, il se propose de mettre en relief les efforts déployés par l’Etat au cours des vingt dernières années pour assurer l’assainissement des CST et la rationalisation du recours à ces comptes 
 
-#### **SECTION I - EVOLUTION DU NOMBRE DES COMPTES SPECIAUX DU TRESOR** 
+### **SECTION I - EVOLUTION DU NOMBRE DES COMPTES SPECIAUX DU TRESOR** 
 
 Le nombre des CST a connu une baisse notable durant les vingt dernières années, passant de 80 en 2007 à 70 en 2026. Cette tendance baissière est due, essentiellement, aux efforts entrepris par l’Etat en matière de rationalisation desdits comptes. 
 
@@ -203,7 +205,7 @@ Le graphique ci-après détaille la ventilation, par ordonnateur et par catégor
 <!-- Start of picture text -->
 VENTILATION DES CAS PAR ORDONNATEUR<br>ET PAR CATEGORIE DE COMPTES AU TITRE DE l'ANNEE 2026<br>3<br>CAS CF CDD CAOI COM<br>3<br>4<br>1<br>15<br>1 12<br>10<br>2<br>5<br>4<br>2 2 2 2 2<br>Intérieur Justice Autres<br>Economie et Finances Agriculture, Pêche Maritime, Développement Rural et Eaux et Forêts  Chef du Gouvernement Administration de la Défense Nationale Jeunesse, Culture et Communication Equipement et Eau Transition Energétique et Développement Durable<br><!-- End of picture text -->
 
-#### **SECTION II - RESSOURCES ET CHARGES DES COMPTES SPECIAUX DU TRESOR** 
+### **SECTION II - RESSOURCES ET CHARGES DES COMPTES SPECIAUX DU TRESOR** 
 
 ###### **_1.2.1. Comptes d’affectation spéciale_** 
 
@@ -233,17 +235,16 @@ Le montant total des recettes réalisées par les CAS s’élève à 407.252 MDH
 
 Le graphique ci-après montre l’évolution des recettes des CAS, par nature, au cours de la période considérée : 
 
+**EVOLUTION DES RECETTES DES CAS PAR NATURE AU COURS DE LA PERIODE 2023-2025 (EN MDH)** 
+
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES DES CAS PAR NATURE<br>AU COURS DE LA PERIODE 2023-2025 (EN MDH)<br>198 324<br>179 428<br>150 345<br>143 971<br>128 978<br>115 431<br>64 956<br>49 844 48 794<br>h<br>2023 2024 2025<br>■ Solde de recettes reporté ■ Recettes propres ■ Dotations budgétaires<br><!-- End of picture text -->
+198 324<br>179 428<br>150 345<br>143 971<br>128 978<br>115 431<br>64 956<br>49 844 48 794<br>2023 2024 2025<br>■ Solde de recettes reporté Recettes propres ■ Dotations budgétaires<br><!-- End of picture text -->
 
 (**) : Millions de Dirhams. 
 
-
-
-<!-- Start of picture text -->
-5<br><!-- End of picture text -->
+5
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -287,7 +288,7 @@ Il importe, également, de souligner que les comptes gérés par les sept minist
 
 - Le Ministère de l’Agriculture, de la Pêche Maritime, du Développement Rural et des Eaux et Forêts : 2.305 MDH (1,60%) ; 
 
-6 
+6
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -417,7 +418,7 @@ L’excédent dégagé à fin 2025 a été réalisé, à hauteur de 98% de son m
 
 
 
-9 
+9
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -454,7 +455,7 @@ Il importe de signaler que seulement trois opérations de remboursement ont ét�
 
 L’encours total des comptes de financement a enregistré un net repli au titre de la période considérée, passant de 90,79 MDH en 2023 à 47,72 MDH en 2024 et à 34,06 MDH en 2025, soit une baisse annuelle moyenne de près de 39%. 
 
-10 
+10
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -501,7 +502,7 @@ Les montants de recouvrement des prêts (principal et intérêts) programmés en
 
 Ces comptes décrivent les versements et les remboursements au titre de la participation du Maroc aux organismes internationaux. Ils sont regroupés en trois comptes : 
 
-11 
+11
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -543,7 +544,7 @@ Ce compte comptabilise les opérations afférentes à l’adhésion du Royaume d
 
 
 
-12 
+12
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -589,7 +590,7 @@ Cette catégorie de comptes décrivant des mouvements de fonds d’origine moné
 
 Les réalisations des comptes d’opérations monétaires pour la période 2023-2025, se présentent comme suit : 
 
-13 
+13
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -645,13 +646,13 @@ Ainsi, la contribution des CAS dans les différentes politiques publiques écono
 
 
 <!-- Start of picture text -->
-64 268<br>60 171<br>56 322<br>47 907<br>43 149<br>30 022 30 867<br>22 224 21 160<br>16 098 16 648<br>13 124<br>11 489 _<br>9 154<br>7 540 7 134 6 462 7 609<br>2023 2024 2025<br>■ DEVELOPPEMENT TERRITORIAL PROMOTION ECONOMIQUE ET FINANCIERE ■ DEVELOPPEMENT HUMAIN ET SOCIAL<br>■ RENFORCEMENT DES INFRASTRUCTURES ■ DEVELOPPEMENT RURAL, AGRICOLE ■ AUTRES DOMAINES<br>ET DE LA PECHE<br><!-- End of picture text -->
+64 268<br>60 171<br>56 322<br>47 907<br>43 149<br>30 022 30 867<br>22 224 21 160<br>16 098 16 648<br>13 124<br>11 489<br>9 154<br>7 540 7 134 6 462 7 609<br>2023 2024 2025<br>■ DEVELOPPEMENT TERRITORIAL ■ PROMOTION ECONOMIQUE ET FINANCIERE ■ DEVELOPPEMENT HUMAIN ET SOCIAL<br>■ RENFORCEMENT DES INFRASTRUCTURES DEVELOPPEMENT RURAL, AGRICOLE ■ AUTRES DOMAINES<br>ET DE LA PECHE<br><!-- End of picture text -->
 
-#### **SECTION I - DEVELOPPEMENT TERRITORIAL** 
+### **SECTION I - DEVELOPPEMENT TERRITORIAL** 
 
 Les dépenses des CAS intervenant dans le domaine du développement territorial, qui concernent, essentiellement, le compte « Part des collectivités territoriales dans le produit de la TVA », « le Fonds spécial relatif au produit des parts d’impôts affectées aux régions » et « le Fonds 
 
-15 
+15
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -662,7 +663,7 @@ de solidarité interrégionale », représentent 36,5% du total des dépenses ex
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* AU TITRE DE LA  EVOLUTION DES DEPENSES AU TITRE DE LA PERIODE<br>PERIODE 2023-2025 (EN MDH) 2023-2025 (EN MDH)<br>85 598<br>54 495<br>66 396<br>54 068 37 878<br>33 347<br>10 427 10 634 10 420 8 794   1 9 214   9 252<br>4 32559 4 31659 4 500 59 1 009  0   815  0   521  0<br>1<br>2023 2024 2025 2023 2024 2025<br>■ Part des collectivités territoriales dans le produits de la TVA ■ Parts des collectivités territoriales dans le produits de la TVA<br>Fonds spécial relatif au produits des parts d'impôts affectées aux Fonds spécial relative au produits des parts d'impôts affectées aux<br>régions régions<br>■ Fonds de solidarité interrégionale ■ Fonds de solidarité interrégionale<br>■ Fonds de mise à niveau sociale Fonds de mise à niveau sociale<br><!-- End of picture text -->
+EVOLUTION DES RECETTES* AU TITRE DE LA  EVOLUTION DES DEPENSES AU TITRE DE LA PERIODE<br>PERIODE 2023-2025 (EN MDH) 2023-2025 (EN MDH)<br>85 598<br>54 495<br>66 396<br>54 068 37 878<br>33 347<br>10 427 10 634 10 420 8 794   9 214   9 252<br>4 32559 4 31659 4 500 59 1 009  0   815  0   521  0<br>2023 2024 2025 2023 2024 2025<br>Part des collectivités territoriales dans le produits de la TVA ■ Parts des collectivités territoriales dans le produits de la TVA<br>■ Fonds spécial relatif au produits des parts d'impôts affectées aux ■ Fonds spécial relative au produits des parts d'impôts affectées aux<br>régions régions<br>■ Fonds de solidarité interrégionale Fonds de solidarité interrégionale<br>Fonds de mise à niveau sociale Fonds de mise à niveau sociale<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
@@ -689,7 +690,7 @@ Les programmes d’emploi de ce CAS, établi sur la période 2023-2025, compte t
 
 
 
-16 
+16
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -762,7 +763,7 @@ La répartition des crédits programmés et des versements réalisés, par régi
 
 Le plafond des charges prévu par la loi de finances pour l’année 2026 au niveau dudit compte s’est établi à 9 MMDH. Ces crédits qui contribuent au financement des interventions des régions dans les divers domaines relevant de leurs compétences, se réparti, comme suit : 
 
-18 
+18
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -833,28 +834,27 @@ Par ailleurs, le plafond des charges dudit Fonds est maintenu en 2026 au même n
 
 De plus, le plafond des charges dudit Fonds devrait dépasser 1.000 MDH à compter de 2027, compte tenu de l’augmentation des transferts de l’État aux régions prévue par la loi organique n° 031.26, modifiant et complétant la loi organique n° 111.14 relative aux régions. 
 
-#### **SECTION II - DEVELOPPEMENT HUMAIN ET SOCIAL** 
+### **SECTION II - DEVELOPPEMENT HUMAIN ET SOCIAL** 
 
 Les recettes et les dépenses effectuées par les comptes intervenant dans le domaine du développement humain et social, au titre de la période 2023-2025, se présentent comme suit : 
 
+###### **RECETTES* ET DEPENSES REALISEES AU NIVEAU DES CAS INTERVENANT DANS LE DOMAINE HUMAIN ET SOCIAL AU TITRE DE L'EXCERCICE 2025 (EN MDH)** 
+
 
 
 <!-- Start of picture text -->
-RECETTES* ET DEPENSES REALISEES AU NIVEAU DES CAS INTERVENANT DANS LE DOMAINE HUMAIN ET SOCIAL<br>AU TITRE DE L'EXCERCICE 2025 (EN MDH)<br>42 274<br>Fonds d'appui à la protection sociale et à la cohésion sociale<br>37 671<br>Fonds spécial pour la gestion des effets du tremblement de terre 12 181<br>ayant touché le Royaume du Maroc 6 047<br>Fonds solidarité pour le soutien au logement, d'habitat et intégration 10 357<br>urbaine 6 870<br>Fonds de soutien à l'initiative nationale pour le développement 7 763<br>humain 3 103<br>1 6 599<br>Autres CAS<br>1 960<br>Financement des dépenses d'équipement et  de la lutte contre le 4 407<br>chômage 2 676<br>2 895<br>口<br>Fonds spécial de la pharmacie centrale<br>1 761<br>Fonds spécial pour la gestion de la pandémie du Coronavirus "Le 口 2 291<br>Covid-19" 84<br>Recettes ■ Dépenses<br><!-- End of picture text -->
+42 274<br>Fonds d'appui à la protection sociale et à la cohésion sociale<br>37 671<br>Fonds spécial pour la gestion des effets du tremblement de terre 12 181<br>ayant touché le Royaume du Maroc 6 047<br>Fonds solidarité pour le soutien au logement, d'habitat et intégration 10 357<br>urbaine 6 870<br>Fonds de soutien à l'initiative nationale pour le développement 7 763<br>humain 1 3 103<br>6 599<br>Autres CAS<br>1 960<br>Financement des dépenses d'équipement et  de la lutte contre le 4 407<br>chômage H 2 676<br>2 895<br>Fonds spécial de la pharmacie centrale<br>1 761<br>Fonds spécial pour la gestion de la pandémie du Coronavirus "Le 口 2 291<br>Covid-19" 84<br>■ Recettes ■ Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
-
-
-<!-- Start of picture text -->
-20<br><!-- End of picture text -->
+20
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DES CAS INTERVENANT DANS LE DOMAINE HUMAIN ET SOCIAL AU TITRE DE LA<br>PERIODE 2023-2025 (EN MDH)<br>87 581   88 767<br>74 469<br>60 171<br>56 322<br>30 022<br>2023 2024 2025<br>■ Recettes Dépenses<br><!-- End of picture text -->
+EVOLUTION DES RECETTES* ET DES DEPENSES DES CAS INTERVENANT DANS LE DOMAINE HUMAIN ET SOCIAL AU TITRE DE LA<br>PERIODE 2023-2025 (EN MDH)<br>87 581   88 767<br>74 469<br>60 171<br>56 322<br>30 022<br>2023 2024 2025<br>Recettes ■ Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
@@ -865,7 +865,7 @@ Les recettes et les dépenses du Fonds de soutien à l’INDH ont enregistré, a
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DU FSINDH AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>10 163,55<br>8 582,16<br>7 762,77<br>4 316,93<br>3 581,44<br>3 103,22<br>2023 2024 2025<br>Recettes ■ Dépenses<br><!-- End of picture text -->
+EVOLUTION DES RECETTES* ET DES DEPENSES DU FSINDH AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>10 163,55<br>8 582,16<br>7 762,77<br>4 316,93<br>3 581,44<br>3 103,22<br>L<br>2023 2024 2025<br>■ Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
@@ -930,7 +930,7 @@ La répartition des projets réalisés par année et par région, se présente c
 
 
 
-22 
+22
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -978,7 +978,7 @@ La répartition des projets réalisés par année et par région, se présente c
 
 Par ailleurs, en termes de dépenses consenties, les personnes en situation de handicap sans ressources ont bénéficié de 36% du montant global, suivies des femmes en situation de grande 
 
-23 
+23
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -988,7 +988,7 @@ précarité avec 19%. Quant aux enfants abandonnés, aux enfants en situation de
 
 Ce programme a permis la réalisation de 12.427 projets pour un coût global de 2,80 MMDH, dont la contribution du Fonds de soutien à l’INDH est de 2,10 MMDH, ayant bénéficié à plus de 465.000 personnes à l’échelle nationale. 
 
-#####  **Plateformes des jeunes :** 
+####  **Plateformes des jeunes :** 
 
 Durant la période 2023-2025, 45 plateformes des jeunes ont été mises en place au niveau national, pour un coût global de 416 MDH, dont 346 MDH a été financé par le Fonds de soutien à l’INDH. 
 
@@ -998,29 +998,29 @@ En termes de performance, la région Casablanca-Settat s’accapare 34% des réa
 
 Par ailleurs, il est à signaler que 16 espaces d'accompagnement ont été créés par des prestataires de services d'entrepreneuriat dans le cadre du projet mis en œuvre par l'INDH dans la région de Marrakech-Safi, en partenariat avec la Banque Mondiale. 
 
-#####  **Aide à l’employabilité des jeunes :** 
+####  **Aide à l’employabilité des jeunes :** 
 
 Quant à l’axe « Aide à l’employabilité des jeunes », 223 projets ont été initiés sur la période 2023-2025 avec un budget total de 162 MDH, financé à hauteur de 128 MDH par ledit Fonds. Ces projets ont concerné la formation technique et comportementale des jeunes ainsi que l’accompagnement à l’insertion dans le but d’améliorer leur employabilité. 
 
 Par ailleurs, le nombre des jeunes accompagnés a atteint 19.478 jeunes formés, 5.783 insérés en emploi et 2.843 en stage. 
 
-#####  **Appui à l’entrepreneuriat chez les jeunes :** 
+####  **Appui à l’entrepreneuriat chez les jeunes :** 
 
 Dans le cadre de la mise en œuvre de l’axe « Appui à l’entrepreneuriat chez les jeunes », 8.929 projets ont été réalisés sur la période 2023-2025 pour un investissement de 1,4 MMDH, dont la part de l’lNDH s’élève à 1,1 MMDH. le nombre des jeunes accompagnés a atteint 37.642 jeunes (28.055 en pré-création et 9.587 en post-création) au total dans toutes les régions du Royaume. Ainsi, 43% des projets appuyés sont portés par des femmes. Cela témoigne de l’intérêt porté par l’INDH à l’entrepreneuriat féminin en favorisant l’approche genre dans la perspective d’assurer davantage d’inclusion socio-économique. 
 
-#####  **Amélioration du revenu :** 
+####  **Amélioration du revenu :** 
 
 Au cours de la période 2023-2025, 11 études de diagnostic des chaines de valeur ont été réalisées dans le cadre de l'axe « Amélioration du revenu » pour un coût global de 3,42 MDH pris en charge totalement par l’INDH. Ces études ont permis d’identifier les chaînes de valeurs porteuses d’opportunités de croissance et d’emplois pour les jeunes. 
 
 Dans ce sens, 3.219 projets ont été validés par les Comités Préfectoral de Développement Humain (CPDHs) pour un montant total de 788 MDH, dont la part de l’lNDH s’élève à 482 MDH. 
 
-24 
+24
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
 ###### **4. Impulsion du capital humain des générations montantes :** 
 
-#####  **Santé de la mère et de l’enfant :** 
+####  **Santé de la mère et de l’enfant :** 
 
 La santé et la nutrition maternelles et infantiles sont des composantes fondamentales du développement de la petite enfance. En effet, l’investissement dans cet axe revêt une importance capitale pour l’impulsion du capital humain des générations montantes en luttant contre les barrières et freins de développement, source des inégalités d’accès aux soins. 
 
@@ -1028,23 +1028,23 @@ Dans ce sens, la période 2023-2025 a connu la mobilisation d’une enveloppe bu
 
 En outre, les domaines d’intervention de cet axe concernent principalement la construction, l’équipement, et l’appui au fonctionnement des « projets de Dar Al Oumouma », l’acquisition des ambulances et unités mobiles, l’appui aux structures de santé à travers les aménagements et l’acquisition des équipements médicaux, la mise en place du dispositif de santé communautaire au niveau des régions ciblées et l’organisation des caravanes médicales spécialisées et campagnes de sensibilisation en milieu rural et lutter contre l’enclavement de la population au niveau des déserts médicaux . 
 
-#####  **Appui à la généralisation du préscolaire dans le milieu rural :** 
+####  **Appui à la généralisation du préscolaire dans le milieu rural :** 
 
 Dans le cadre de cet axe et durant la période 2023-2025, 2.780 unités de préscolaire ont été programmées en milieu rural. Les crédits budgétaires mobilisés pour la création, l’équipement et le fonctionnement de ces unités de préscolaire ont atteint de 1,08 MMDH. 
 
 La mise en œuvre de ces plans d’action durant la même période a permis l’ouverture de 2.247 unités préscolaires, totalisant 2.365 salles de classe. Par ailleurs, 539 unités préscolaires sont en cours de réalisation. 
 
-#####  **Appui à l’éducation et à l’épanouissement de l’enfant :** 
+####  **Appui à l’éducation et à l’épanouissement de l’enfant :** 
 
 Durant la période 2023-2025, 3.923 projets et actions ont été réalisés pour un montant total de 2.302 MDH, financés à concurrence de 2.039 MDH par l’lNDH. 
 
 Par ailleurs, pour atténuer les disparités géographiques et socio-économiques entravant la scolarité des élèves, 1.480 projets et actions ont été programmés à Dar Talib/Taliba ainsi que l’acquisition d’environ 1.100 véhicules supplémentaires de transport scolaire, améliorant l’accès à l’éducation, notamment pour les filles en milieu rural. Environ 400.000 élèves ont bénéficié de soutien scolaire gratuit en langue française et en mathématiques, tandis que des activités parascolaires, culturelles, sportives et d'épanouissement des enfants et des jeunes, ainsi que la promotion de la santé scolaire pour les élèves relevant du milieu rural et périurbain par le biais de sensibilisation et de dépistage des problèmes de santé, en collaboration avec les parties prenantes concernées. 
 
-#####  **Initiative Royale « un million de cartables » :** 
+####  **Initiative Royale « un million de cartables » :** 
 
 L’initiative Royale « un million de cartables », lancée par Sa Majesté Le Roi Mohammed VI, Que Dieu L’Assiste en 2008 pour donner une forte impulsion à la généralisation de l’enseignement fondamental et résorber les inégalités en matière d’accès à la scolarisation, laisse apparaitre un impact notoire et des échos favorables auprès d’environ 4,7 millions d’élèves ayant bénéficié de cartables, livres et fournitures scolaires au titre de l’année scolaire 2023/2024, avec un coût s’élevant à 560 MDH. 
 
-25 
+25
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -1073,7 +1073,14 @@ L’évolution des recettes et des dépenses du Fonds solidarité pour le soutie
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DU FONFS AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>10 356,92<br>9 195,51<br>6 870,33<br>6 277,17<br>5 811,45<br>2 644,88<br>L<br>1<br>2023 2024 2025<br>Recettes Dépenses<br>(*) Compte tenu du solde reporté.<br>26<br><!-- End of picture text -->
+EVOLUTION DES RECETTES* ET DES DEPENSES DU FONFS AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>10 356,92<br>9 195,51<br>6 870,33<br>6 277,17<br>5 811,45<br>2 644,88<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+
+(*) Compte tenu du solde reporté. 
+
+
+
+<!-- Start of picture text -->
+26<br><!-- End of picture text -->
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -1082,17 +1089,11 @@ Quant à la contribution de ce Fonds aux divers programmes de la politique de l�
 
 
 <!-- Start of picture text -->
-(EN MDH)<br>6 870,33<br>5 811,45<br>1<br>一1<br>1<br>4 117,87<br>一<br>2 644,86<br>2 804,98<br>2 484,92<br>1 989,31<br>1 736,02<br>1 150,45<br>763,15<br>159,55 1_ 120<br>0,39 0 0<br>2023 2024 2025<br>Programmes consolidés Programme d'Aide au Logement Programme de Réhabilitation Nouveaux programmes Total programmes<br>des Zones Sinistrées par les<br> Inondations du Sud Est<br>du Royaume<br><!-- End of picture text -->
-
-A rappeler que l’intervention dudit Fonds, s’articule autour de deux orientations majeures, à savoir : 
-
-- La prévention contre la prolifération de l’habitat insalubre à travers la réalisation des programmes de logements sociaux, l’octroi de l’aide au logement, ainsi que l’aménagement foncier ; 
-
-- L’éradication de l’habitat insalubre et l’amélioration du cadre d’habitabilité à travers la réalisation de programmes de résorption de bidonvilles, de restructuration des quartiers non réglementaires et sous équipés, de réhabilitation des tissus anciens et traitement de l’habitat menaçant ruine et la réalisation de projets intégrés en adoptant l’échelle de la ville comme unité de programmation. 
+(EN MDH)<br>6 870,33<br>5 811,45<br>4 117,87<br>2 644,86<br>1<br>2 804,98<br>2 484,92<br>1 989,31<br>1 736,02<br>1 150,45<br>763,15<br>159,55 120<br>0,39 0 0<br>2023 2024 2025<br>Programmes consolidés Programme d'Aide au Logement Programme de Réhabilitation Nouveaux programmes Total programmes<br>des Zones Sinistrées par les<br> Inondations du Sud Est<br>du Royaume<br>A rappeler que l’intervention dudit Fonds, s’articule autour de deux orientations majeures, à<br>savoir :<br> La prévention contre la prolifération de l’habitat insalubre à travers la réalisation des<br>programmes de logements sociaux, l’octroi de l’aide au logement, ainsi que<br>l’aménagement foncier ;<br> L’éradication de l’habitat insalubre et l’amélioration du cadre d’habitabilité à travers la<br>réalisation de programmes de résorption de bidonvilles, de restructuration des quartiers<br>non réglementaires et sous équipés, de réhabilitation des tissus anciens et traitement de<br>l’habitat menaçant ruine et la réalisation de projets intégrés en adoptant l’échelle de la ville<br>comme unité de programmation.<br><!-- End of picture text -->
 
 La mise en œuvre de ces deux programmes s’effectue dans le cadre de conventions de partenariat associant plusieurs intervenants et reposant sur une mobilisation coordonnée des financements. À fin septembre 2026, le montant cumulé des engagements financiers de l’Etat au titre de ces conventions s’élève à près de 22 MMDH. Le FSSLHIU en assure près de 80 %, soit une contribution globale de l’ordre de 17 MMDH. Ces engagements correspondent à des crédits 
 
-27 
+27
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -1110,16 +1111,18 @@ Au titre de l’année 2027, les recettes prévisionnelles du FSSLHIU se chiffre
 
 Les recettes et les dépenses du Fonds de soutien des prix de certains produits alimentaires (FSP) ont connu un accroissement annuel moyen, respectivement, de 4,65% et 15,42% durant la période 2023-2025. 
 
+**EVOLUTION DES RECETTES* ET DES DEPENSES DU FSP AU TITRE DE LA PERIODE 2023-2025 (EN MDH)** 
+
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DU FSP AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>928,99<br>837,39<br>764,60<br>401 401<br>301<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+928,99<br>837,39<br>764,60<br>401 401<br>1<br>301<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
 La baisse des recettes cumulées entre les années 2024 et 2025, résulte principalement du repli des recettes de l'année, qui se sont établies à 309 MDH en 2025 contre 465 MDH en 2024, soit un recul de 34%. Cette évolution s'explique par l’effet combiné de la baisse du cours CIF à 
 
-28 
+28
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -1130,25 +1133,22 @@ En raison de la poursuite de la baisse de la charge de compensation des produits
 
 
 <!-- Start of picture text -->
-CONTRIBUTION DU FSP A LA COMPENSATION DES PRODUITS ALIMENTAIRES AU TITRE DE LA PERIODE 2010-2025<br>(EN%)<br>16%<br>8% 8% 8%<br>7% 7%<br>6% 6% 6%<br>5% 5%<br>4%<br>3%<br>2%<br>1% _ illu<br>0% M<br>2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
+CONTRIBUTION DU FSP A LA COMPENSATION DES PRODUITS ALIMENTAIRES AU TITRE DE LA PERIODE 2010-2025<br>(EN%)<br>16%<br>8% 8% 8%<br>7% 7%<br>6% 6% 6%<br>5% 5%<br>4%<br>3%<br>2%<br>1%<br>0%<br>2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025<br><!-- End of picture text -->
 
 ###### **_2.2.4. Financement des dépenses d’équipement et de la lutte contre le chômage (Promotion Nationale)_** 
 
 L’évolution des recettes et des dépenses effectuées par ce compte au cours de la période 20232025, se présente comme suit : 
 
-
-
-<!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DU FONDS AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br><!-- End of picture text -->
+**EVOLUTION DES RECETTES* ET DES DEPENSES DU FONDS AU TITRE DE LA PERIODE 2023-2025 (EN MDH)** 
 
 
 
 <!-- Start of picture text -->
-4 406,70<br>3 821,44<br>3 223,58<br>2 675,52<br>2 279,56<br>2 000,61<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+4 406,70<br>3 821,44<br>3 223,58<br>2 675,52<br>2 279,56<br>2 000,61<br>2023 2024 2025<br>■ Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
-29 
+29
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -1187,7 +1187,7 @@ L’évolution des recettes et des dépenses du Fonds spécial de la pharmacie c
 
 (*) Compte tenu du solde reporté. 
 
-30 
+30
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -1267,7 +1267,7 @@ Les crédits destinés à l’achat groupé des médicaments des Centres Hospita
 
 
 
-32 
+32
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -1278,7 +1278,7 @@ L’évolution des recettes et des dépenses du Fonds spécial pour la promotion
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DU FSPSPC AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>1 981,94<br>883,12<br>351,46 392,40<br>158,66 122,31<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+EVOLUTION DES RECETTES* ET DES DEPENSES DU FSPSPC AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>1 981,94<br>883,12<br>351,46 392,40<br>158,66 122,31<br>2023 2024 2025<br>■ Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
@@ -1299,7 +1299,7 @@ Le bilan des crédits engagés, y compris ceux reportés des années antérieurs
 
 
 
-33 
+33
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -1328,7 +1328,7 @@ Durant la période 2023-2025, le FNAC a contribué au financement des principale
 
 Ainsi, les engagements dudit Fonds, durant la période 2023-2025, se présentent comme suit : 
 
-34 
+34
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -1374,7 +1374,7 @@ Les recettes et les dépenses du Fonds d’appui à la protection sociale et à 
 <!-- Start of picture text -->
 42 274,26<br>37 670,50<br>34 269,26<br>31 960,14<br>23 065,08<br>13 544,55<br>2023 2024 2025<br>Recettes Dépenses<br>Compte tenu du solde reporté.<br>35<br><!-- End of picture text -->
 
-(*) Compte tenu du solde reporté. 
+(*) Compte tenu du solde reporté.
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -1407,7 +1407,7 @@ L’évolution des recettes et des dépenses du Fonds de soutien aux services de
 
 
 <!-- Start of picture text -->
-15,33<br>9,37<br>1<br>7,02 2,61<br>5,96<br>1<br>2,13<br>2023 2024 2025<br>_ Recettes Dépenses<br><!-- End of picture text -->
+15,33<br>9,37<br>7,02 2,61<br>5,96<br>2,13<br>2023 2024 2025<br>Recettes -1- Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
@@ -1415,11 +1415,6 @@ L’évolution des recettes et des dépenses du Fonds de soutien aux services de
 
 <!-- Start of picture text -->
 36<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-_<br><!-- End of picture text -->
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -1455,7 +1450,7 @@ Le bilan des réalisations durant la période 2023-2026 (jusqu’au 31 mai 2026)
 
 L’évolution des recettes et des dépenses du Fonds spécial de soutien à l’action culturelle et sociale au profit des marocains résidant à l’étranger et des affaires de la migration, durant la période 2023-2025, se présente comme suit : 
 
-37 
+37
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -1464,18 +1459,10 @@ _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_
 <!-- Start of picture text -->
 EVOLUTION DES RECETTES* ET DES DEPENSES DU FONDS AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br><!-- End of picture text -->
 
-
-
-<!-- Start of picture text -->
-57,40<br>49,73 50,55<br>31,66<br>29,18<br>24,19<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
-
-###### (*) compte tenu du solde reporté. 
-
-Le bilan des programmes réalisés et les programmes financés par ledit Fonds durant la période 2023-2025, se présente comme suit : 
-
-||||**(En MDH)**|
+|**49,73**<br>**50,55**<br>**24,19**<br>**29,18**<br>**2023**<br>**2024**<br>1|**57,40**<br><br>|**31,66**<br>**2025**<br>||
 |---|---|---|---|
-|**Programmes réalisés**|**2023**|**2024**|**2025**|
+|**Recettes**<br>**Dépenses**<br>■<br>■||||
+|) compte tenu du solde reporté.<br>e bilan des programmes réalisés et les programmes financés<br>023-2025, se présente comme suit :<br> <br>**Programmes réalisés**|par ledit F<br> <br>**2023**|onds dura<br> <br>**2024**|nt la périod<br> **(En MDH)**<br>**2025**|
 |**Programme de soutien des centres culturels à l’étranger**|**11,00**|**11,80**|**11,00**|
 |**Actions de communication relatives à l’action culturelle et sociale en faveur**<br>**des Marocains Résidant à l’Etranger (MRE)**|**10,00**|**8,00**|**10,00**|
 |**Programme des universités culturelles**|**6,00**|**5,00**|**6,50**|
@@ -1484,6 +1471,10 @@ Le bilan des programmes réalisés et les programmes financés par ledit Fonds d
 |**Festivités et cérémonies officielles**|**3,00**|**3,60**|**4,50**|
 
 
+
+###### (*) compte tenu du solde reporté. 
+
+Le bilan des programmes réalisés et les programmes financés par ledit Fonds durant la période 2023-2025, se présente comme suit : 
 
 ###### **_2.2.11. Fonds spécial pour la gestion des effets du tremblement de terre ayant touché le Royaume du Maroc_** 
 
@@ -1525,7 +1516,7 @@ Par ailleurs, les frais de gestion de la CNRA, pris en charge par l’Etat, jusq
 
 - **Financement des actions d’urgence pilotées par les Départements Ministériels concernés à partir des disponibilités du Fonds spécial pour la gestion des effets du tremblement de terre ayant touché le Royaume du Maroc:** le financement mobilisé depuis les ressources de ce Fonds au profit des actions urgentes portées par les Départements Ministériels a pu 
 
-39 
+39
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -1551,7 +1542,7 @@ L’année 2027 sera marquée essentiellement par :
 
 - L’achèvement de la réalisation du chantier relatif aux plateformes régionales de stockage des produits de   première nécessité. 
 
-#### **SECTION III - PROMOTION ECONOMIQUE ET FINANCIERE** 
+### **SECTION III - PROMOTION ECONOMIQUE ET FINANCIERE** 
 
 Neuf comptes d’affectation spéciale intervenant dans le domaine de la promotion économique et financière, ont réalisé globalement 3,7% du total des dépenses des CAS en 2025. L’évolution des recettes et des dépenses desdits CAS se présente comme suit : 
 
@@ -1594,9 +1585,9 @@ En 2025, les recettes du Fonds pour la promotion de l’emploi des jeunes (FPEJ)
 
 Quant aux dépenses, elles ont atteint 776,65 MDH en 2025, contre 1.420,76 MDH en 2024 et 1.578,65 MDH en 2023, enregistrant un baisse annuelle moyenne de 29,86%. 
 
-#####  **Domaine de l’emploi :** 
+####  **Domaine de l’emploi :** 
 
-######  **Programmes actifs de l’emploi :** 
+#####  **Programmes actifs de l’emploi :** 
 
 Le bilan de réalisation des programmes actifs de l’emploi financés par le FPEJ, en termes de nombre de bénéficiaires, pour la période 2023-2025, se présente comme suit : 
 
@@ -1612,7 +1603,7 @@ Le bilan de réalisation des programmes actifs de l’emploi financés par le FP
 
 
 
-42 
+42
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -1621,24 +1612,16 @@ Les réalisations dans le cadre du programme IDMAJ au titre de l’année 2025, 
 
 
 <!-- Start of picture text -->
-REPARTITION PAR DIPLOME REPARTITION PAR SECTEUR D'ACTIVITE<br>4%<br>1%<br>3% 7%<br>Autres 1%<br>14%<br>41%<br>Diplomés<br>Enseignement<br>Supérieur Bacheliers 44%<br>15% 38%<br>Diplomés<br>Formation<br>Professionnelle<br>33% Services ■ Industrie ■ BTP<br>■ Agriculture, Pêche ■ Education ■ Hôtellerie<br>■ Autres<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-REPARTITION PAR GENRE<br>Féminin<br>Masculin 44%<br>56%<br>ID<br><!-- End of picture text -->
+REPARTITION PAR DIPLOME REPARTITION PAR SECTEUR D'ACTIVITE<br>4%<br>1%<br>3% 7%<br>Autres 1%<br>14%<br>41%<br>Diplomés<br>Enseignement<br>Supérieur Bacheliers 44%<br>15% 38%<br>Diplomés<br>Formation<br>Professionnelle<br>33% ■ Services Industrie BTP<br>Agriculture, Pêche ■ Education Hôtellerie<br>■ Autres<br>REPARTITION PAR GENRE<br>Féminin<br>Masculin 44%<br>56%<br><!-- End of picture text -->
 
 La répartition des bénéficiaires du programme TAHFIZ dédié aux entreprises nouvellement créées se présente comme suit : 
 
 
 
 <!-- Start of picture text -->
-REPARTITION PAR GENRE REPARTITION PAR SECTEUR D'ACTIVITE<br>2% 2%<br>2%<br>8%<br>6%<br>Féminin<br>31%<br>32%<br>15%<br>Masculin<br>68% 34%<br>■ Services ■ Autres ■ BTP<br>Industrie ■ Hôtellerie ■ Education<br>■ Agriculture, Pêche ■ Non renseigné<br><!-- End of picture text -->
+REPARTITION PAR GENRE REPARTITION PAR SECTEUR D'ACTIVITE<br>2% 2%<br>2%<br>8%<br>6%<br>Féminin<br>31%<br>32%<br>15%<br>Masculin<br>68% 34%<br>Services ■ Autres ■ BTP<br>Industrie ■ Hôtellerie Education<br>■ Agriculture, Pêche ■ Non renseigné<br><!-- End of picture text -->
 
-
-
-<!-- Start of picture text -->
-43<br><!-- End of picture text -->
+43
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -1666,7 +1649,7 @@ Par ailleurs, le bilan de réalisation des programmes actifs d’emploi à fin a
 
 Les recettes réalisées par le Fonds de promotion des investissements (FPI) en 2025, compte tenu du solde reporté, s’élèvent à 2.015,07 MDH contre 2.218,74 MDH en 2024 et 1.728,81 MDH en 2023, enregistrant ainsi un accroissement annuel moyen de 7,96%. 
 
-44 
+44
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -1695,7 +1678,7 @@ Concernant l’année 2025, 57 projets ont bénéficié d’un un montant global
 
 
 
-45 
+45
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -1733,7 +1716,7 @@ Les principales dépenses imputées sur ce compte, au titre de la période 2023-
 
 
 
-46 
+46
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -1758,7 +1741,7 @@ L’évolution des recettes et des dépenses du Fonds de lutte contre la fraude 
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DU FONDS DE LUTTE CONTRE LA FRAUDE DOUANIERE AU TITRE DE LA PERIODE<br>2023-2025 (EN MDH)<br>3 725,53<br>3 164,99 3 253,67<br>1 561,50<br>1 437,84<br>1 154,94<br>1<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+EVOLUTION DES RECETTES* ET DES DEPENSES DU FONDS DE LUTTE CONTRE LA FRAUDE DOUANIERE AU TITRE DE LA PERIODE<br>2023-2025 (EN MDH)<br>3 725,53<br>3 164,99 3 253,67<br>1 561,50<br>1 437,84<br>1 154,94<br>7<br>7<br>2023 2024 2025<br>■ Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
@@ -1776,7 +1759,7 @@ Les dépenses imputées sur ce Fonds concernent les principales opérations suiv
 
 En 2025, les recettes du Fonds provenant des dépôts au trésor ont atteint, compte tenu du solde reporté, 1.008,31 MDH contre 926,70 MDH en 2024 et 786,72 MDH en 2023. Concernant les dépenses, elles ont atteint 846,36 MDH en 2025 contre 833,07 MDH en 2024 et 748,54 MDH en 2023. 
 
-47 
+47
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -1814,11 +1797,14 @@ L’évolution des recettes et des dépenses du Compte spécial des dons des pay
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DU COMPTE SPECIAL DES DONS DES PAYS DU CONSEIL DE COOPERATION GOLFE<br>AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>11 565,02<br>10 736,88<br>10 081,51<br>1<br>828,14 655,38 664,88<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+EVOLUTION DES RECETTES* ET DES DEPENSES DU COMPTE SPECIAL DES DONS DES PAYS DU CONSEIL DE COOPERATION GOLFE<br>AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>11 565,02<br>10 736,88<br>10 081,51<br>828,14 655,38 664,88<br>_<br>2023 2024 2025<br>■ Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
-48 
+
+
+<!-- Start of picture text -->
+48<br><!-- End of picture text -->
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -1845,7 +1831,7 @@ Le Fonds d’appui au financement de l’entrepreneuriat (FAFE) a été créé p
 
 Ce programme ambitionne d’apporter une solution globale à la problématique d’accès au financement, notamment des jeunes porteurs de projets des Très Petites Entreprises (TPE). Il vise, 
 
-49 
+49
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -1911,7 +1897,7 @@ EVOLUTION DES RECETTES* ET DES DEPENSES DU FSR AU TITRE DE LA PERIODE 2023-2025 
 
 (*) Compte tenu du solde reporté. 
 
-#####  **Les crédits programmés au titre de la période 2023-2025 :** 
+####  **Les crédits programmés au titre de la période 2023-2025 :** 
 
 Les crédits programmés dans le cadre du FSR au titre de la période 2023-2025, se présentent comme suit : 
 
@@ -1940,7 +1926,7 @@ Les crédits programmés dans le cadre du FSR au titre de la période 2023-2025,
 
 
 
-#####  **Le bilan des réalisations dudit Fonds au titre de l’année 2025 :** 
+####  **Le bilan des réalisations dudit Fonds au titre de l’année 2025 :** 
 
 |**Programmes**|**Nature des Travaux**|**Linéaires ou**<br>**unités**|**Montant**<br>**(En MDH)**|**Contribution**<br>**du FSR (En**<br>**MDH)**|
 |---|---|---|---|---|
@@ -1954,11 +1940,11 @@ Les crédits programmés dans le cadre du FSR au titre de la période 2023-2025,
 
 
 
-53 
+53
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
-#####  **Les opérations programmées au titre de l’année 2026 :** 
+####  **Les opérations programmées au titre de l’année 2026 :** 
 
 Les actions programmées en 2026, dans le cadre du FSR, se présentent comme suit: 
 
@@ -1982,18 +1968,16 @@ Les actions programmées en 2026, dans le cadre du FSR, se présentent comme sui
 
 L’évolution des recettes et des dépenses du Fonds de délimitation, de préservation et de valorisation du domaine public maritime et portuaire durant la période 2023-2025, se présente comme suit : 
 
-**EVOLUTION DES RECETTES* ET DES DEPENSES DU FONDS AU TITRE DE LA PERIODE 2023-2025 ( EN MDH)** 
-
 
 
 <!-- Start of picture text -->
-165,77 165,88 170,06<br>13,19 9,50 8,25<br>_<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+EVOLUTION DES RECETTES* ET DES DEPENSES DU FONDS AU TITRE DE LA PERIODE 2023-2025 ( EN MDH)<br>165,77 165,88 170,06<br>13,19 9,50 _ 8,25<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
 Les dépenses programmées dans le cadre dudit Fonds, au titre de la période 2023-2025, a permis le lancement des principales actions suivantes : 
 
-54 
+54
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -2060,7 +2044,7 @@ Dans l'optique de promouvoir le sport de masse, un montant de 606,75 MDH a été
 
 L’évolution des recettes et des dépenses du Fonds de service universel de télécommunications  (FSUT) durant la période 2023-2025, se présente comme suit : 
 
-56 
+56
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -2097,7 +2081,7 @@ Le FSUT contribue au financement de la mise en œuvre de ce projet à hauteur de
 
 A fin 2025, 10.690 localités ont été déclarées couvertes par les services 2G/3G/4G. La réalisation du PNHD s’est accompagnée par le paiement, à partir du FSUT, en plusieurs versements, de subvention d’investissement d’un montant définitif de 612 MDH. 
 
-57 
+57
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -2173,7 +2157,7 @@ Le projet relatif aux lignes L5 et L6 fait partie de l’offre de transport en c
 
 La convention de mise à niveau du réseau bus dans le territoire de l’Etablissement de Coopération Intercommunale (ECI) « Al Baida » a été signée le 12 décembre 2019 pour une enveloppe budgétaire de 1.100,40 MDH. Vu la nature de l’investissement et son caractère urgent lié à la situation du transport public à Casablanca, le financement intégral du projet est assuré par 
 
-59 
+59
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -2241,7 +2225,7 @@ Les réalisations de ce programme au titre de la période 2023-2025, se présent
 
 
 
-61 
+61
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -2288,7 +2272,7 @@ Au titre de l’année 2026, les dotations prévisionnelles du Budget Général 
 
 L’évolution des recettes et des dépenses du Fonds national pour la protection de l’environnement et du développement durable (FNPEDD) durant la période 2023-2025, se présente comme suit : 
 
-62 
+62
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -2297,13 +2281,13 @@ L’évolution des recettes et des dépenses du Fonds national pour la protectio
 
 
 <!-- Start of picture text -->
-2 355,97<br>2 105,35<br>2 015,72<br>228,82<br>_ 58,07 102,77<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+2 355,97<br>2 105,35<br>2 015,72<br>1<br>228,82<br>58,07 102,77<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
 Le FNPEDD contribue au financement des projets liés à la gestion et la valorisation des Déchets Ménagers et Assimilés  et de lutte contre la pollution des secteurs industriels et artisanaux. 
 
-#####  **Projets liées au secteur des déchets :** 
+####  **Projets liées au secteur des déchets :** 
 
 Pour la période 2023-2025, un montant de 119,69 MDH a été consacré essentiellement pour le suivi de la mise en œuvre du Programme National des Déchets Ménagers et Assimilés (PNDM), en contribuant au financement des projets de réalisation des Centres d’Enfouissement et de Valorisation (CEV) et des Centres d’Enfouissement Technique (CET), ainsi que la réhabilitation et fermeture des décharges sauvages. 
 
@@ -2317,7 +2301,7 @@ Il convient également de souligner que, dans le cadre de la promotion de la val
 
 Le bilan des réalisations financières du PNDM au titre de la période 2023-2025, se présente comme suit : 
 
-63 
+63
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -2330,7 +2314,7 @@ _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_
 
 
 
-#####  **Projets de Valorisation des Déchets :** 
+####  **Projets de Valorisation des Déchets :** 
 
 S’agissant des projets de valorisation des déchets, ils représentent une continuité logique des réalisations du PNDM qui s’est fixé comme objectif de tri-recyclage des déchets, un taux de l’ordre de 20%. En outre, le développement des filières de valorisation des déchets constitue le premier pas d’une stratégie de sortie à moyen et long terme de l’option de mise en décharge et un pas vers l’application des concepts de l’économie circulaire. 
 
@@ -2346,25 +2330,25 @@ Ainsi, le bilan des réalisations financières afférent à ces projets, au titr
 
 
 
-#####  **Projets de de prévention et de lutte contre la pollution industrielle :** 
+####  **Projets de de prévention et de lutte contre la pollution industrielle :** 
 
-##### - **Mécanisme Volontaire de Dépollution Industrielle Hydrique (MVDIH) :** 
+#### - **Mécanisme Volontaire de Dépollution Industrielle Hydrique (MVDIH) :** 
 
 Le mécanisme volontaire de dépollution industrielle hydrique mis en place en 2011 dans le cadre du FNEDD, doté d’une enveloppe budgétaire de 100 MDH pour le financement des projets de traitement des rejets industriels liquides, a permis à ce jour d’appuyer 29 projets de mise en place de stations de traitement des rejets liquides industriels. 
 
-##### - **Mise à niveau environnementale du secteur de la poterie :** 
+#### - **Mise à niveau environnementale du secteur de la poterie :** 
 
 Dans ce cadre, une enveloppe budgétaire de 7,32 MDH a été allouée aux projets de remplacement de fours traditionnels polluants par des fours à gaz modernes, au profit des poteries de Zagora, Salé et Marrakech. 
 
 Le département du Développement Durable s’est également engagé dans le cadre de la convention de partenariat relative à la réalisation du programme d’aménagement et de 
 
-64 
+64
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
 construction de la cité d’artisanat à l’Oulja et la délocalisation des artisans des sites de production de la poterie situés dans la zone d’intervention de l’Agence pour l’Aménagement de la Vallée du Bouregreg, signée en 2022 et intégrant une contribution de 20 MDH dont 10 MDH versés au cours de la même année et 10 MDH versés au titre de l’année 2025. 
 
-##### - **Mise à niveau environnementale de l’activité oléicole :** 
+#### - **Mise à niveau environnementale de l’activité oléicole :** 
 
 Dans ce cadre, une convention de partenariat a été signée en 2020 afin d’appuyer tous les projets relatifs à la collecte, le traitement et/ou la valorisation des déchets issus du secteur oléicole et de définir les contributions de tous les Départements concernés au titre de la période 2020-2024. 
 
@@ -2384,7 +2368,7 @@ Le bilan des réalisations de la mise à niveau environnementale de l’activit�
 
 Les recettes mobilisées par le Fonds de lutte contre les effets des catastrophes naturelles (FLCN) en 2025, compte tenu du solde reporté **,** s’élèvent à 4.937,88 MDH contre 4.950,79 MDH en 2024 et 3.552,79 MDH en 2023. Quant aux dépenses réalisées, elles ont atteint 1.919,32 MDH en 2025 contre 1.619,64 MDH en 2024 et 1.541,36 MDH en 2023. 
 
-#####  **Projets cofinancés par le FLCN dans le cadre du programme de Gestion Intégrée des Risques Catastrophiques Naturelles et de la Résilience (PGIR) :** 
+####  **Projets cofinancés par le FLCN dans le cadre du programme de Gestion Intégrée des Risques Catastrophiques Naturelles et de la Résilience (PGIR) :** 
 
 Jusqu’à fin 2025, le FLCN a cofinancé 444 projets, d’un montant global de 5,78 MMDH, dont la part du FLCN s’élève à 2,08 MMDH. Ces projets sont répartis comme suit : 
 
@@ -2398,11 +2382,11 @@ Jusqu’à fin 2025, le FLCN a cofinancé 444 projets, d’un montant global de 
 
 - 10 projets concernant la prévention contre les tremblements de terre, pour un montant global de 47,22 MDH, dont la contribution du FLCN est de 28,94 MDH. 
 
-65 
+65
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
-#####  **Projets prévisionnels pour l’année 2026 :** 
+####  **Projets prévisionnels pour l’année 2026 :** 
 
 En plus des projets en cours de réalisation, de nouveaux projets feront l’objet de la procédure de sélection au titre de l’appel à projet en 2026. Dans ce cadre, 192 dossiers de projets ont été présentés par les Départements Ministériels, les Collectivités Territoriales, les Etablissements Publics et les Associations et qui sont en cours d’étude par la Commission Nationale de Sélection (CNS). 
 
@@ -2437,7 +2421,7 @@ Les dépenses effectuées dans le cadre dudit Fonds au titre de la période 2022
 
 
 
-66 
+66
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -2445,7 +2429,7 @@ A fin août 2026, les réalisations du Fonds ont porté, essentiellement, sur le
 
 De même le dernier trimestre de l’année 2026 et l’année 2027 connaitront, principalement, le versement de 10 MDH au titre de la dernière tranche nécessaire à l’achèvement du projet d’efficacité énergétique dans l’éclairage public dans la région de l’Oriental. 
 
-#### **SECTION V – DEVELOPPEMENT RURAL, AGRICOLE ET DE LA PECHE** 
+### **SECTION V – DEVELOPPEMENT RURAL, AGRICOLE ET DE LA PECHE** 
 
 Sept comptes d’affectation spéciale intervenant dans le domaine du développement rural, agricole et de la pêche, ont réalisé globalement 4,3 % du total des dépenses des CAS en 2025. L’évolution des recettes et des dépenses desdits CAS se présente comme suit : 
 
@@ -2469,7 +2453,12 @@ _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DES CAS INTERVENANT DANS LE DOMAINE DU DEVELOPPEMENT RURAL,<br>AGRICOLE ET DE LA PECHE AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>18 717   18 744<br>17 518<br>9 154<br>7 540   7 609<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+EVOLUTION DES RECETTES* ET DES DEPENSES DES CAS INTERVENANT DANS LE DOMAINE DU DEVELOPPEMENT RURAL,<br>AGRICOLE ET DE LA PECHE AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+18 717   18 744<br>17 518<br>9 154<br>7 540   7 609<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
@@ -2487,9 +2476,14 @@ EVOLUTION DES RECETTES* ET DES DEPENSES DU FDA AU TITRE DE LA PERIODE 2023-2025 
 
 
 <!-- Start of picture text -->
-6 913,85<br>6 449,69 6 451,86<br>5 772,31<br>5 265,90<br>4 544,05 一<br>一 一<br>2023 2024 2025<br>Recettes Dépenses<br>Compte tenu du solde reporté.<br>68<br><!-- End of picture text -->
+6 913,85<br>6 449,69 6 451,86<br>5 772,31<br>5 265,90<br>4 544,05<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
+
+
+
+<!-- Start of picture text -->
+68<br><!-- End of picture text -->
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -2538,7 +2532,7 @@ Les principales réalisations physiques du FDA, au titre de l’année 2025, ont
 
 - La plantation de 10.736 ha d’oliviers, 10 ha d’agrumes et 4.488 ha de rosacées et autres espèces fruitières; 
 
-69 
+69
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -2576,29 +2570,29 @@ Les recettes réalisées par le Fonds national forestier (FNF) en 2025, compte t
 
 L’état d’exécution des principales composantes des programmes financés dans le cadre de ce Fonds pour l’année 2025, se présente comme suit : 
 
-#####  **Animation territoriale pour une gestion durable des ressources forestières :** 
+####  **Animation territoriale pour une gestion durable des ressources forestières :** 
 
 À fin 2025, 94 Agents de Développement de Partenariat (ADP), ou animateurs territoriaux, ont été recrutés et déployés au niveau de plus de 130 communes territoriales et 73 Organismes de Développements Forestiers (ODF) ont été constitués et 36 autres sont en cours de création. Ces ADP et ODF constituent une interface entre l’administration forestière et la population locale, dont le rôle principal est de faire rapprocher la population des projets forestiers et son implication directe dans la gestion participative dans un cadre d’intérêts communs. 
 
 Aussi, 54 Plans de Développement Forestiers Communaux Participatifs (PDFCP) ont été élaborés 
 
-70 
+70
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
 et 70 autres sont en cours d’élaboration. Ce plan vise à assurer la préservation des ressources naturelles, à structurer l’organisation des acteurs locaux et à promouvoir une gestion collective, concertée et responsable, fondée sur la participation à la mise en œuvre et au suivi des programmes établis pour la commune concernée. 
 
-#####  **Compensation des mises en défens :** 
+####  **Compensation des mises en défens :** 
 
 Au cours de l’année 2025, la compensation de mise en défens s’est étendue à une superficie prévisionnelle d’environ 74.480 ha, touchant 196 associations et coopératives et impliquant environ 15.800 usagers, pour un budget prévisionnel estimé à environ 41,80 MDH. 
 
 Au titre de l’année 2025, la superficie ayant effectivement fait l’objet de paiements s’est établie à 56.851 ha, pour un montant global de 16,60 MDH. Ces paiements ont porté principalement sur les superficies inscrites au titre du contrat-programme de l’année 2024, ainsi que sur celles relevant des années antérieures. En revanche, une part plus limitée des paiements a concerné les superficies prévues dans le cadre du contrat-programme au titre de l’année 2025. 
 
-#####  **Aménagement des forêts urbaines et périurbaines (FUP) :** 
+####  **Aménagement des forêts urbaines et périurbaines (FUP) :** 
 
 Au titre de l’exercice 2025, l’Agence Nationale des Eaux et Forêts (ANEF) a poursuivi ses efforts en matière de développement, d’aménagement et de valorisation du réseau national des forêts urbaines et périurbaines. Les actions engagées ont porté sur la gestion courante et l’entretien de 38 FUP, pour un budget global de 23,50 MDH, ainsi que sur le lancement de trois études d’aménagement récréatif, pour un montant total de 1,20 MDH. Ces interventions visent à assurer la pérennité des aménagements, à améliorer les conditions d’accueil et de sécurité des visiteurs et à renforcer l’attractivité des espaces forestiers urbains et périurbains, dans une perspective de gestion durable. 
 
-#####  **Conservation et développement des forêts :** 
+####  **Conservation et développement des forêts :** 
 
 ###### **<mark>Reconstitution des écosystèmes forestiers :</mark>** 
 
@@ -2608,13 +2602,13 @@ Au titre de l’exercice 2025, l’Agence Nationale des Eaux et Forêts (ANEF) a
 
 A fin décembre 2025, les efforts consentis ont permis d’enregistrer des avancées significatives en matière d’accélération de l’exécution des études d’aménagement des forêts. Ces prestations couvrent une superficie globale d’environ 624.742 ha, dont 472.662 ha en phase d’élaboration des plans de gestion. 
 
-#####  **Equipements et Infrastructures :** 
+####  **Equipements et Infrastructures :** 
 
 Ce programme se divise en deux sous-programmes à savoir les infrastructures forestières et les équipements forestiers. Les efforts déployés portent à la fois sur la réalisation des actions nouvelles au titre de l’année 2025 et sur l’achèvement des actions reportées des années précédentes, témoignant ainsi d’une performance budgétaire tangible. 
 
 Pour les projets de voirie forestière, le bilan de mise en œuvre met en évidence : 
 
-71 
+71
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -2626,19 +2620,19 @@ Pour les projets d’équipements forestiers, la programmation annuelle vise à 
 
 Au titre de l’année 2025, 97 unités ont été engagées pour des opérations d’entretien et de réhabilitation, avec un financement de plus de 16 MDH. Ce budget couvre les bâtiments administratifs, les logements administratifs, les maisons forestières, ainsi que des projets programmés visant l’approvisionnement en eau et en électricité de 6 maisons forestières. 
 
-#####  **Gestion des risques climatiques :** 
+####  **Gestion des risques climatiques :** 
 
 La prévention contre les incendies de forêts est l'un des axes les plus importants portés par l’ANEF pour limiter le nombre et la superficie des incendies. Un budget total de 80 MDH a été mise en place par l’ANEF, au titre de l’année 2025, pour la prévention et la lutte contre les incendies de forêts. Ce budget se décline en plusieurs actions préventives et opérationnelles, incluant l'entretien de 120 km des tranchées pare-feu, le débroussaillement de 500 ha des abords des chemins forestiers, l'aménagement et l’entretien de 22 points d'eau, l’entretien de 4 postes de vigies et la mobilisation de 1.480 guetteurs d’incendies à l’échelle nationale. 
 
 Par ailleurs, l’ANEF a poursuivi, en 2025, le renforcement de son dispositif de surveillance et d’intervention, à travers le recrutement d’environ 1.500 agents pour la saison à haut risque, ainsi que l’acquisition de 20 nouveaux véhicules de première intervention, portant le parc total à environ 134 unités. Ces moyens, mobilisés au niveau des zones forestières les plus exposées, visent à améliorer les délais d’intervention et à renforcer l’efficacité opérationnelle sur le terrain. 
 
-#####  **Santé des forêts :** 
+####  **Santé des forêts :** 
 
 L’année 2025 a été caractérisée par un renforcement important des sorties de terrain et des missions de diagnostic sylvosanitaire contre les dépérissements forestiers. Ces missions ont été menées dans le cadre de commissions pluridisciplinaires (santé des forêts, sylviculture, aménagement, exploitation et recherche). Elles ont permis d’assurer un diagnostic approfondi de l’état sanitaire des peuplements, d’identifier les causes plausibles des dépérissements et de proposer des mesures de gestion sylvicole et phytosanitaire adaptées aux contextes locaux. 
 
 Ces missions ont permis de mieux caractériser les facteurs de vulnérabilité des peuplements, d’orienter les interventions sylvicoles et de limiter les risques de propagation d’agents biotiques secondaires. Elles ont également contribué à instaurer une approche plus opérationnelle de la gestion des crises phytosanitaires, en passant progressivement d’un simple constat des dégâts à la mise en œuvre de mesures concrètes de gestion et de restauration. 
 
-#####  **Conservation des eaux et des sols :** 
+####  **Conservation des eaux et des sols :** 
 
 ###### **Aménagement des bassins versants :** 
 
@@ -2655,7 +2649,7 @@ En 2025, le programme prévoit le traitement d’une superficie totale d’envir
 
 Pour l’année 2025, ce programme prévoit la fixation de 22 km de cordons dunaires et le traitement d’une superficie de 910 ha répartie sur 11 provinces. Aussi, les marchés engagés couvrent une superficie de 865 ha. 
 
-#####  **Conservation et valorisation des aires protégées :** 
+####  **Conservation et valorisation des aires protégées :** 
 
 En 2025, les principales actions entreprises en matière de conservation et valorisation des parcs nationaux, des aires protégées et de la protection de la nature, se présentent comme suit : 
 
@@ -2680,19 +2674,19 @@ L’évolution des recettes et des dépenses du Fonds de la chasse et de la pêc
 
 
 <!-- Start of picture text -->
-406,47<br>380,74<br>359,84<br>■<br>30 30<br>1 0<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+406,47<br>380,74<br>359,84<br>30 30<br>0<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
 Les principales actions réalisées en 2025 pour la conservation des ressources cynégétiques et piscicoles, se présentent comme suit : 
 
-#####  **Chasse et cynégétique :** 
+####  **Chasse et cynégétique :** 
 
 Au titre de la saison de chasse 2024/2025, l’ANEF a enregistré 1.639 amodiations couvrant près de 4,2 millions d’hectares, réparties entre 1.357 lots associatifs, 211 lots touristiques, 12 lots didactiques, 47 lots provinciaux et 12 immeubles ruraux. Ce dispositif a mobilisé plus de 66.000 chasseurs et généré des recettes de 58,54 MDH, en hausse de 7,19 % par rapport à la saison précédente. Ces ressources contribuent au financement des actions de conservation de la faune, de gestion durable des territoires de chasse et de soutien au développement rural. 
 
 Par ailleurs, au titre de l’année 2025, la valorisation cynégétique durable de la grande faune sauvage protégée a été renforcée grâce à des expériences pilotes de chasse au mouflon à 
 
-73 
+73
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -2700,7 +2694,7 @@ manchettes dans les enclos d’Iguer et de Tafoughalt, utilisant des armes à fe
 
 Enfin, dans le cadre de la convention de partenariat entre l'ANEF et la Fédération Royale Marocaine de Chasse (FRMC), des actions financées à hauteur de 5 MDH, dont 3 MDH assurés par l’ANEF, incluent la formation et la sensibilisation dans le domaine de la chasse, la lutte contre le braconnage, la réhabilitation et la protection de la faune sauvage et de son habitat, ainsi que des actions techniques d’intérêt pour le développement de la chasse au Maroc. 
 
-#####  **Pisciculture :** 
+####  **Pisciculture :** 
 
 En matière de mise en valeur piscicole des milieux aquatiques par le repeuplement, l’année 2025 a été marquée par la réalisation des actions suivantes : 
 
@@ -2717,7 +2711,7 @@ Les recettes et les dépenses du FDRZM ont atteint, respectivement, 4.509,19 MDH
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DU FDRZM AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>6 986,40<br>5 766,86<br>4 509,19<br>2 191,52 2 229,98<br>1 329,66<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+EVOLUTION DES RECETTES* ET DES DEPENSES DU FDRZM AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>6 986,40<br>5 766,86<br>4 509,19<br>2 191,52 2 229,98<br>1 329,66<br>L L<br>2023 2024 2025<br>Recettes ■ Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
@@ -2733,9 +2727,7 @@ Durant la période 2022-2025, l’essentiel des recettes réalisées par le FDRZ
 
 
 <!-- Start of picture text -->
-REPARTITION PAR PROGRAMME DES DEPENSES DU FDRZM AU TITRE DE LA PERIODE 2022-2025<br>Conventions et<br>partenariats<br>13%<br>PRDTS<br>87%<br><!-- End of picture text -->
-
-#####  **Programme de Réduction des Disparités Territoriales et Sociales :** 
+REPARTITION PAR PROGRAMME DES DEPENSES DU FDRZM AU TITRE DE LA PERIODE 2022-2025<br>Conventions et<br>partenariats<br>13%<br>PRDTS<br>87%<br>O<br> Programme de Réduction des Disparités Territoriales et Sociales :<br><!-- End of picture text -->
 
 A fin 2025, les principales réalisations physiques de ce programme financées par le FDRZM, par secteur, peuvent être résumées comme suit : 
 
@@ -2755,7 +2747,7 @@ A fin 2025, les principales réalisations physiques de ce programme financées p
 
 - **Emploi :** environ 356.000 emplois directs et indirects générés. 
 
-#####  **Autres programmes :** 
+####  **Autres programmes :** 
 
 En dehors du PRDTS, plusieurs actions ont été menées en partenariat avec les Collectivités Territoriales ainsi qu’avec les acteurs de la société civile et de l’économie sociale. Ces actions ont porté, en 2025, essentiellement sur le désenclavement de la population rurale et des zones de montagne par la réalisation, d’environ 500 Km de pistes/route rurales, l’aménagement de 4 Km de séguias, l’aménagement et l’équipement de 22 points d’eau, ainsi que l’acquisition de 190 citernes d’eau et le financement des études et assistance technique. 
 
@@ -2763,7 +2755,7 @@ En dehors du PRDTS, plusieurs actions ont été menées en partenariat avec les 
 
 A l'occasion du discours du trône du 29 juillet 2025, Sa Majesté le Roi Mohammed VI, Que Dieu L'Assiste a donné ses Hautes Instructions pour l'élaboration d'une nouvelle génération de programmes de développement territorial intégré, fondée sur la valorisation des spécificités locales, la consolidation de la régionalisation avancée et les principes de complémentarité et de solidarité entre les entités territoriales dans la perspective de garantir aux citoyens un accès 
 
-75 
+75
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -2805,7 +2797,7 @@ Pour ce qui est des dépenses, ce compte supportera les dépenses relatives au f
 
 L’évolution des recettes et des dépenses du Fonds de développement de la pêche maritime (FDPM), au titre de la période 2023-2025, se présente comme suit : 
 
-76 
+76
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -2816,18 +2808,19 @@ L’évolution des recettes et des dépenses du Fonds de développement de la p�
 <!-- Start of picture text -->
 306,51<br>264,51<br>234,34<br>164,23<br>80,42 76,94<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
 
-|(*) Compte tenu du solde reporté.<br>Les principales actions réalisées en 2025 d<br><br>Renforcement des compagnes de<br><br>Construction d'un marché de gros<br><br>Accompagnement des marins pêc<br><br>Mise en service et exploitation du c<br>Les principales actions programmées pou<br>**Rec**<br>|ans le cadre de ce Fonds, se présentent<br>prospections et maintenance des navire<br>de poisson à Nador ;<br>heurs victimes de l'attaque du grand da<br>entre de la mer à la ville d’Al Hoceima.<br>r l’année 2026, se présentent comme s<br>**ettes**<br>**Dépenses**<br>|comme suit :<br>s de recherche ;<br>uphin (NEGRO) ;<br>uit :<br> **(En MDH)**<br>|
+**Recettes Dépenses** (*) Compte tenu du solde reporté. Les principales actions réalisées en 2025 dans le cadre de ce Fonds, se présentent comme suit :  Renforcement des compagnes de prospections et maintenance des navires de recherche ;  Construction d'un marché de gros de poisson à Nador ;  Accompagnement des marins pêcheurs victimes de l'attaque du grand dauphin (NEGRO) ;  Mise en service et exploitation du centre de la mer à la ville d’Al Hoceima. Les principales actions programmées pour l’année 2026, se présentent comme suit : ~~<u>_</u>~~ **<u>(En MDH)</u>** 
+
+|**Objectifs**|**Actions programmées**|**Prévisions pour**<br>**l’année 2026**|
 |---|---|---|
-|**Objectifs**<br><br>|**Actions programmées**<br><br>|**Prévisions pour**<br>**l’année 2026**<br>|
-||**Financement**<br>**et**<br>**réalisation**<br>**du**<br>**programme**<br>**d’opérationnalisation**<br>**des**<br>**villages**<br>**de**<br>**pêcheurs**<br>**de**<br>**la**<br>**région**<br>**Laayoune-Sakia-Hamra**<br>|**50,65**|
-||**Construction d'un marché de gros de**<br>**poisson dans la ville de Nador**<br>|**22,50**|
-|**Renforcer les structures de commercialisation**<br>**et de modernisation**<br>|**Construction du Point de Débarquement**<br>**Aménagé (PDA) de Dikky dans la région**<br>**de Tanger**<br>|**10,00**|
-||**Construction d’une halle aux poissons**<br>**nouvelle génération au niveau du port de**<br>**Sidi Ifni**<br>|**10,00**|
-||**Construction et équipement du marché**<br>**de détails de poisson à Dakhla**<br>|**7,50**|
+||**Financement**<br>**et**<br>**réalisation**<br>**du**<br>**programme**<br>**d’opérationnalisation**<br>**des**<br>**villages**<br>**de**<br>**pêcheurs**<br>**de**<br>**la**<br>**région**<br>**Laayoune-Sakia-Hamra**|**50,65**|
+||**Construction d'un marché de gros de**<br>**poisson dans la ville de Nador**|**22,50**|
+|**Renforcer les structures de commercialisation**<br>**et de modernisation**|**Construction du Point de Débarquement**<br>**Aménagé (PDA) de Dikky dans la région**<br>**de Tanger**|**10,00**|
+||**Construction d’une halle aux poissons**<br>**nouvelle génération au niveau du port de**<br>**Sidi Ifni**|**10,00**|
+||**Construction et équipement du marché**<br>**de détails de poisson à Dakhla**|**7,50**|
 
 
 
-77 
+77
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -2847,11 +2840,11 @@ _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_
 
 
 
-##### **SECTION VI - AUTRES DOMAINES** 
+#### **SECTION VI - AUTRES DOMAINES** 
 
 Les comptes d’affectation spéciale intervenant dans les autres domaines représentent 12% du total des dépenses effectuées en 2025 par l’ensemble des CAS . 
 
-78 
+78
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -2925,11 +2918,11 @@ Les dépenses effectuées au cours de la période 2023-2025, dont le montant glo
 
 - Le paiement des dépenses relatives à la gestion active du domaine privé de l’Etat. 
 
-#####  **Mobilisation du foncier en appui à l’investissement :** 
+####  **Mobilisation du foncier en appui à l’investissement :** 
 
 Les réserves foncières mobilisées durant la période 2023-2025, s’élèvent à environ 94.329 ha, pour un investissement projeté de près de 164.882 MDH, permettant la création de 74.519 emplois dans divers secteurs économiques. 
 
-#####  **Ventilation par secteur d'activité :** 
+####  **Ventilation par secteur d'activité :** 
 
 La ventilation par secteur d’activité, au titre de la période 2023-2025, se présente comme suit : 
 
@@ -2947,26 +2940,26 @@ La ventilation par secteur d’activité, au titre de la période 2023-2025, se 
 
 - **Tourisme :** 211 projets d’une superficie globale de 3.211 ha ont été approuvés, pour un investissement projeté de l’ordre de 21.631 MDH et la génération de 10.954 emplois escomptés. 
 
-81 
+81
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
-#####  **Déclinaison Régionale :** 
+####  **Déclinaison Régionale :** 
 
 Au titre de la période 2023-2025, les trois régions de Dakhla-Oued Eddahab, Laâyoune-Sakia El Hamra et Guelmim-Oued Noun s’accaparent 93,3% de la superficie mobilisée. En termes de nombre de projets réalisés, environ 63% des projets sont concentrés au niveau de deux régions Dakhla-Oued Eddahab et Laâyoune-Sakia El Hamra. 
 
 
 
 <!-- Start of picture text -->
-PARTS DES REGIONS DANS LA SUPERFICIE TOTALE MOBILISEE AU TITRE DE LA PERIODE 2023-2025<br>Laayoune-Sakia EL Hamra<br>35,8 %<br>Autres régions<br>6,7 %<br>Guelmim-Oued Noun<br>12,9 %<br>Dakhla-Oued Eddahab<br>44,6 %<br><!-- End of picture text -->
+PARTS DES REGIONS DANS LA SUPERFICIE TOTALE MOBILISEE AU TITRE DE LA PERIODE 2023-2025<br>Laayoune-Sakia EL Hamra<br>35,8 %<br>Autres régions<br>6,7 %<br>Guelmim-Oued Noun<br>12,9 %<br>V<br>Dakhla-Oued Eddahab<br>44,6 %<br><!-- End of picture text -->
 
-#####  **Ventes de logements à leurs occupants :** 
+####  **Ventes de logements à leurs occupants :** 
 
 Durant la période 2023-2025, 1.562 unités ont été cédées à leurs locataires pour une enveloppe globale de 111,80 MDH. 
 
 ######  **Réalisation au titre de l’année 2026 :** 
 
-#####  **Appui du FRD aux programmes de développement régionaux :** 
+####  **Appui du FRD aux programmes de développement régionaux :** 
 
 Le Fond de remploi domanial intervient, également, dans l’accompagnement des projets structurants dans un cadre conventionnel. Il s’agit, notamment, de : 
 
@@ -2980,7 +2973,7 @@ Le Fond de remploi domanial intervient, également, dans l’accompagnement des 
 
 
 
-82 
+82
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -3008,7 +3001,7 @@ Les recettes réalisées en 2025 par le Fonds spécial pour le soutien des jurid
 
 Le bilan des réalisations dudit Fonds, par programme et par projet, au titre de la période 2023-2025, se présente comme suit : 
 
-83 
+83
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -3074,7 +3067,7 @@ L’évolution des recettes et des dépenses du Fonds spécial pour le soutien d
 
 
 <!-- Start of picture text -->
-1 140,43 1 143,75<br>981,65<br>775,94<br>705,96<br>599,82<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+1 140,43 1 143,75<br>981,65<br>775,94<br>705,96<br>599,82<br>2023 2024 2025<br>Recettes ■ Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
@@ -3082,7 +3075,7 @@ Les dépenses du ont concerné FSSAEP au titre de la période 2023-2025 , princi
 
 Les réalisations des programmes financés par le Fonds, au titre de l’année 2025, se présentent comme suit : 
 
-85 
+85
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -3120,7 +3113,7 @@ Les recettes et les dépenses du Fonds pour la promotion du paysage audiovisuel 
 
 
 <!-- Start of picture text -->
-713,48<br>565,03<br>507,54 476,94<br>383,18 348<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+713,48<br>565,03<br>507,54 476,94<br>383,18 348<br>2023 2024 2025<br>Recettes A Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
@@ -3159,7 +3152,7 @@ Les principales actions financées par ledit Fonds, au titre de l’année 2025,
 
 
 
-87 
+87
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -3190,7 +3183,7 @@ Les prévisions budgétaires des principaux programmes financés par ledit Fonds
 
 
 
-88 
+88
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -3225,7 +3218,7 @@ Les principaux projets totalement financés par ledit Fonds, au titre de la pér
 
 
 
-89 
+89
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -3239,10 +3232,12 @@ _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_
 
 Les recettes et les dépenses du Fonds de soutien à la sûreté nationale (FSSN) ont enregistré un accroissement annuel moyen, respectivement, de 9,71% et 43,53% durant la période 2023-2025. 
 
+**EVOLUTION DES RECETTES* ET DES DEPENSES DU FSSN AU TITRE DE LA PERIODE 2023-2025 (EN MDH)** 
+
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DU FSSN AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>3 056,33<br>2 853,50<br>2 539,30<br>882,08<br>428,18 L 418,63<br>_<br>2023 2024 2025<br>■ Recettes Dépenses<br><!-- End of picture text -->
+3 056,33<br>2 853,50<br>2 539,30<br>882,08<br>428,18 418,63<br>_<br>2023 2024 2025<br>Y Recettes Dépenses<br><!-- End of picture text -->
 
 ###### (*) Compte tenu du solde reporté. 
 
@@ -3258,7 +3253,7 @@ Les principales dépenses totalement effectuées dans le cadre du FSSN, au titre
 
 
 
-90 
+90
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
@@ -3269,7 +3264,7 @@ Les recettes et les dépenses effectuées par le Fonds de modernisation de l’a
 
 
 <!-- Start of picture text -->
-EVOLUTION DES RECETTES* ET DES DEPENSES DU FONDS AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>( Recettes ) ( Dépenses )<br>837,47<br>3500 900<br>3 225,89<br>0<br>3000 0 ▲ 800<br>2 742,17<br>700<br>2500 769,02<br>600<br>2000 500<br>1500 1 414,78 400<br>K<br>300<br>1000 357<br>200<br>500<br>100<br>0 0<br>2023 2024 2025<br>Recettes Dépenses<br><!-- End of picture text -->
+EVOLUTION DES RECETTES* ET DES DEPENSES DU FONDS AU TITRE DE LA PERIODE 2023-2025 (EN MDH)<br>( Recettes ) ( Dépenses )<br>837,47<br>3500 900<br>3 225,89<br>800<br>3000<br>2 742,17<br>700<br>2500 769,02<br>600<br>2000 500<br>1500 1 414,78 400<br>300<br>1000 357<br>200<br>500<br>100<br>0 0<br>2023 2024 2025<br>I Recettes Dépenses<br><!-- End of picture text -->
 
 (*) Compte tenu du solde reporté. 
 
@@ -3294,7 +3289,7 @@ Au titre de la période 2023-2025, le bilan des réalisations dudit Fonds, décl
 
 
 <!-- Start of picture text -->
-91<br>_<br><!-- End of picture text -->
+91<br><!-- End of picture text -->
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE  2027_ 
 
@@ -3323,11 +3318,11 @@ Les dépenses ordonnancées, par programme, durant la période 2023-2025, se pr�
 
 **RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR** 
 
-### **ANNEXES** 
+## **ANNEXES** 
 
 SITUATION DES RECETTES ET DES DEPENSES DES COMPTES D’AFFECTATION SPECIALE PAR DOMAINE D’INTERVENTION AU TITRE DE LA PERIODE 2023-2025 
 
-93 
+93
 
 RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR 
 
@@ -3349,7 +3344,7 @@ RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR
 
 
 
-95 
+95
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE 2026_ 
 
@@ -3378,7 +3373,7 @@ _PROJET DE LOI DE FINANCES POUR L’ANNEE 2026_
 
 
 
-96 
+96
 
 RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR 
 
@@ -3403,7 +3398,7 @@ RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR
 
 
 
-97 
+97
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE 2026_ 
 
@@ -3427,7 +3422,7 @@ _PROJET DE LOI DE FINANCES POUR L’ANNEE 2026_
 
 
 
-98 
+98
 
 RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR 
 
@@ -3452,7 +3447,7 @@ RAPPORT SUR LES COMPTES SPECIAUX DU TRESOR
 
 (*) : L’intitulé de ce CAS a été modifié par la loi de finances pour l’année 2026 pour devenir le « Fonds de développement territorial intégré ». 
 
-99 
+99
 
 _PROJET DE LOI DE FINANCES POUR L’ANNEE 2026_ 
 
@@ -3478,7 +3473,7 @@ _PROJET DE LOI DE FINANCES POUR L’ANNEE 2026_
 
 
 
-100 
+100
 
 Le Ministère de l’Economie, des Finances 
 
@@ -3498,5 +3493,4 @@ www.x.com/financesmaroc
 
 **Le site LOF** 
 
-http://lof.finances.gov.ma 
-
+http://lof.finances.gov.ma

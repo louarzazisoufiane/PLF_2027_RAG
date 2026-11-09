@@ -1,10 +1,10 @@
-
-
 Royaume du Maroc 
 
-Ministère de 'Economie et des Finances 
 
-Projet de Loi de Finances pour l’année budgétaire 2027 V 
+
+Ministère de l'Economie et des Finances 
+
+Projet de Loi de Finances pour l’année budgétaire 2027 
 
 RAPPORT D’EXECUTION BUDGETAIRE ET DE CADRAGE MACROECONOMIQUE TRIENNAL 
 
